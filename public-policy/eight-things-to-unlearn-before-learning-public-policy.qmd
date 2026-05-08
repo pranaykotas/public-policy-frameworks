@@ -1,0 +1,77 @@
+---
+title: "Eight Things to Unlearn Before Learning Public Policy"
+summary: "Common misconceptions that have to be cleared before frameworks become useful."
+categories: [Public Policy]
+date: 2026-05-03
+image: "../images/defaults/public-policy.png"
+tags:
+  - decision-making
+  - problem-definition
+  - state-capacity
+use_cases:
+  - "When entering a new policy domain and need to clear common mental models first"
+  - "When training new analysts or students in realistic policy thinking"
+  - "When attributing every policy failure to corruption and missing design or capacity problems"
+  - "When a newsroom or classroom defaults to 'more rules needed' after any scandal"
+  - "When a short-term scheme announcement is mistaken for a long-term structural strategy"
+  - "When technical expertise is treated as sufficient for policy success without political economy"
+---
+
+::: {.card-meta}
+[Public Policy]{.badge} [meta]{.badge} [learning]{.badge}
+:::
+
+> Frameworks are only useful when the ground beneath them is clear. These eight misconceptions are the rocks that need to be removed before any framework can take root.
+
+## Origin
+
+This is a meta-framework — a checklist of intellectual habits that block clear policy thinking. The items were compiled from years of teaching and writing about public policy, observing the same errors recur in classrooms, newsrooms, and government corridors.
+
+## What it says
+
+
+**1. Good intentions are not good outcomes.**
+The most expensive mistake in policy is to judge a scheme by its intent rather than its effect. Intent is cheap; effect is costly. Every failed policy was launched with good intentions. The relevant question is not "what did they mean to do?" but "what actually happened?"
+
+**2. The state cannot fix everything.**
+Some problems are not amenable to state intervention — they are too complex, too local, or too deeply embedded in social structure. Recognising the limits of state capacity is the first move of realistic policy design. The Indian state's chronic overreach — regulating mosquito racquets, banning RO purifiers, capping pizza toppings — is the price of ignoring this truth.
+
+**3. There is no single right answer.**
+Policy problems are not physics equations. They involve competing values, uncertain causation, and distributional trade-offs. A framework that yields one correct answer is not a framework; it is a dogma. Useful policy thinking produces better questions, not final answers.
+
+**4. More rules do not mean better governance.**
+India's regulatory code is already among the densest in the world. Adding another layer of rules to a system that cannot enforce existing ones is not reform; it is avoidance. Simplification and repeal are harder and more valuable than legislation.
+
+**5. Corruption is not the only reason policies fail.**
+Attributing every failure to corruption is intellectually lazy. Many policies fail because of poor design, thin state capacity, misaligned incentives, or simple ignorance of ground conditions. Corruption is a symptom of these deeper pathologies, not their root cause.
+
+**6. The market is not always better than the state.**
+The opposite error is equally common: assuming that privatisation, deregulation, or market mechanisms will automatically improve outcomes. Markets fail too — in public goods, externalities, information asymmetries, and natural monopolies. The relevant question is not "state or market?" but "which instrument for which problem?"
+
+**7. Expertise is necessary but not sufficient.**
+Technical knowledge — economics, law, engineering — is essential to good policy. But it is not enough. Politics, administration, culture, and history shape outcomes as much as technical design. The most elegant policy memo is worthless if it ignores the political economy of implementation.
+
+**8. Short-term fixes do not solve long-term problems.**
+The temptation to announce a quick scheme, capture the headlines, and move on is strong in democratic politics. But structural problems — urbanisation, education quality, climate adaptation, fiscal sustainability — require sustained attention over decades. A new programme every year is not a strategy; it is a distraction.
+
+## Applied
+
+Every edition of this newsletter is, in some sense, an exercise in unlearning. The PolicyWTF section documents cases where one or more of these misconceptions produced expensive failure. The framework cards that follow offer tools for thinking more clearly — but only after the ground has been cleared.
+
+## When it falls short
+
+The list is not exhaustive. Different contexts produce different misconceptions. In authoritarian settings, the relevant unlearning might be about the limits of coercion. In fragile states, it might be about the impossibility of technocratic neutrality. The eight items here are calibrated for a democratic, developing-country context.
+
+## Related frameworks
+
+- [Wicked Problems](wicked-problems.qmd) — why some problems resist clean definition and single answers.
+- [Public Policy Solutionism](public-policy-solutionism.qmd) — the instinct to reach for clean solutions where they do not exist.
+- [How to Analyse an Analysis](../society/how-to-analyse-an-analysis.qmd) — a meta-framework for evaluating the analyses you read.
+
+## Further reading
+
+- Kelkar, V., & Shah, A. (2019). *In Service of the Republic: The Art and Science of Economic Policy*. Penguin Allen Lane.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Things to Unlearn Before Learning Public Policy*](https://publicpolicy.substack.com/i/36985100/a-framework-a-week-things-to-unlearn-before-learning-public-policy) on *Anticipating the Unintended*.
+:::

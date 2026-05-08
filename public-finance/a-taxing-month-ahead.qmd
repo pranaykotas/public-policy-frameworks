@@ -1,0 +1,64 @@
+---
+title: "A Taxing Month Ahead"
+summary: "What’s a budget without new taxes, fees, cesses, or surcharges? As the budget date nears, let’s understand the categorical differences between these four seemingly interchangeable terms."
+categories: [Public Finance]
+date: 2026-05-03
+image: "../images/defaults/public-finance.png"
+tags:
+  - taxation
+  - fiscal-federalism
+  - centre-state
+  - budget
+use_cases:
+  - "When analysing the fiscal implications of a new cess or surcharge"
+  - "When a Union budget expands cesses to grow revenue outside the divisible pool"
+  - "When explaining the difference between a tax, fee, cess, and surcharge"
+  - "When advising state governments on raising user-charge revenue without central encroachment"
+  - "When diagnosing why states' share of actual devolution is lower than the Finance Commission formula implies"
+  - "When a new education cess reveals the state has failed to use existing taxes for their stated purpose"
+---
+
+::: {.card-meta}
+[Public Finance]{.badge} [federalism]{.badge} [institutions]{.badge}
+:::
+
+> A tax is the purest economic manifestation of the state’s monopoly over the legitimate use of force within its territory.
+
+## Origin
+
+Explored in the *Anticipating the Unintended* newsletter, drawing on Indian fiscal practice and the Vidhi Centre for Legal Policy's work on cesses and surcharges.
+
+## What it says
+
+
+Governments extract revenue through four instruments with distinct institutional implications. A **tax** is unrequited — no specific service is promised — and flows into the consolidated fund. A **fee** is quid pro quo, tied to a specific service. A **cess** is earmarked for a purpose but escapes the divisible pool, letting the Centre keep more. A **surcharge** is a tax on a tax, also outside the divisible pool, with no earmarking. The differences are not semantic; they determine who controls the money and who shares it. By raising cesses and surcharges, the Union government effectively shrinks the pool shared with states, altering centre-state fiscal relations without changing the constitutional devolution formula. This makes cesses and surcharges powerful tools for fiscal centralisation disguised as special-purpose levies.
+
+## Applied
+
+- A surcharge is the worst form of tax, closely followed by a cess. Always be sceptical of these two. 
+- Charging a cess for a basic public service like education is an admission by the government that it is not using the money collected through taxes in ways it should. 
+- When analyzing Union budgets to spot whether the Union is tilting revenue collection away from the divisible pool.
+- When evaluating local government finances — fees are less distortionary than taxes for private services.
+- When assessing whether a new levy is constitutionally and fiscally appropriate for its stated purpose.
+- When advising state governments on how to raise their own revenue through fees and user charges without central encroachment.
+- When comparing India's revenue mix to other federal systems that rely more heavily on fees and local taxes.
+
+## When it falls short
+
+- The framework is a taxonomy, not a normative theory — it does not tell you how much any government should tax.
+- In practice, governments blur categories for political convenience; legal form and fiscal substance often diverge.
+- It does not account for the political economy of naming: a cess may be easier to sell to voters than a tax hike, even if the economic effect is identical.
+
+## Related frameworks
+
+- [[Three Functions of the State]](../public-finance/three-functions-of-the-state.qmd)
+- [[The Domar Rule]](../public-finance/domar-rule.qmd)
+- [[A useful thumb rule:]](../public-finance/a-useful-thumb-rule.qmd)
+
+## Further reading
+
+- [Original newsletter essay](https://publicpolicy.substack.com/p/100-intoxicating-eardrops-)
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: A Taxing Month Ahead*](https://publicpolicy.substack.com/p/100-intoxicating-eardrops-) on *Anticipating the Unintended*.
+:::

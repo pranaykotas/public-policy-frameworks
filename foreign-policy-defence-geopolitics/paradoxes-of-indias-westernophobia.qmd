@@ -1,0 +1,61 @@
+---
+title: "Paradoxes of India's Westernophobia"
+summary: "Contradictions in how India relates to Western powers — economically, strategically, and rhetorically."
+categories: ["Foreign Policy & Geopolitics"]
+date: 2026-05-03
+image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+tags:
+  - narrative
+  - international-relations
+  - decision-making
+  - political-economy
+use_cases:
+  - "When confronting the Vishwaguru-Victim paradox: India cannot simultaneously claim geopolitical indispensability and argue it is too weak to side with the West"
+  - "When testing whether India Twitter's Westernophobia represents broader Indian opinion — showing the 64 per cent who rate India-US as the top bilateral"
+  - "When the 'India-Russia partnership weans Russia from China' argument needs to be deflated using GDP-per-capita and trade-structure data"
+  - "When Russia-Ukraine tensions force India's foreign policy establishment to confront outdated lessons drawn from 1971 and Afghanistan"
+  - "When emotional or historical barriers are preventing closer US alignment and the three paradoxes need to be surfaced and named"
+  - "When the US can reduce India's Westernophobia by backing UNSC inclusion, reducing technology transfer barriers, and deepening the technology alliance"
+---
+
+::: {.card-meta}
+[Foreign Policy, Defence & Geopolitics]{.badge} [India-US]{.badge} [strategic-autonomy]{.badge}
+:::
+
+> India has to leverage this situation and change the US-EU-China triangle into a rectangle.
+
+## Origin
+
+This framework was developed by Pranay Kotasthane for the *India Policy Watch* section of *Anticipating the Unintended*, during the Russia-Ukraine war, when India's geopolitical stance came under Western scrutiny. It builds on an earlier tri-axis model of bilateral relationships.
+
+## What it says
+
+
+The analysis begins with K. Subrahmanyam's enduring principle: in a three-person game where America is Number One, China is Number Two, and India is lower down, it is in India's best interest to ensure that America remains Number One. With intense US-China contestation, convergence between the West and India is at an all-time high.
+
+And yet, a streak of Westernophobia — particularly anti-Americanism — persists. The framework maps this through three paradoxes:
+
+**Paradox 1: Vishwaguru and Victim.** Many Indians believe India's concurrence is indispensable for any future global order. Yet the same people hold that India is a victim of circumstances — too weak to call out Russia, too vulnerable to ally with the US. Only one of these can be true. Either India has leverage and should use it, or it needs to gain power quickly through collaboration with richer partners.
+
+**Paradox 2: Three is Better than Two.** Many believe a closer India-Russia partnership can wean Russia away from China. This is fantastical: India's GDP per capita is a fifth of Russia's and China's, and the Russia-India partnership is a single-track defence trade relationship. With RIC, the successor to Western unipolarity will not be multipolarity but a Sinocentric order.
+
+**Paradox 3: Silent Majority vs Vocal Minority.** A Takshashila Global Outlook Survey found that 64 per cent of non-expert respondents rated India-US as the most important bilateral relationship — far ahead of Russia at 10 per cent. The Westernophobia of India Twitter is not representative.
+
+## Applied
+
+The framework suggests that India's foreign policy establishment has largely managed the state-to-state relationship well (Quad 2.0, defence agreements). The people-to-people relationship is strong. The problem is the **state-to-people axis**: many Indians still harbour deep frustration with the American state, drawing lessons from 1971 and Afghanistan that are outdated.
+
+Resolving these paradoxes is a key policy challenge. The US can help by backing India's UNSC inclusion, reducing technology transfer barriers, and deepening the technology alliance.
+
+## When it falls short
+
+The framework treats Westernophobia as primarily an Indian problem. It understates legitimate American inconsistencies — on Pakistan, on immigration, on technology access — that fuel Indian scepticism. It also does not address the domestic political incentives for some Indian leaders to stoke anti-Western sentiment.
+
+## Related frameworks
+
+- [How Democratic States Perceive Each Other](how-democratic-states-perceive-each-other.qmd) — the perceptual mechanics that sustain these paradoxes.
+- [Aap Hamaare Hain Kaun, Russia?](aap-hamaare-hain-kaun-russia.qmd) — the hardheaded case for rebalancing away from Russia.
+
+::: {.attribution}
+Originally explored in [*India Policy Watch: The Paradoxes of India's Westernophobia*](https://publicpolicy.substack.com/i/51486065/india-policy-watch-the-paradoxes-of-indias-westernophobia) on *Anticipating the Unintended*.
+:::

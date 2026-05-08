@@ -1,0 +1,64 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - frameworks.json
+    - images/
+    - scripts/finder.js
+
+website:
+  title: "Frameworks for Public Policy"
+  description: "A growing collection of mental models for thinking about policy — drawn from books, papers, and a decade of writing at Anticipating the Unintended."
+  site-url: https://frameworks.pranaykotas.com
+  favicon: favicon.png
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    pinned: true
+    left:
+      - text: "Browse"
+        menu:
+          - text: "Public Policy"
+            href: public-policy/index.qmd
+          - text: "Political Thinking"
+            href: political-thinking/index.qmd
+          - text: "Public Finance"
+            href: public-finance/index.qmd
+          - text: "Foreign Policy & Geopolitics"
+            href: foreign-policy-defence-geopolitics/index.qmd
+          - text: "Society"
+            href: society/index.qmd
+          - text: "Universe"
+            href: universe/index.qmd
+      - text: "About"
+        href: about.qmd
+    right:
+      - icon: substack
+        href: https://publicpolicy.substack.com
+        aria-label: Anticipating the Unintended on Substack
+  open-graph:
+    site-name: "Frameworks for Public Policy"
+  page-footer:
+    left: |
+      Companion to [publicpolicy.substack.com](https://publicpolicy.substack.com).
+      Curated by [Pranay Kotasthane](https://pranaykotas.com).
+    right: |
+      Built with [Quarto](https://quarto.org).
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: true
+    toc-depth: 3
+    css: styles.scss
+    fontsize: 1.05em
+    linestretch: 1.6
+    grid:
+      sidebar-width: 240px
+      body-width: 760px
+      margin-width: 220px
+    anchor-sections: true
+    smooth-scroll: true
+    code-copy: false

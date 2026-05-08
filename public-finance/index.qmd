@@ -1,0 +1,22 @@
+---
+title: "Public Finance"
+description: "State functions, debt sustainability, taxation, and fiscal federalism."
+listing:
+  contents: "*.qmd"
+  type: grid
+  grid-columns: 2
+  fields: [image, title, summary]
+  field-display-names:
+    title: "Framework"
+    summary: "What it says"
+  image-height: "180px"
+  sort:
+    - "title asc"
+  filter-ui: true
+  sort-ui: false
+  page-size: 50
+---
+
+Frameworks in this section concern the economic role of the state — what it should do, how it should pay for it, and how to know when borrowing is too much.
+
+If you are new here, start with **The Three Functions of the State** (allocation, distribution, stabilisation — why governments do what they do) and **The Domar Rule** (the surprisingly simple arithmetic that tells you whether debt is sustainable). Public finance sits at the intersection of economics and politics; most real-world fiscal debates make more sense once you have these two anchors in place.

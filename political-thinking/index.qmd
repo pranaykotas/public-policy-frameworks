@@ -1,0 +1,22 @@
+---
+title: "Political Thinking"
+description: "How political coalitions form, narratives travel, and ideas become acceptable."
+listing:
+  contents: "*.qmd"
+  type: grid
+  grid-columns: 2
+  fields: [image, title, summary]
+  field-display-names:
+    title: "Framework"
+    summary: "What it says"
+  image-height: "180px"
+  sort:
+    - "title asc"
+  filter-ui: true
+  sort-ui: false
+  page-size: 50
+---
+
+Frameworks in this section concern the *politics* of policy — why some ideas spread and others die, how interest groups organise, and what shifts the boundaries of the politically possible.
+
+If you are new here, start with **The Overton Window** (the idea that political acceptability is a moving range, not a fixed point) and **Kingdon's Three Streams** (how policy windows open when a problem, a solution, and the right political moment converge). These two frameworks together explain most of how ambitious policy actually gets done — or fails to. The others in this section extend and complicate this picture.

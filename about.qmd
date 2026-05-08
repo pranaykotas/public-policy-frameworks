@@ -1,0 +1,74 @@
+---
+title: "About this site"
+---
+
+## What this is
+
+A reference site for public policy frameworks: concepts, models, and ways of thinking that policy practitioners and students return to often.
+
+Each framework gets a short page covering what it says, where it came from, how it applies in practice, and where it falls short. Most pages link to the original thinker's work for deeper reading.
+
+## What this is not
+
+Some frameworks on this site originated in the newsletter — concepts and models developed there to explain a recurring pattern in policy. Others come from political scientists, economists, public administration scholars, and practitioners whose work I have found useful and worth explaining to a wider audience. Where a framework is drawn from existing literature, the references on each page point to the original source.
+
+If a framework here is useful to you, please go to the original source.
+
+## How it relates to *Anticipating the Unintended*
+
+This is a companion site to [publicpolicy.substack.com](https://publicpolicy.substack.com), the newsletter I co-write with RSJ. For 300+ editions, the newsletter has carried a recurring feature called *A Framework a Week*, short essays explaining one framework at a time. The pages on this site are condensed, structured versions of those essays, organised by category and made browsable.
+
+When a card draws on a co-authored newsletter post, the co-author is acknowledged at the bottom of that page.
+
+## Who it's for
+
+- **Students** trying to build a working vocabulary for policy analysis.
+- **Practitioners** — civil servants, think-tank analysts, journalists — looking for a framework to apply to a problem on their desk.
+- **Curious readers** who want to understand how policy thinkers approach the world.
+
+## A note on frameworks
+
+Frameworks are useful starting points, not final answers. Every framework simplifies — that is what makes it useful, and also what makes it dangerous when applied without care. Read them, use them, and discard them when they stop fitting the problem.
+
+## Books on framework-based thinking
+
+Two books develop this mode of thinking at length — useful if you want to go beyond the reference cards here.
+
+::::: {.columns}
+
+:::: {.column width="50%"}
+[![Missing in Action — Why You Should Care About Public Policy (Penguin, 2023)](https://pranaykotas.com/images/Missing-in-Action-Front.jpg){width="180px" style="border-radius:4px; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://www.amazon.in/Missing-Action-should-about-policy/dp/0143461737)
+
+**Missing in Action** (Penguin, 2023)
+with Raghu S Jaitley
+A primer on public policy reasoning for the Indian citizen — why policy fails, how to read it, and what frameworks make the difference.
+::::
+
+:::: {.column width="50%"}
+[![We the Citizens — Why Indians Need to Think About Public Policy More (Penguin, 2024)](https://pranaykotas.com/images/we_the_citizens.jpg){width="180px" style="border-radius:4px; box-shadow:0 2px 8px rgba(0,0,0,0.15);"}](https://www.amazon.in/We-Citizens-Indians-Policy-Think/dp/0143469509)
+
+**We the Citizens** (Penguin, 2024)
+with Khyati Pathak & Anupam Manur
+Extends the same framework-first approach to the citizen's relationship with the Indian state — taxation, subsidies, public goods, and more.
+::::
+
+:::::
+
+## Learn framework-based policy thinking
+
+If you want to develop this kind of thinking seriously, the Takshashila Institution offers two programmes:
+
+| Programme | Format | Focus |
+|-----------|--------|-------|
+| [**GCPP** — Graduate Certificate in Public Policy](https://takshashila.org.in/pages/policy-school/gcpp.html) | 12-week online | Core policy frameworks, with specialisations in Applied Policy, Technology Policy, and Defence & Foreign Affairs |
+| [**PGP** — Post Graduate Programme in Public Policy](https://takshashila.org.in/pages/policy-school/pgp.html) | 48-week hybrid | Full postgraduate curriculum for those who want a deeper policy career |
+
+Both programmes are taught by practitioners and draw on the same frameworks catalogued here.
+
+## Suggest a framework
+
+Know a framework that belongs here? [Email a suggestion](mailto:pranay.kotasthane@gmail.com?subject=Framework%20suggestion) with the name, where it comes from, and why it's useful. No guarantees, but good ones get added.
+
+## Contact
+
+[pranaykotas.com](https://pranaykotas.com) · [Substack](https://publicpolicy.substack.com)

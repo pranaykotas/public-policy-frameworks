@@ -1,0 +1,65 @@
+---
+title: "When Conditions Become Policy Problems"
+summary: "The process by which a fact about the world acquires the status of a policy problem requiring action."
+categories: [Public Policy]
+date: 2026-05-03
+image: "../images/defaults/public-policy.png"
+tags:
+  - problem-definition
+  - narrative
+  - political-economy
+use_cases:
+  - "When trying to move a chronic issue onto the political agenda"
+  - "When analysing how a problem definition was manufactured or contested"
+  - "When Delhi's air quality became a judicially enforced problem after WHO ranked it worst globally"
+  - "When ease-of-doing-business indices converted a structural condition into a political pressure"
+  - "When the category a problem is placed in determines which ministry and tools respond"
+  - "When a condition is reframed from a 'social issue' to a 'macroeconomic constraint' to unlock resources"
+---
+::: {.card-meta}
+[Public Policy]{.badge} [agenda-setting]{.badge} [problem-definition]{.badge}
+:::
+
+> Conditions are situations we hate, but we put up with them anyway. Such conditions come to be defined as problems only when we realise something must be done about them.
+
+## Origin
+
+The framework comes from John Kingdon’s seminal *Agendas, Alternatives, and Public Policies* (1984), which proposes that policy change happens when three streams — problems, policies, and politics — converge in a "window of opportunity." The *Anticipating the Unintended* newsletter zoomed in on Kingdon’s distinction between conditions and problems.
+
+## What it says
+
+
+A **condition** is a chronic state of affairs: bad air quality, periodic droughts, slow judicial process. A **problem** is a condition that has acquired urgency and a demand for action. Kingdon identifies three mechanisms by which conditions become problems:
+
+**1. Violation of core values**
+When a condition clashes with a deeply held value, the mismatch manufactures a problem definition. The current dispensation converted "temple destruction by invaders centuries ago" into a live problem by framing it as a violation of civilisational pride. Conversely, predictable droughts remain conditions because they have not yet been framed as violations of a core right.
+
+**2. Comparisons**
+Relative decline vis-à-vis a competitor or benchmark helps. Indices — ease of doing business, PISA scores, hunger indexes — create the illusion that ambiguous phenomena can be precisely numbered, pitting states and nations against each other and manufacturing political pressure.
+
+**3. Problem category**
+The category in which a condition is placed has disproportionate impact. Handicapped activists in the 1970s demanded retrofitting subways. Transit operators argued dial-a-ride was cheaper. The issue turned on classification: if a **civil rights** issue, equal access was mandatory; if a **transportation** issue, other solutions were appropriate. The category determined the policy response.
+
+## Applied
+
+India’s air pollution was a condition for decades; it became a problem only when the WHO declared Delhi the world’s most polluted capital and the Supreme Court began monitoring air quality indices. The comparison mechanism converted a condition into a judicially enforceable problem.
+
+Similarly, women’s labour force participation was a condition; it became a problem when it was framed as a violation of economic rights and an obstacle to demographic-dividend realisation. The category shift — from "social issue" to "macroeconomic constraint" — changed which ministries and policies were brought to bear.
+
+## When it falls short
+
+Problem definition is deeply strategic. Change agents manipulate categories, cherry-pick comparisons, and invoke contested values to manufacture urgency. The framework describes the mechanisms but does not adjudicate which are legitimate. It also underpredicts path dependence: once a condition is defined as a problem, it is hard to redefine it back, even when the policy response fails.
+
+## Related frameworks
+
+- [Wicked Problems](wicked-problems.qmd) — what happens when a condition is so contested that it cannot be stabilised as a problem.
+- [Good Policy Problem Definition](good-policy-problem-definition.qmd) — the criteria that make a problem statement usable rather than strategic.
+- [Seven Stages of the Policy Pipeline](seven-stages-policy-pipeline.qmd) — where agenda-setting sits in the long chain from fact to law.
+
+## Further reading
+
+- Kingdon, J. W. (1984). *Agendas, Alternatives, and Public Policies*.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: When Do Conditions Become Problems?*](https://publicpolicy.substack.com/i/139645573/a-framework-a-week-when-do-conditions-become-problems) on *Anticipating the Unintended*.
+:::

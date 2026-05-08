@@ -1,0 +1,67 @@
+---
+title: "Dictatorship and Democracy in Israel and Pakistan"
+summary: "A comparative reading of two states often analogised — and what the analogy hides."
+categories: ["Foreign Policy & Geopolitics"]
+date: 2026-05-03
+image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+tags:
+  - institutions
+  - state-capacity
+  - international-relations
+  - political-economy
+use_cases:
+  - "When explaining why Israel sustained democracy and Pakistan did not, despite both being religious minority states with strong security establishments"
+  - "When assessing how Ben-Gurion's coup-proofing measures and the Muslim League's weak institutionalisation produced opposite civil-military outcomes"
+  - "When designing institutional safeguards in a newly formed state during the formative decade when civil-military paths are set"
+  - "When explaining why Bangladesh managed a more durable democratic practice than Pakistan despite inheriting the same military DNA"
+  - "When a fragile democracy faces a strong military and the question is whether the formative-year institutional choices are still reversible"
+  - "When warning that Pakistan's democratic struggles are not merely about present-day leaders but partly determined by 1947-57 decisions"
+---
+
+::: {.card-meta}
+[Foreign Policy, Defence & Geopolitics]{.badge} [civil-military]{.badge} [comparative]{.badge}
+:::
+
+> The mediating variable between democracy and dictatorship is the status of civil-military relations in the formative years.
+
+## Origin
+
+This framework was developed by Pranay Kotasthane in 2017, drawing on Steven Wilkinson's book *Army and Nation*, to explain a puzzle: why have Israel and Pakistan — two religious states created for persecuted minorities, with powerful military-security establishments — ended up on such different political trajectories?
+
+## What it says
+
+
+The similarities are well-documented. As Faisal Devji argues in *Muslim Zion*, both states came into being through the migration of a minority population fearing persecution. Gen Zia-ul-Haq himself said: "Pakistan is like Israel, an ideological state. Take out the Judaism from Israel and it will fall like a house of cards. Take Islam out of Pakistan and make it a secular state; it would collapse."
+
+And yet: Israel has steadfastly retained electoral democracy while Pakistan has had repeated military dictatorships. The hypothesis is that the difference lies in civil-military relations during the formative years.
+
+Wilkinson identified three factors that explain why India's and Pakistan's armies diverged:
+
+1. **Socio-economic, strategic and military inheritance:** Partition worsened the ethnic balance in the Pakistan army while improving it in India's.
+2. **Political party institutionalisation:** The Congress party had deep roots; the Muslim League did not.
+3. **Coup-proofing measures:** India carefully managed promotions, tenures and ethnic balances at the top of the military.
+
+Points (2) and (3) were exactly what David Ben-Gurion accomplished in Israel. The result: civilian supremacy over the military in both India and Israel; military intrusion into politics in Pakistan.
+
+## Applied
+
+The framework suggests that the formative years of a state set paths that are extremely difficult to reverse. Even if Jinnah had lived longer, he might have installed coup-proofing measures (point 3), but the weakly institutionalised Muslim League and the worsening ethnic balance of the army would have remained intractable.
+
+For contemporary policy, the lesson is sobering: institutional design in the first decade of a state's life has outsized consequences. Pakistan's current struggles with democratic consolidation are not merely about present-day leaders; they are partly determined by decisions made — and not made — in 1947–57.
+
+## When it falls short
+
+The framework is deterministic about formative-year effects. It understates the scope for later institutional innovation. Taiwan and South Korea, after all, democratised after long periods of authoritarian rule. It also does not explain why Bangladesh — which inherited the same military DNA — has managed a more durable (if flawed) democratic practice than Pakistan.
+
+## Related frameworks
+
+- [Flakiness in US Pakistan Policy](flakiness-in-us-pakistan-policy.qmd) — how external powers have inadvertently reinforced Pakistan's military-centric politics.
+
+## Further reading
+
+- Wilkinson, Steven. *Army and Nation: The Military and Indian Democracy Since Independence*. Harvard University Press, 2015.
+- Devji, Faisal. *Muslim Zion: Pakistan as a Political Idea*. Harvard University Press, 2013.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Dictatorship and Democracy in Israel and Pakistan*](https://publicpolicy.substack.com/i/58802368/matsyanyaaya-dictatorship-and-democracy-in-israel-and-pakistan) on *Anticipating the Unintended*.
+:::

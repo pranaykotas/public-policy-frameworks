@@ -1,0 +1,79 @@
+---
+title: "One Instrument, One Target"
+summary: "Each policy goal needs its own dedicated tool. Stacking many goals onto one instrument is how policies fail at all of them."
+categories: [Public Policy]
+date: 2026-05-03
+image: "../images/defaults/public-policy.png"
+tags:
+  - design
+  - institutions
+  - evaluation
+use_cases:
+  - "When a single agency or law is being loaded with multiple conflicting goals"
+  - "When redesigning accountability so that success can be clearly measured"
+  - "When diagnosing why an income tax, police force, or welfare scheme fails at everything"
+  - "When deciding whether to subtract objectives from an overburdened institution or create new ones"
+  - "When a reform produces litigation and evasion because too many objectives distort the incentive"
+  - "When comparing two policy options and checking whether each has a dedicated instrument"
+---
+::: {.card-meta}
+[Public Policy]{.badge} [policy-design]{.badge} [accountability]{.badge}
+:::
+
+> When a single tax, agency, or law is asked to do five things at once, it cannot be optimised for any of them. The result is not five mediocre outcomes — it is five failures, with no clear way to assign blame.
+
+## Origin
+
+The principle was formalised by the Dutch economist Jan Tinbergen in his 1952 book *On the Theory of Economic Policy* and elaborated in *Economic Policy: Principles and Design* (1956). Tinbergen was the first winner of the Nobel Prize in Economics (jointly, in 1969). The contemporary application to Indian policy follows Vijay Kelkar and Ajay Shah's *In Service of the Republic*, which translates the rule into a working heuristic for institutional design.
+
+## What it says
+
+
+Tinbergen's rule has two parts.
+
+**The counting rule:** to successfully achieve *n* independent policy targets, you need at least *n* independent policy instruments. You cannot hit two unrelated bullseyes with one arrow.
+
+**The assignment principle:** once an instrument is assigned to a target, it is no longer available for other purposes. Trying to use the same instrument to chase a second target compromises both.
+
+The deeper point is about accountability. An instrument with one target can be evaluated cleanly: did it move the variable it was supposed to move? An instrument with five targets cannot be evaluated at all; failure on any one can be excused by reference to the others. Clarity of purpose is efficient for the principal — the citizen, the legislature, the policy designer — even if it inconveniences the agent.
+
+A practical heuristic for applying the rule:
+
+1. **Reduce the number of targets** the state pursues. Do less, better.
+2. If reduction is impossible, **add instruments** — create or reorient organisations so each owns one target.
+3. If new instruments are impossible, **coordinate explicitly** — define how a single organisation will sequence or trade off its multiple targets, so accountability does not collapse.
+
+## Applied
+
+Indian policymaking violates this rule constantly, by default. The instinct is jugaad: hand the existing organisation one more job, then another, and assume it will figure out the trade-offs.
+
+The Income Tax Department is supposed to (a) raise revenue, (b) pursue distributional objectives through progressive rates, (c) incentivise specific behaviours through hundreds of exemptions, and (d) catch black money. Four targets, one instrument. Each addition has come with the best of intentions; together they have produced a tax code that is opaque, litigation-heavy, and weak on every single objective.
+
+Traffic police forces are asked to manage congestion, enforce road safety, collect fines, escort dignitaries, and double up for general law-and-order duty. The result is not five strong functions; it is five compromised ones, with road deaths and traffic flow both worsening.
+
+MGNREGS was designed as a wage-employment safety net. Over time it has been asked to also build durable rural assets, deepen democratic participation, generate climate-resilient infrastructure, and serve as a counter-cyclical macro stabiliser. Each addition is defensible; the cumulative effect is a programme that struggles to deliver on its original purpose, because the instrument is being asked to optimise five things at once.
+
+The diagnostic value of the framework: when something is going wrong with a state agency, ask first whether it is being asked to hit too many targets. The fix is rarely "try harder." It is to subtract objectives or add instruments.
+
+## When it falls short
+
+The rule assumes targets are *independent*. When two goals are tightly linked — say, fiscal sustainability and inflation — using two instruments can produce destructive interference rather than clean accountability. This is why monetary and fiscal policy have to be coordinated, not just separated.
+
+Adding instruments is also costly. New agencies bring overhead, turf wars, and coordination failures of their own. Sometimes a single, capable, multi-target organisation outperforms a fragmented landscape of single-target ones. Tinbergen's rule is a starting heuristic, not a substitute for organisational design.
+
+Finally, the rule is silent on the political economy of *why* targets get added. They are added because each new objective has a constituency. Removing targets is therefore harder than adding instruments. The framework tells you what to aim for; it does not tell you how to get there.
+
+## Related frameworks
+
+- [Seven Stages of the Policy Pipeline](seven-stages-policy-pipeline.qmd) — where in the policy process this rule should be applied.
+- [Hyper Multi-Objective Optimisation](hyper-multi-objective-optimisation.qmd) — the structural condition that produces target-stacking.
+- [All Things Governments Do](all-things-governments-do.qmd) — the menu of state functions that has to be matched to instruments.
+
+## Further reading
+
+- Tinbergen, J. (1952). *On the Theory of Economic Policy*. North-Holland.
+- Kelkar, V., & Shah, A. (2019). *In Service of the Republic*. Penguin Allen Lane.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: One Instrument One Target*](https://publicpolicy.substack.com/i/38619883/a-framework-a-week-one-instrument-one-target) on *Anticipating the Unintended*.
+:::

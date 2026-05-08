@@ -1,0 +1,76 @@
+---
+title: "Confronting Trade-offs"
+summary: "Methods for reasoning when no policy choice can satisfy everyone."
+categories: [Political Thinking]
+date: 2026-05-03
+image: "../images/defaults/political-thinking.png"
+tags:
+  - behaviour
+  - decision-making
+  - problem-definition
+  - unintended-consequences
+use_cases:
+  - "When forced to choose between competing policy objectives with no clean win-win"
+  - "When making or justifying a policy choice under uncertainty or competing pressures"
+  - "When a USB-C charger mandate claims environmental benefits but forecloses innovation"
+  - "When import tariffs justified by self-reliance must be tested against consumer and efficiency costs"
+  - "When a loan waiver or farm subsidy needs its interests alignment and capacity steps checked"
+  - "When a proposed ban ignores whether those bearing costs have incentives to evade it"
+---
+::: {.card-meta}
+[Political Thinking]{.badge} [cost-benefit]{.badge} [analysis]{.badge}
+:::
+
+> Beware of intuitive solutions to complex policy problems. The shine of promised benefits often gets dulled by the impact of probable costs.
+
+## Origin
+
+The framework emerges from behavioural public policy and the observation that even people who routinely weigh trade-offs in private consumption fail to do so when thinking about government action. The four-step heuristic below was developed by Pranay Kotasthane as a practical response to this persistent blind spot.
+
+## What it says
+
+
+No policy produces only benefits. Even well-intentioned, popular measures create losers, distort incentives, and consume scarce administrative capacity. The problem is not that analysts are unaware of this; it is that **opportunity cost neglect becomes acute when the state is involved**. Three biases are at work: taxpayers do not feel personally connected to government spending; analysts assume the state is the right solver for every problem; and implementation capacity is treated as infinite.
+
+A four-step heuristic helps cut through this:
+
+1. **Anticipate unintended consequences.** Use economic reasoning, historical precedent, and social context to trace what could go wrong.
+2. **Align interests or expect subversion.** Check whether those who will bear the costs have incentives to comply. If a policy drastically changes current incentives — bans, high taxes, heavy penalties — expect underground evasion or direct opposition.
+3. **Verify capacity.** Do the intellectual, financial, regulatory, and compliance capacities to execute the proposal actually exist?
+4. **Weigh benefits against costs.** Deploy standard cost-benefit analysis, with a useful hack: policies with **well-defined endpoints or sunset clauses** are easier to reverse if they go wrong. Open-ended measures accumulate intergenerational damage.
+
+## Applied
+
+The European Commission's proposal to mandate a common USB-C charger for all electronic devices is a textbook case of what happens when the heuristic is skipped. The stated goals — reducing consumer inconvenience and e-waste — are unobjectionable. The evidence looked compelling: 38% of consumers reported charger incompatibility problems; disposed chargers represented 11,000 tonnes of e-waste annually.
+
+Apply the four steps and the picture changes.
+
+- **Unintended consequences:** The mandate locks consumers into USB-C even if superior charging technologies emerge. It disincentivises manufacturers from developing them.
+- **Interest alignment:** Minimal opposition from consumers, but manufacturers lose the incentive to innovate.
+- **Capacity:** The EU can enforce this against a handful of manufacturers, so capacity is not the issue.
+- **Cost-benefit:** The benefit per consumer is roughly €6 per year. E-waste reduction is under 10%. The Commission's own impact assessment admits the environmental impact is "potentially negligible." Meanwhile, the cost in foregone innovation is described as "major negative."
+
+A better trade-off was available: unbundling chargers from phones, which achieved most of the e-waste reduction without mandating a technology standard.
+
+India faces analogous choices daily — from import tariffs justified by "strategic self-reliance" to agricultural subsidies justified by farmer welfare. The framework does not resolve the trade-off, but it forces the trade-off onto the table.
+
+## When it falls short
+
+The heuristic assumes that costs and benefits can be estimated with reasonable confidence. In novel or rapidly evolving domains — pandemic response, technology regulation — the information simply does not exist. Step 4 then becomes a theatre of false precision.
+
+It also treats "interests" as stable and material. In practice, identity, symbolism, and narrative often override material cost-benefit calculus. A policy can pass despite terrible economics because it has been wrapped in a story too powerful to oppose.
+
+## Related frameworks
+
+- [Wilson's Interest Group Matrix](wilson-interest-group-matrix.qmd) — how the distribution of costs and benefits determines who will fight the trade-off battle.
+- [The Overton Window](overton-window.qmd) — which trade-offs are even discussable in public.
+- [Political Policymaking](political-policymaking.qmd) — why governments often address flows (visible wins) while ignoring stocks (root causes).
+
+## Further reading
+
+- Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving Decisions About Health, Wealth, and Happiness*. Yale University Press.
+- Tetlock, P. E. (2005). *Expert Political Judgment: How Good Is It? How Can We Know?* Princeton University Press.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Confronting Trade-offs*](https://publicpolicy.substack.com/i/42989726/a-framework-a-week-confronting-trade-offs) on *Anticipating the Unintended*.
+:::

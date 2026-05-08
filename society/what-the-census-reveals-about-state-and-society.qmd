@@ -1,0 +1,69 @@
+---
+title: "What the Census Reveals About State and Society"
+summary: "Reading demographic data as a window into the state's grip on the population."
+categories: [Society]
+date: 2026-05-03
+image: "../images/defaults/society.png"
+tags:
+  - institutions
+  - state-capacity
+  - causality
+  - problem-definition
+use_cases:
+  - "When Pakistan delays publishing census results and you need to diagnose whether the cause is weak state capacity or deliberate political suppression"
+  - "When India's debate over enumerating OBCs in the census illustrates how counting creates political communities and distributional bargains"
+  - "When Baloch nationalists demand postponing a census until refugees leave — mapping it to Stone's Reason 1 (inclusion/exclusion)"
+  - "When census delay is offered as evidence of administrative backlog and you need to distinguish it from deliberate obfuscation"
+  - "When assessing which demographic categories a proposed survey should enumerate and anticipating their downstream political effects"
+  - "When a 'simple' population count is contested and you need a framework to explain why every number is a political claim"
+---
+::: {.card-meta}
+[Society]{.badge} [state-capacity]{.badge} [data]{.badge}
+:::
+
+> A count of the populace is quintessentially a political exercise. It is an extension of the state's monopoly over the legitimate use of physical force.
+
+## Origin
+
+The framework synthesises two lines of argument: census-as-state-capacity (comparing India and Pakistan), and Deborah Stone's analysis in *Policy Paradox* of why every number is a political claim.
+
+## What it says
+
+
+The census reveals two things simultaneously: the strength of the state and the texture of society.
+
+**Census as state capacity.** The ability to conduct a regular, nationwide census is as fundamental an indicator of state capacity as the ability to raise taxes. The state counts residents and classifies them by criteria of its own choosing, with the intent that such categorisation will aid governance. A state unable to convince its residents to be counted is a weak state. India has held a census every ten years since 1872. Pakistan has held only six nationwide censuses since independence, and delayed publishing the 2017 results — a revealing contrast.
+
+**Census as political claim.** Deborah Stone identified eight reasons why counting is inherently political:
+
+1. Counting requires decisions about categorising, including who to include and exclude.
+2. Measuring any phenomenon implicitly creates norms about how much is too little, too much, or just right.
+3. Numbers are ambiguous and leave room for political struggles to control their interpretation.
+4. Numbers are used to tell stories — often of decline or crisis.
+5. Numbers create the illusion that complex phenomena are simple, countable, and precisely defined.
+6. Numbers can create political communities out of people who share some trait that has been counted.
+7. Counting can aid negotiation and compromise by making intangible qualities seem divisible.
+8. Numbers, by seeming precise, bolster the authority of those who count.
+
+## Applied
+
+In Pakistan, Baloch nationalists wanted the 2017 census postponed until Afghan refugees were repatriated — illustrating Reason 1. The Punjabi elite resisted census results that might challenge its *primus inter pares* status — illustrating Reasons 2 and 3. In India, debates over whether to count OBCs as a separate category in the 2021 census illustrate how counting creates political communities (Reason 6) and enables new bargains (Reason 7).
+
+## When it falls short
+
+The framework does not tell us which categories *should* be counted. The decision to enumerate caste, religion, language, or occupation is itself a political choice with distributional consequences. The framework helps us see that politics; it does not resolve it.
+
+It also risks over-reading census failures. Some delays are administrative, not political. Distinguishing weak state capacity from deliberate obfuscation requires additional evidence.
+
+## Related frameworks
+
+- [The State and the Society](the-state-and-the-society.qmd) — the broader relationship between state capacity and social organisation.
+- [Good Policy Problem Definition](../public-policy/good-policy-problem-definition.qmd) — how categorisation shapes problem-solving.
+
+## Further reading
+
+- Stone, D. (2002). *Policy Paradox: The Art of Political Decision Making*. W. W. Norton.
+
+::: {.attribution}
+Originally explored in [*India Policy Watch: Census*](https://publicpolicy.substack.com/i/34456772/india-policy-watch-census) on *Anticipating the Unintended*.
+:::

@@ -1,0 +1,62 @@
+---
+title: "Sunset Clauses"
+summary: "Sunset rules essentially require that programs and/or regulations need to be reauthorised periodically. The default is that the sun sets on them after a period of time; they die."
+categories: [Public Policy]
+date: 2026-05-03
+image: "../images/defaults/public-policy.png"
+tags:
+  - regulation
+  - institutional-design
+  - accountability
+  - review
+use_cases:
+  - "When designing regulations that should not persist beyond their purpose"
+  - "When building in accountability and periodic review for new programmes"
+  - "When existing rules have outlived their rationale but are hard to repeal"
+  - "When pandemic emergency powers risk becoming permanent through regulatory inertia"
+  - "When a reform opponent can be brought on board by offering a built-in review clause"
+  - "When frequent government changes make legal uncertainty worse than a scheduled expiry"
+---
+::: {.card-meta}
+[Public Policy]{.badge} [design]{.badge} [institutions]{.badge}
+:::
+
+> Restrictions are inertial; they tend to linger around way longer than they are needed. Sunset rules institutionalise balancing feedback by making the default death, not survival.
+
+## Origin
+
+The tool has been explored in US administrative law and regulatory economics for decades. In the Indian context, Surya Prakash BS wrote an excellent explainer in *Mint*. Pranay Kotasthane drew on this work in the *Anticipating the Unintended* newsletter to argue for sunset clauses as a counter to the inertia of emergency measures.
+
+## What it says
+
+
+A sunset clause sets an expiry date on a law, regulation, or programme. The default is that the sun sets; the measure dies unless it is explicitly reauthorised after periodic review.
+
+The mechanism does three things. First, it overcomes regulatory inertia — the tendency of controls to outlive the conditions that justified them. Second, it forces a periodic evaluation of whether the intervention actually worked. Third, it introduces a balancing feedback loop into law-making: the admission that modern legislation is experimental and requires validation by results.
+
+In the Indian context, the tool has an added benefit. With wide swings in the parties in power, sunset clauses can prevent both the mindless reversal of predecessor laws and the entrenchment of unviable electoral promises. A fixed tenure for review may actually ensure certainty of law.
+
+## Applied
+
+- When emergency powers or pandemic restrictions are enacted and risk becoming permanent.
+- When creating new regulatory bodies or welfare schemes whose mandate should be periodically reassessed.
+- When negotiating compromises between reformers and opponents: opponents get a review clause; reformers get a first-mover advantage.
+
+## When it falls short
+
+Sunset clauses assume a legislature capable of serious periodic review. In practice, reauthorisation can become a rubber-stamp ritual, or a political football played for advantage rather than evidence. The clause also creates uncertainty for long-term investment and compliance if the legal environment is perceived as temporary.
+
+## Related frameworks
+
+- [[Seven Stages of the Policy Pipeline]](../public-policy/seven-stages-policy-pipeline.qmd) — where evaluation and legal translation sit in the policy process.
+- [[Wicked Problems]](../public-policy/wicked-problems.qmd) — when the problem itself is evolving and no fixed law can keep pace.
+- [[Outlays, Outputs, Outcomes]](../public-policy/ooo.qmd) — how to judge whether a programme merits reauthorisation.
+
+## Further reading
+
+- [Original newsletter essay](https://publicpolicy.substack.com/p/20-who-moved-my-state-finance-commission)
+
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Sunset Clauses*](https://publicpolicy.substack.com/p/20-who-moved-my-state-finance-commission) on *Anticipating the Unintended*.
+:::

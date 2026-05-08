@@ -1,0 +1,63 @@
+---
+title: "Hyper Multi-Objective Optimisation"
+summary: "Why pursuing many policy goals at once is the structural cause of policy failure."
+categories: [Public Policy]
+date: 2026-05-03
+image: "../images/defaults/public-policy.png"
+tags:
+  - design
+  - state-capacity
+  - unintended-consequences
+use_cases:
+  - "When a single policy instrument is being asked to serve too many masters"
+  - "When deciding which objectives to drop or assign to separate agencies"
+  - "When India's tax code is being loaded with yet another exemption for yet another constituency"
+  - "When MGNREGS is expected to deliver safety net, rural assets, and climate resilience simultaneously"
+  - "When traffic police are supposed to enforce rules and manage congestion at the same time"
+  - "When a reform proposes augmenting agencies rather than pruning objectives"
+---
+::: {.card-meta}
+[Public Policy]{.badge} [policy-design]{.badge} [state-capacity]{.badge}
+:::
+
+> Policies and institutions fail when they are laden with several objectives, resulting in a system that fulfils none of them. Just like an engineering system design returns a null solution when strict conflicting objectives are applied at the same time, public policies trying to optimise for several objectives end up failing.
+
+## Origin
+
+The framework was introduced in *Anticipating the Unintended* as an application of multi-objective optimisation from engineering to public policy. In hardware design, a chip must balance speed, size, temperature range, and cost; add too many strict constraints and the design becomes impossible. The same logic applies to policymaking.
+
+## What it says
+
+
+Even before a policy is drafted, it faces five ex-ante design constraints: **equity, efficiency, cost, political feasibility,** and **ease of implementation.** The danger arises when governments pile on additional objectives. Because objectives often conflict, trying to optimise for all of them simultaneously produces a null solution — a policy that fails on every dimension.
+
+Two approaches can resolve the trap:
+
+- **Augmentation:** Create separate agencies or policies, each optimised for fewer objectives. One instrument per target.
+- **Withdrawal:** Accept that some objectives are best handled by markets or society, not by the state. This requires the humility to say what government cannot do.
+
+## Applied
+
+**India’s tax policy** is a textbook case. Dr M. Govinda Rao noted that in addition to revenue and investment incentives, Indian tax policy is loaded with objectives such as backward-area industrialisation, infrastructure encouragement, small-scale promotion, employment generation, charitable activity, scientific research, and SEZ development. The result is an enormously complicated structure that opens avenues for evasion, avoidance, and rent-seeking.
+
+**MGNREGA** began as a wage-employment safety net. Over time it was asked to also build durable rural assets, deepen democratic participation, generate climate-resilient infrastructure, and serve as a macro stabiliser. The instrument is now optimising for five things at once — and struggling to deliver on its original purpose.
+
+**Traffic police** are asked to enforce rules *and* manage congestion. The two objectives often conflict: strict enforcement slows traffic; easing flow requires overlooking violations. Neither objective is met.
+
+## When it falls short
+
+Real politics demands multi-objective optimisation. No government can announce that it will ignore equity, or cost, or political feasibility. Withdrawal is harder than augmentation because every objective has a constituency. The framework tells you what to aim for; it does not tell you how to get there politically.
+
+## Related frameworks
+
+- [One Instrument, One Target](one-instrument-one-target.qmd) — the formal rule that hyper multi-objective optimisation violates.
+- [Wicked Problems](wicked-problems.qmd) — what happens when objectives are not just numerous but fundamentally contested.
+- [All Things Governments Do](all-things-governments-do.qmd) — the menu of tools, many of which should be left unused.
+
+## Further reading
+
+- Tinbergen, J. (1952). *On the Theory of Economic Policy*.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Hyper Multi-Objective Optimisation*](https://publicpolicy.substack.com/i/195884/hyper-multi-objective-optimisation-the-bane-of-policymaking) on *Anticipating the Unintended*.
+:::

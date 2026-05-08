@@ -1,0 +1,67 @@
+---
+title: "What Global Order Are We In?"
+summary: "A framework for naming the current international system — unipolar, multipolar, or something messier."
+categories: ["Foreign Policy & Geopolitics"]
+date: 2026-05-03
+image: "../images/what-global-order-are-we-in.webp"
+tags:
+  - international-relations
+  - trade
+  - political-economy
+  - decision-making
+use_cases:
+  - "When placing the current world in the 'Great Walls' scenario — stagnated global economy plus intensifying US-China conflict — and drawing out its implications"
+  - "When the Russia-Ukraine war sharpens bifurcation between the West and the Russia-China axis and India is caught between military dependence and strategic convergence"
+  - "When India is pushed to 'strategic autonomy by compulsion' in a Great Walls world and needs to identify small-bet investments that hedge across scenarios"
+  - "When diagnosing whether the world is unipolar, multipolar, or fragmented along geoeconomic lines using the two-axis scenario matrix"
+  - "When global bodies lose relevance and state-centric institutions become more important — understanding this as a feature of the Great Walls scenario"
+  - "When advising which international institutions India should invest in for influence given the shift from multilateralism to state-centric power blocs"
+---
+::: {.card-meta}
+[Foreign Policy, Defence & Geopolitics]{.badge} [world-order]{.badge} [geopolitics]{.badge}
+:::
+
+> The global order is a function of both geopolitics and geoeconomics. Its intent is not to predict the future but to imagine the various possibilities.
+
+## Origin
+
+This framework was developed by Pranay Kotasthane, Anirudh Kanisetti, Anupam Manur, and Akshay Alladi in their 2018 Takshashila Discussion Document *Deriving India's Strategies for a New World Order*, and updated during the Russia-Ukraine war.
+
+## What it says
+
+![What Global Order Are We In?](../images/what-global-order-are-we-in.webp){fig-alt="What Global Order Are We In?"}
+
+World order scenarios are at the intersection of geoeconomic trends and geopolitical trends. Rather than asking "is the world unipolar or multipolar?" — a question that misses the geoeconomic dimension — the framework maps scenarios on two axes.
+
+Using this framework, the current world maps onto a **"Great Walls"** scenario: stagnated global economy plus intensifying US-China conflict.
+
+Characteristics of Great Walls:
+
+- **Stable geopolitics, dynamic geoeconomics:** The US sees countering China as an overriding priority. Reorienting supply chains leads to secular stagnation.
+- **From one to many economic webs:** A US-dollar-led web, a China-capital-led web, and a diffused collection of middle powers striking independent bargains.
+- **A new age of multilateralism:** Global bodies become less important; institutions organised around powerful nation-states become more important.
+
+The Russia-Ukraine war sharpens these trends. Russia becomes more dependent on China. The West unites against Russia and China. The world does not become more multipolar; it becomes more bifurcated.
+
+## Applied
+
+For India, Great Walls is a tough scenario. As long as the primary Western focus is countering China, India gains. As soon as the focus shifts to Russia, India is on weak footing — caught between military dependence on Russia and strategic convergence with the West.
+
+India is pushed to strategic autonomy by compulsion, not by choice. The framework suggests investing in "small bets" — relationships and capabilities that yield option value across scenarios — rather than betting everything on a single alignment.
+
+## When it falls short
+
+The framework is deliberately non-predictive. It does not tell us which scenario is most likely, or how long Great Walls will last. It also does not give India a clear action agenda; it is a diagnostic tool, not a strategy document.
+
+## Related frameworks
+
+- [Ingredients of a New World Order](ingredients-of-a-new-world-order.qmd) — the components that define any international system.
+- [India and the Post-COVID-19 World Order](india-and-the-post-covid-19-world-order.qmd) — domestic reforms needed to prosper in the Great Walls scenario.
+
+## Further reading
+
+- Kotasthane, P., Kanisetti, A., Manur, A., & Alladi, A. *Deriving India's Strategies for a New World Order*. Takshashila Discussion Document, 2018.
+
+::: {.attribution}
+Originally explored in [*Matsyanyaaya: Where Do We Go Now?*](https://publicpolicy.substack.com/i/49403859/matsyanyaaya-where-do-we-go-now) on *Anticipating the Unintended*.
+:::

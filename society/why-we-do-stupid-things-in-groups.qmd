@@ -1,0 +1,66 @@
+---
+title: "Why We Do Stupid Things in Groups"
+summary: "A reading of collective irrationality that takes the social mechanics seriously."
+categories: [Society]
+date: 2026-05-03
+image: "../images/defaults/society.png"
+tags:
+  - causality
+  - behaviour
+  - political-economy
+  - morality
+use_cases:
+  - "When Kumbh pilgrims gather during a pandemic and you need to explain the behaviour as group-level selection, not individual irrationality"
+  - "When mob violence damages the rioters' own neighbourhoods and the explanation requires going beyond individual rational choice"
+  - "When religious congregations hold collective prayer despite infection risk — understanding it as evolved group-binding behaviour"
+  - "When predicting that group solidarity will override individual self-interest in a collective decision-making context"
+  - "When designing public health messaging during a crisis that must account for the evolved pull of group-binding norms over individual risk calculus"
+  - "When assessing whether a harmful collective behaviour can be redirected or must be displaced by a competing group-binding ritual"
+---
+::: {.card-meta}
+[Society]{.badge} [collective-behaviour]{.badge} [evolution]{.badge}
+:::
+
+> Selfishness beats altruism within groups. Altruistic groups beat selfish groups. Everything else is commentary.
+
+## Origin
+
+The framework draws on multilevel selection theory (MLS), developed by E.O. Wilson and David Sloan Wilson, and popularised in Jonathan Haidt's work on the "groupish gene." It revisits a long-marginalised strand of evolutionary thought: that natural selection can operate at the group level, not merely the individual or genetic level.
+
+## What it says
+
+
+The standard evolutionary account treats natural selection as acting on selfish genes. Individual organisms are vehicles for genes that seek to perpetuate themselves. Group selection — the idea that traits beneficial to the group can evolve even when costly to the individual — was dismissed for much of the twentieth century.
+
+Multilevel selection theory rehabilitates the idea using the metaphor of Russian matryoshka dolls: selection operates at multiple nested levels simultaneously.
+
+- **Within groups:** Selfish behaviour is locally advantageous. Cheaters outperform solid citizens. Natural selection at this level favours individual advantage.
+- **Between groups:** Groups of altruists, cooperators, and norm-followers outperform groups of cheaters. Selection at this level favours group-advantageous traits.
+
+The result is a tension. Within any group, selfishness wins. But in competition among groups, altruism wins. Human evolution accelerated because we developed group-level traits — empathy, solidarity, shared intentionality, ritual, religion — that enabled some groups to thrive while others fell away.
+
+## Applied
+
+The framework explains why millions of devotees gather at the Kumbh during a pandemic, why communities hold collective prayers despite infection risk, and why citizens riot in ways that damage their own neighbourhoods. The individual is not acting against self-interest out of ignorance. The individual is acting on a deeper, evolved instinct: the survival and perpetuation of the group.
+
+Religion is the most cohesive of groupings because it binds individuals to shared, deeply held beliefs about meaning, conduct, and belonging. The behaviour looks stupid from an individual fitness perspective. It looks coherent from a multilevel selection perspective.
+
+## When it falls short
+
+Stephen Pinker and others have mounted powerful critiques of group selection, arguing that individual-level mechanisms — kin selection, reciprocity, reputation — explain apparent altruism without invoking group-level selection. The debate remains unresolved in evolutionary biology.
+
+The framework also risks romanticising group behaviour. Not all group-level traits are benign. Ethnic cleansing, mob violence, and cult suicide are also group-level phenomena. Explaining why they occur is not the same as justifying them.
+
+## Related frameworks
+
+- [How Social Norms Flip](how-social-norms-flip.qmd) — how group-level expectations can be deliberately shifted.
+- [The Basis of Morality](the-basis-of-morality.qmd) — the moral foundations that bind groups together.
+- [Radically Networked Societies](radically-networked-societies.qmd) — how digital networks reshape group formation.
+
+## Further reading
+
+- Haidt, J. (2012). *The Righteous Mind*. Pantheon.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Why We Do Stupid Things in Groups*](https://publicpolicy.substack.com/p/123-lost-in-the-kumbh-) on *Anticipating the Unintended*.
+:::

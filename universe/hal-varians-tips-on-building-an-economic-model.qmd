@@ -1,0 +1,62 @@
+---
+title: "Hal Varian's Tips on Building an Economic Model"
+summary: "Practical advice from a working economist on how to make a model that earns its keep."
+categories: [Universe]
+date: 2026-05-03
+image: "../images/defaults/universe.png"
+tags:
+  - causality
+  - narrative
+  - problem-definition
+  - political-economy
+use_cases:
+  - "When a researcher's first instinct is to start with a literature review and risks ending up with someone else's model"
+  - "When a newspaper column or a bad argument sparks a policy question worth formalising before consulting what others have written"
+  - "When a half-formed policy intuition needs to be stress-tested by presenting it to a sceptical seminar before it hardens into a draft"
+  - "When Indian policy research produces literature-heavy papers that replicate known results rather than model new problems"
+  - "When distinguishing which step of model-building — ideation, construction, or exposition — is the current bottleneck"
+  - "When a model is elegant on paper but cannot survive a sceptical public audience — using the seminar as the first filter"
+---
+::: {.card-meta}
+[Universe]{.badge} [models]{.badge} [method]{.badge}
+:::
+
+> Look for your ideas outside the academic journals — in newspapers, in magazines, in TV and radio programs. A shallower analysis may be more stimulating: there’s nothing like a fallacious argument to stimulate research.
+
+## Origin
+
+In a 1997 chapter titled *How to Build an Economic Model in Your Spare Time*, Hal Varian distilled decades of craft knowledge into practical advice for economists. The recommendations travel well beyond economics — any discipline that builds formal models of messy reality can borrow from them.
+
+## What it says
+
+
+Varian offers three counterintuitive suggestions that run against standard research training.
+
+**Get ideas from outside the literature.** The conventional view says journal papers are the best source of original ideas. Varian argues the opposite: they give you someone else's ideas. Newspapers, magazines, and even shallow social media arguments are better fuel because they present problems in raw form, unconstrained by disciplinary framing. A bad argument can be more useful than a polished one.
+
+**Postpone the literature review.** Most researchers rush to survey what has been written. Varian advises waiting a few weeks. Working through the problem first builds modelling muscle, increases the odds of a genuinely different approach, and lets your ideas incubate before they are colonised by established methods.
+
+**Talk about it early.** Giving a seminar forces you to refine the idea. An audience will not tolerate turgid prose, complex notation, or tedious detail — and neither will readers. The seminar is a filter: use it to get the clutter out before it hardens into a draft.
+
+## Applied
+
+Indian policy research often inverts Varian's advice. Researchers begin with exhaustive literature reviews and end with models that replicate what is already known. Policymakers, meanwhile, form mental models from anecdote and ideology without ever testing them formally. Varian's middle path — start with the messy real-world observation, build your own representation, then check the literature — would improve both camps.
+
+The seminar rule is especially valuable in institutions where feedback is ritualised and gentle. A model that cannot survive a sceptical audience will not survive implementation either.
+
+## When it falls short
+
+Varian's advice assumes the researcher already has some modelling facility. For beginners, delaying the literature review can mean reinventing wheels badly. And not every policy question deserves a formal model. Building a utility function to justify a ban on child labour would be grotesque. The advice is for problems where simplification genuinely clarifies.
+
+## Related frameworks
+
+- [Building Models](building-models.qmd) — the underlying philosophy of model construction.
+- [How to Build a Good 2x2 Matrix](how-to-build-a-good-2x2-matrix.qmd) — a complementary tool for structuring problems before modelling them.
+
+## Further reading
+
+- Varian, H. R. (1997). *How to Build an Economic Model in Your Spare Time*.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Hal Varian's Tips on Building an Economic Model*](https://publicpolicy.substack.com/i/503142/a-framework-a-week-hal-varians-tips-on-building-an-economic-model) on *Anticipating the Unintended*.
+:::

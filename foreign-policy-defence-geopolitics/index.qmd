@@ -1,0 +1,22 @@
+---
+title: "Foreign Policy, Defence & Geopolitics"
+description: "State behaviour, deterrence, world orders, and India's strategic choices."
+listing:
+  contents: "*.qmd"
+  type: grid
+  grid-columns: 2
+  fields: [image, title, summary]
+  field-display-names:
+    title: "Framework"
+    summary: "What it says"
+  image-height: "180px"
+  sort:
+    - "title asc"
+  filter-ui: true
+  sort-ui: false
+  page-size: 50
+---
+
+Frameworks in this section concern how states behave towards each other — how they describe their interests, deter rivals, and position themselves in a changing world order.
+
+If you are new here, start with **Describing State Policy on Geopolitical Issues** (a taxonomy for talking clearly about what any government actually does in foreign policy) and **Guns and Butter** (the fundamental trade-off between security and prosperity that shapes most strategic choices). India-specific cases run throughout these frameworks — they are written from a perspective that takes India's strategic constraints seriously.

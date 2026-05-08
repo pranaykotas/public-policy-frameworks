@@ -1,0 +1,7 @@
+/_site/
+/.quarto/
+/.cache/
+*.html
+.DS_Store
+__pycache__/
+*.pyc

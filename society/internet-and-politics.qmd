@@ -1,0 +1,79 @@
+---
+title: "Internet and Politics"
+summary: "How digital networks reshape the basic structures of political life."
+categories: [Society]
+date: 2026-05-03
+image: "../images/defaults/society.png"
+tags:
+  - institutions
+  - political-economy
+  - narrative
+  - technology
+use_cases:
+  - "When a Twitter campaign forces a minister to respond and you need to identify which of the six pathways is at work"
+  - "When BJP's WhatsApp infrastructure or AAP's volunteer network needs to be mapped to Pathway 5 constituent mobilisation"
+  - "When a civic-tech app like Swachhata-MoHUA is proposed and you need to anticipate whether backend state capacity will match the frontend"
+  - "When expatriates resolving passport issues by tweeting at MEA illustrates Pathway 3 direct digital democracy"
+  - "When assessing whether a new government digital platform will thicken deliberation or enable surveillance (Pathway 6)"
+  - "When designing a civic-tech intervention that avoids the engagement-maximisation trap of commercial platform incentives"
+---
+::: {.card-meta}
+[Society]{.badge} [digital]{.badge} [politics]{.badge}
+:::
+
+> The internet does not transform politics in a single way. It inserts itself at six different points in the political chain, and each insertion produces a different kind of change.
+
+## Origin
+
+The framework comes from a 2013 paper by Archon Fung, Hollie Russon Gilman, and Jennifer Shkabatur: *Six Models for the Internet + Politics*, published in the *International Studies Review*. The authors were trying to move beyond the hype — both utopian and dystopian — about the internet's effect on democracy, and instead map the specific mechanisms at work.
+
+## What it says
+
+
+Fung and colleagues start with a stylised model of politics as a conveyor belt: citizens form interests → organise into groups → exert pressure through elections, lobbying, and public opinion → government acts via laws and agencies.
+
+The internet inserts itself at six distinct points along this belt. Each insertion is a different "pathway":
+
+**1. The Muscular Public Sphere**
+The internet strengthens the link between citizens and the public sphere, and between the public sphere and politicians. Twitter outrage campaigns, hashtag activism, and viral petitions that demand government attention are examples. The public sphere becomes louder and faster, though not necessarily more deliberative.
+
+**2. Here Comes Everybody**
+Citizens mobilise for direct action, bypassing pressure groups, political parties, and even the state. Internet-mobilised drives to fix potholes, clean garbage spots, or crowdsource disaster relief fit here. The organising cost drops to near zero.
+
+**3. Direct Digital Democracy**
+Citizens reach policymaking elites directly, cutting through intermediaries. The classic Indian example: expatriates tweeting at the External Affairs Minister for passport and visa issues, often with rapid resolution. The bureaucratic layer is thinned.
+
+**4. Truth-based Advocacy**
+Organised groups use the internet to bring salient facts to light in credible ways that tilt public opinion. The Panama Papers are the textbook case. What the model underweights is that the same pathway is now used more often for malign purposes — targeted disinformation, doxxing, and manufactured scandal.
+
+**5. Constituent Mobilisation**
+The internet thickens the connection between political organisations and their members. Lower communication costs let parties and movements send more information to more people, convert marginal voters into partisans, and make small donations frictionless. This is the pathway most aggressively exploited by political parties worldwide.
+
+**6. Social Monitoring**
+Public agencies deploy digital tools to enlist citizens as sensors — reporting traffic violations, potholes, or public service failures through apps and portals. The state expands its eyes and ears without expanding its payroll.
+
+## Applied
+
+India has examples of all six pathways, but their effects are not uniformly positive.
+
+Pathway 1 (Muscular Public Sphere) is visible in every Twitter campaign that forces a minister to respond. The risk: volume replaces deliberation, and the loudest voices — not the most representative — set the agenda.
+
+Pathway 5 (Constituent Mobilisation) is where Indian parties have invested most heavily. The BJP's WhatsApp infrastructure and the AAP's volunteer networks both exemplify how digital thickening converts passive voters into active amplifiers. The downside: it deepens partisanship and shrinks the persuadable middle.
+
+Pathway 6 (Social Monitoring) has had patchier success. Apps like Swachhata-MoHUA let citizens report civic problems, but the backend state capacity to resolve them often lags. Monitoring without response breeds cynicism.
+
+## When it falls short
+
+The framework was written with an implicit optimism — that more information, lower costs, and thicker connections would strengthen democratic governance. A decade later, that assumption looks fragile. The same six pathways that enable civic engagement also enable surveillance, manipulation, and polarisation.
+
+The model is also silent on platform power. It treats the internet as a neutral pipe inserted into politics. In reality, the pipes are owned by platforms with their own incentives — engagement maximisation, ad revenue, regulatory capture — that reshape the politics passing through them.
+
+## Related frameworks
+
+- [Radically Networked Societies](radically-networked-societies.qmd) — the structural change when every member of a society is in real-time contact with every other.
+- [Building Digital Communities](building-digital-communities.qmd) — how to design online spaces that don't collapse into toxicity.
+- [Social Media's Rule of Three](../universe/social-medias-rule-of-three.qmd) — the pattern-level dynamics of attention and virality on platforms.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Internet + Politics*](https://publicpolicy.substack.com/i/6807081/a-framework-a-week-internet-politics) on *Anticipating the Unintended*.
+:::

@@ -1,0 +1,63 @@
+---
+title: "What's Easy & What's Not?"
+summary: "required for that particular intervention exists, can be built up, or is out of reach. In that sense, it is useful to know  things that can be done easily and the ones that can't, especially when there is dearth of state capacity."
+categories: [Universe]
+date: 2026-05-03
+image: "../images/defaults/universe.png"
+tags:
+  - state-capacity
+  - implementation
+  - policy-design
+  - governance
+use_cases:
+  - "When a state that cannot collect taxes reliably proposes industrial policy that demands fine-grained discretion"
+  - "When Aadhaar-linked welfare delivery works in some states but fails in others due to pre-existing administrative backbone differences"
+  - "When sequencing institutional development to ensure basic capacity is built before advanced regulatory design is attempted"
+  - "When diagnosing whether a well-designed policy failed due to design error or due to the state's incapacity to execute"
+  - "When a reform requires capabilities — data systems, regulatory bandwidth, judicial capacity — that the bureaucracy does not yet have"
+  - "When comparing why some states implement land reforms successfully while others cannot, using capacity as the explanatory variable"
+---
+
+::: {.card-meta}
+[Universe]{.badge} [problem-definition]{.badge} [design]{.badge}
+:::
+
+> Those who can't perform addition will not be able to compute square-roots either. State capacity constraints determine which interventions are feasible before any policy design begins.
+
+## Origin
+
+This framework builds on Vijay Kelkar and Ajay Shah's argument in *In Service of the Republic*, which draws on a landmark paper by Lant Pritchett and Michael Woolcock on state capability.
+
+## What it says
+
+
+Before selecting a policy intervention, the first diagnostic is whether the required state capacity exists, can be built, or is out of reach. A state that cannot collect taxes reliably should not attempt industrial policy. A bureaucracy that cannot process permits efficiently should not design complex subsidy schemes.
+
+The framework is a hierarchy of feasibility. Low-capacity states should choose simple, rules-based interventions that do not demand fine-grained discretion. As capacity accumulates, more sophisticated tools become available. The error is to copy high-capacity policies into low-capacity contexts and expect them to work.
+
+In the Indian context, this explains why some states successfully implement land reforms while others cannot, and why digitisation of welfare delivery works better where administrative backbone already exists.
+
+## Applied
+
+- When prioritising reforms in a resource-scarce environment: start with what the state can actually deliver.
+- When sequencing institutional development: build basic capacity before attempting advanced regulatory design.
+- When evaluating why a well-designed policy failed on the ground.
+
+## When it falls short
+
+"State capacity" is often vague and difficult to measure precisely. The framework does not tell you *how* to build capacity, only what not to attempt without it. Political will and bureaucratic capacity are distinct, and the framework can conflate them.
+
+## Related frameworks
+
+- [[Three Functions of the State]](../public-finance/three-functions-of-the-state.qmd) — what the state should do, contingent on what it can do.
+- [[Public Sector Reform]](../public-policy/public-sector-reform.qmd) — the mechanics of building state capacity.
+- [[Good Policy Problem Definition]](../public-policy/good-policy-problem-definition.qmd) — matching problem statements to feasible solutions.
+
+## Further reading
+
+- Kelkar, V., & Shah, A. (2019). *In Service of the Republic*. Penguin.
+- [Original newsletter essay](https://publicpolicy.substack.com/p/17-finance-commission-is-not-family)
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: What's Easy & What's Not?*](https://publicpolicy.substack.com/p/17-finance-commission-is-not-family) on *Anticipating the Unintended*.
+:::

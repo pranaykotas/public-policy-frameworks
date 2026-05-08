@@ -1,0 +1,66 @@
+---
+title: "Political Policymaking"
+summary: "How political incentives shape what policy can be made, beyond the technocratic frame."
+categories: [Political Thinking]
+date: 2026-05-03
+image: "../images/defaults/political-thinking.png"
+tags:
+  - problem-definition
+  - causality
+  - incentives
+  - federalism
+use_cases:
+  - "When a reform document must explicitly separate which measures address immediate flows vs structural stocks"
+  - "When PLI schemes are announced and the question is whether the structural reforms will follow"
+  - "When a crisis creates political space for stock reform that normal times cannot"
+  - "When a government only delivers flow wins and leaves structural problems untouched"
+  - "When an analyst dismisses a flow measure without recognising its political function"
+  - "When sequencing reforms so flow wins generate the mandate for harder stock changes"
+---
+::: {.card-meta}
+[Political Thinking]{.badge} [reform]{.badge} [political-economy]{.badge}
+:::
+
+> There can be no policy without politics. Yet we often make the mistake of seeing these two streams as water-tight compartments.
+
+## Origin
+
+The framework was developed by Pranay Kotasthane as a conciliatory bridge between the technocratic and political approaches to policy analysis. Technocrats tend to diagnose root causes and design comprehensive solutions. Politicians tend to seek visible wins that can be claimed before the next election. The framework argues that both instincts are legitimate and that durable reform must speak to both.
+
+## What it says
+
+
+Every policy problem has a **stock** and a **flow**.
+
+- The **stock** is the accumulated root cause — the structural condition that produced the problem. Addressing the stock is what technocrats call "going to the root."
+- The **flow** is the immediate, ongoing change that makes the problem visible or urgent. Addressing the flow is what produces a visible, timed result.
+
+Policy analysts typically criticise flow-focused measures as band-aids. "PLI schemes won't be enough without labour and trade reform." "Demonetisation doesn't address the stock of black money." This is analytically correct and politically naive. A government that never produces a flow win will not survive to address the stock. Conversely, a government that only produces flow wins will leave the structural problem untouched.
+
+The political policymaking view holds that **every serious policy document should explicitly state which directives address the flow and which address the stock**. This does two things. It sets citizen expectations correctly — people know which gains are immediate and which require patience. And it protects the stock-oriented measures from being discarded when the flow measure produces its headline.
+
+## Applied
+
+India's Production-Linked Incentive (PLI) schemes illustrate the flow-stock distinction clearly. The flow goal is immediate: capitalise on the China+1 sentiment and attract FDI before competing countries fill the vacuum. The stock goal is structural: build a competitive manufacturing base through labour, tax, and trade policy reform. An analyst who dismisses PLIs because they do not address the stock misses the political function of the flow. A government that announces PLIs but never follows through on the stock reforms will find that the initial investment departs once the subsidy ends.
+
+The 1991 balance-of-payments crisis offers a more integrated example. The flow was urgent: stave off default. The stock was transformative: dismantle the licence-permit raj. Narasimha Rao and Manmohan Singh used the flow crisis to create political space for stock reform. Without the urgency of the flow, the stock reform would likely have stalled; without the stock reform, the flow fix would have been temporary.
+
+## When it falls short
+
+The framework can be used to excuse bad policy. "Yes, this measure only addresses the flow, but we will get to the stock later." Without a credible, time-bound commitment to the stock, the framework becomes a rhetorical shield for half-measures. The test is whether the stock measures are actually scheduled, budgeted, and defended when the political window narrows.
+
+It also assumes that stock and flow can be cleanly separated. In some domains — climate adaptation, public health — the stock *is* the accumulated flow, and treating them separately produces incoherent policy. Finally, the framework does not explain how to generate political will for stock reform when no crisis is at hand.
+
+## Related frameworks
+
+- [Kingdon's Three Streams](kingdon-three-streams.qmd) — when the political moment aligns to make flow and stock reform simultaneously possible.
+- [Wilson's Interest Group Matrix](wilson-interest-group-matrix.qmd) — the cost-benefit politics that determine which stock reforms can survive.
+- [Confronting Trade-offs](confronting-trade-offs.qmd) — how to evaluate whether a flow measure is worth its costs.
+
+## Further reading
+
+- Rodrik, D. (2014). "When Ideas Trump Interests." *Journal of Economic Perspectives*.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Political Policymaking*](https://publicpolicy.substack.com/i/147951949/a-framework-a-week-political-policymaking) on *Anticipating the Unintended*.
+:::

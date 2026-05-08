@@ -1,0 +1,67 @@
+---
+title: "Cognitive Maps"
+summary: "Why two informed people can reach opposing conclusions from the same facts — and what to do about it."
+categories: [Political Thinking]
+date: 2026-05-03
+image: "../images/defaults/political-thinking.png"
+tags:
+  - causality
+  - evaluation
+  - federalism
+  - trade
+use_cases:
+  - "When two equally informed experts reach opposite conclusions from the same evidence"
+  - "When a reform fails because it changed rules without changing how opponents understood the problem"
+  - "When the NPS reform needed to exclude existing employees to align their map with the change"
+  - "When states resisted GST until a five-year revenue guarantee shifted their map of the transition"
+  - "When negotiation fails because one side misreads what the other side is actually optimising for"
+  - "When concessions need to be real, not cosmetic, to avoid the trust collapse of fake alignment"
+---
+::: {.card-meta}
+[Political Thinking]{.badge} [negotiation]{.badge} [political-economy]{.badge}
+:::
+
+> Different people have different cognitive maps. Maps might differ in terms of the implied goal, causality, and perceived thinking of other groups.
+
+## Origin
+
+The framework was introduced by Pratap Bhanu Mehta in his lectures on the politics of public policies. It extends the idea of stakeholder analysis — a standard tool for project execution — to the level of policy and politics. Where stakeholder mapping asks who has an interest in an outcome, cognitive mapping asks how different actors *understand* the world in the first place.
+
+## What it says
+
+
+A **cognitive map** is the interpretation an individual or group holds about how the world works. It is not a matter of ignorance or bad faith; two equally informed people can hold entirely different maps. Every cognitive map contains three implicit elements:
+
+- **Conception of a goal.** What is the desired end-state? For some, prosperity means rapid GDP growth; for others, it means environmental sustainability or outcome equality.
+- **Conception of causality.** What levers produce which outcomes? One map may see trade liberalisation as the path to jobs; another may see it as the path to deindustrialisation.
+- **Conception of what others are thinking.** How do you anticipate the moves of rival groups? Misreading an opponent's map is a common source of negotiation failure.
+
+In policy negotiations, the task is not to declare one map correct and the others false. It is to **align** them — or at least to neutralise the opposition that arises when maps collide.
+
+Two moves are particularly useful. First, **recognise the plurality of maps** explicitly. Second, **address distributional consequences** upfront. Tell people who believe they will lose that their concerns have been heard and, where possible, compensated.
+
+## Applied
+
+The National Pension System (NPS) reform of 2004 is a clean Indian example. The government shifted from a defined-benefit to a defined-contribution pension scheme for new employees — a move that threatened existing civil servants. Rather than impose the change universally, the reform **excluded those already employed in government before 2004**. By drawing the line at existing employees, the government aligned the cognitive map of the incumbent workforce ("our pensions are safe") with the reform's goal ("future fiscal sustainability"). The opposition that could have blocked the reform was neutralised.
+
+The GST reform followed a similar logic. States feared a permanent loss of revenue autonomy. The centre addressed this by promising **five years of compensation for revenue shortfalls**. The concession did not change the underlying economics of GST, but it changed how state governments read the reform — from a threat to their fiscal position to a manageable transition with a safety net.
+
+## When it falls short
+
+The framework is more descriptive than predictive. It tells you that people disagree because their maps differ, but it does not tell you which map is more accurate or how to change someone's fundamental causal beliefs. In deeply ideological conflicts — where goals themselves are incompatible — alignment may be impossible and the framework offers no way forward beyond compromise or coercion.
+
+It also risks becoming a tool of manipulation. A skilled negotiator can "align" a cognitive map through superficial concessions that do not address real losses. The NPS example worked because the exclusion was genuine; a fake concession would eventually be found out and trust would collapse.
+
+## Related frameworks
+
+- [Types of Causal Narratives](types-of-causal-narratives.qmd) — how different maps express themselves through competing causal stories.
+- [The Overton Window](overton-window.qmd) — the boundary of what positions a cognitive map can even entertain.
+- [Stakeholder Management in Public Policy](stakeholder-management-in-public-policy.qmd) — the operational complement to mapping cognition.
+
+## Further reading
+
+- Axelrod, R. (1976). *Structure of Decision: The Cognitive Maps of Political Elites*. Princeton University Press.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Understanding Cognitive Maps*](https://publicpolicy.substack.com/i/884531/a-framework-a-week-understanding-cognitive-maps) on *Anticipating the Unintended*.
+:::

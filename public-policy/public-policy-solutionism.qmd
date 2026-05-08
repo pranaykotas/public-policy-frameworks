@@ -1,0 +1,67 @@
+---
+title: "Public Policy Solutionism"
+summary: "A critique of the instinct to reach for clean solutions in domains where they do not exist."
+categories: [Public Policy]
+date: 2026-05-03
+image: "../images/defaults/public-policy.png"
+tags:
+  - decision-making
+  - problem-definition
+  - design
+use_cases:
+  - "When a policy debate has stalled between cynicism and naive optimism"
+  - "When building a reform narrative that acknowledges trade-offs without surrendering to them"
+  - "When 'it's too complex' becomes an excuse for endless analysis with no recommendation"
+  - "When a scheme is declared a success before outcomes are measured"
+  - "When climate change discourse oscillates between apocalyptic fatalism and silver-bullet techno-optimism"
+  - "When you need a mindset that starts with the problem, tests multiple interventions, and scales what works"
+---
+::: {.card-meta}
+[Public Policy]{.badge} [mindset]{.badge} [problem-solving]{.badge}
+:::
+
+> To embrace both the reality of problems and the possibility of overcoming them, we should be fundamentally neither optimists nor pessimists, but solutionists.
+
+## Origin
+
+The term "solutionism" has been used pejoratively since the 1960s to mean the belief that every problem can be fixed with technology. Jason Crawford reclaimed it in his essay *Why I’m a Proud Solutionist*: discard assumptions about the *form* solutions must take, and solutionism becomes simply the belief that problems are real but solvable. The *Anticipating the Unintended* newsletter adapted this as a desirable frame of mind for Indian public policy.
+
+## What it says
+
+
+Public policy discourse in India is pulled between two traps:
+
+- **Visceral pessimism** — problems are complex, historical, structurally determined; nothing can be done.
+- **Unreal optimism** — announce a target, launch a scheme, declare victory.
+
+Solutionism is a third way. It advocates vigorously advancing against problems, neither retreating nor surrendering. It accepts that trade-offs are inherent — every alternative has costs — and insists on confronting them rather than wishing them away. It also demands reflection on policy *successes*, not just a parade of PolicyWTFs.
+
+The mindset has three operational implications:
+
+1. **Reject sterile conclusions.** "Problems are complex" or "we don’t have enough data" are conversation-enders, not analyses.
+2. **Confront trade-offs.** A solutionist does not pretend that growth and redistribution, or security and privacy, can be maximised simultaneously. They make the choice explicit.
+3. **Tell better stories.** Cynicism is the enemy of reform. Believing that even intractable problems can be solved is a precondition for mustering the political will to try.
+
+## Applied
+
+Climate change in Indian policy discourse is often treated as either a hoax (unreal optimism) or an apocalypse (visceral pessimism). A solutionist frame would acknowledge the scale of the challenge, reject silver bullets, and build a portfolio of measures — some technological, some regulatory, some adaptive — while tracking outcomes honestly.
+
+Similarly, education reform in India suffers from solution-first thinking: more teachers, more tests, more technology, each promoted as the answer. A solutionist approach would start with the problem (learning outcomes), test multiple interventions, and scale what works — while admitting what does not.
+
+## When it falls short
+
+Solutionism can slide into naive technocracy — the belief that every problem has a clean engineering fix. Some problems, such as communal violence or caste discrimination, are deeply rooted in social structure and may not be "solvable" by policy at all. The framework can also justify overreach: if every problem is solvable, the state should try to solve everything.
+
+## Related frameworks
+
+- [Wicked Problems](wicked-problems.qmd) — the domain where solutionism is most needed and most dangerous.
+- [Complexity and Public Policy](complexity-and-public-policy.qmd) — why some problems resist clean solutions.
+- [Good Policy Problem Definition](good-policy-problem-definition.qmd) — the first step in any solutionist approach.
+
+## Further reading
+
+- Popper, K. *The Open Society and Its Enemies*.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Public Policy Solutionism*](https://publicpolicy.substack.com/i/40888151/a-framework-a-week-public-policy-solutionism) on *Anticipating the Unintended*.
+:::

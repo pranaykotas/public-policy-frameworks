@@ -1,0 +1,72 @@
+---
+title: "Complexity and Public Policy"
+summary: "How to think about policy in systems where outcomes do not follow linearly from inputs."
+categories: [Public Policy]
+date: 2026-05-03
+image: "../images/defaults/public-policy.png"
+tags:
+  - implementation
+  - design
+  - state-capacity
+use_cases:
+  - "When adapting a 'best practice' from another country to local institutional conditions"
+  - "When designing policies for domains with strong feedback loops and emergent behaviour"
+  - "When someone argues India should copy Seoul's chaebols or Amsterdam's bicycle lanes"
+  - "When a policy produced unexpected systemic effects that no blueprint could have predicted"
+  - "When justifying why decentralised experimentation beats centrally designed blueprints"
+  - "When initial conditions — not recipes — are the lever worth pulling"
+---
+
+::: {.card-meta}
+[Public Policy]{.badge} [systems-thinking]{.badge} [implementation]{.badge}
+:::
+
+> It is futile to obsess about deriving policies using "best practices" from another country or city. It is far more important to think about preparing the initial conditions that could trigger emergent behaviour towards the desired policy goal.
+
+## Origin
+
+The framework comes from complexity theory as applied to public policy by scholars such as Paul Cairney. It was introduced in *Anticipating the Unintended* as a response to isomorphic mimicry — the tendency of governments to copy "best practices" without understanding why they worked.
+
+## What it says
+
+
+Complex systems have six attributes that matter for policy:
+
+- **The whole is greater than the sum of its parts** — elements interact to produce systemic behaviour.
+- **Feedback loops** — small actions can have large effects; large actions can fizzle.
+- **Path dependence** — initial conditions produce long-term momentum.
+- **Emergence** — behaviour results from local interaction, not central direction.
+- **Strange attractors** — extended regularities interrupted by bursts of change.
+- **Sensitivity to initial conditions** — small differences early on compound.
+
+When applied to public policy, this mental model yields four axioms:
+
+1. **Policy ingredients, not policy recipes.** Governments should create conditions in which competing solutions can emerge, rather than designing a perfect blueprint.
+2. **Probabilistic success.** Preparing initial conditions is no guarantee; the best case is raising the odds of a good outcome.
+3. **The merits of decentralisation.** Local agents can experiment and adapt faster than centrally engineered solutions.
+4. **Hope, not analysis-paralysis.** The absence of perfect recipes is liberating, not shackling.
+
+## Applied
+
+The argument that "South Korea grew using chaebols, so India should too" is a recipe fallacy. It ignores the unique initial conditions — historical, institutional, geopolitical — that made Korea’s path possible. Similarly, importing Amsterdam’s bicycle lanes or Bogotá’s BRT into Bengaluru without accounting for local land-use patterns, enforcement capacity, and political economy is isomorphic mimicry.
+
+In economic policy, pro-market reforms are about putting together ingredients (rule of law, contract enforcement, infrastructure); pro-business policies are recipes handed down to specific firms. The former is compatible with complexity; the latter rarely is.
+
+## When it falls short
+
+Complexity can become an excuse for inaction. If no recipe is perfect, why act at all? The framework also has far more questions than answers at present. It does not tell you which initial conditions matter most, or how to know when they are "ripe." Finally, it underweights the role of decisive central action in moments of crisis — where a single decision, not emergent behaviour, changes the trajectory.
+
+## Related frameworks
+
+- [Hyper Multi-Objective Optimisation](hyper-multi-objective-optimisation.qmd) — why trying to optimise for many goals at once is a recipe for failure in complex systems.
+- [Wicked Problems](wicked-problems.qmd) — what happens when complexity meets disagreement over values.
+- [When Conditions Become Policy Problems](when-conditions-become-policy-problems.qmd) — how problems get defined in complex, contested environments.
+
+## Further reading
+
+- Cairney, P. *Politics & Public Policy* (blog).
+- Hayek, F. A. (1945). *The Use of Knowledge in Society*.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Beyond Isomorphic Mimicry*](https://publicpolicy.substack.com/i/125669863/india-policy-watch-beyond-isomorphic-mimicry) on *Anticipating the Unintended*.
+:::

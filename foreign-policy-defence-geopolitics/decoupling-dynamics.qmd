@@ -1,0 +1,66 @@
+---
+title: "Decoupling Dynamics"
+summary: "The mechanics of economic-political separation between major economies."
+categories: ["Foreign Policy & Geopolitics"]
+date: 2026-05-03
+image: "../images/decoupling-dynamics.webp"
+tags:
+  - trade
+  - technology
+  - international-relations
+  - design
+use_cases:
+  - "When mapping how US-China separation is proceeding differently across critical inputs (semiconductors), data governance, and financial flows"
+  - "When India is deciding where to focus its China-decoupling opportunity — critical inputs, digital governance, or standards-setting"
+  - "When a supply chain is claimed to be 'decoupling' and you need to check whether it is the financial, trade, innovation, or digital layer that is actually moving"
+  - "When warning against the assumption that supply chains will automatically relocate to India without India actively competing for them"
+  - "When China restricts rare earth exports and a Quad Critical Minerals Initiative is proposed — placing both moves in the nine-layer framework"
+  - "When financial decoupling is overstated because China still depends on the US dollar for Belt and Road project financing"
+---
+
+::: {.card-meta}
+[Foreign Policy, Defence & Geopolitics]{.badge} [geoeconomics]{.badge} [supply-chains]{.badge}
+:::
+
+> The US-China confrontation is likely to play out over critical and emerging technology and not over finance and industrial production.
+
+## Origin
+
+This framework draws on a report by the European Union Chamber of Commerce in China and the Mercator Institute for China Studies (MERICS), adapted by Pranay Kotasthane for the *A Framework a Week* series. It breaks down the abstract idea of "decoupling" into concrete, analysable layers.
+
+## What it says
+
+![Decoupling Dynamics](../images/decoupling-dynamics.webp){fig-alt="Decoupling Dynamics"}
+
+Decoupling is not a single switch but a multi-layer process across four categories and nine layers:
+
+**Macro decoupling:** political and financial
+
+**Trade decoupling:** supply chains and critical inputs
+
+**Innovation decoupling:** research and development, and standards
+
+**Digital decoupling:** data governance, network equipment and telecommunications services
+
+Of these, three layers are of highest concern: decoupling of **critical inputs** (semiconductors, software, rare earths), decoupling of **data governance regimes**, and decoupling of **standards**. Financial decoupling is less likely because of China's inability to internationalise the renminbi and its continued dependence on the US dollar even for Belt and Road projects.
+
+The framework visualises three scenarios for how decoupling across these layers might play out — from selective separation in sensitive technologies to broader bifurcation across multiple domains.
+
+## Applied
+
+For India, the framework clarifies where to focus. India's opportunity lies in the layers where decoupling is most advanced and where India has credible capacity: critical inputs (pharmaceuticals, some electronics), digital governance (data localisation, privacy frameworks), and standards-setting (5G, AI ethics).
+
+The framework also warns against over-reading decoupling as complete separation. In finance and industrial production, interdependence will persist for years. India should not assume that supply chains will automatically relocate; it must compete for them actively.
+
+## When it falls short
+
+The framework is descriptive, not prescriptive. It tells us what is decoupling and at what speed, but not how India should respond in each layer. It also assumes a relatively linear progression; in reality, decoupling can reverse in some layers (financial) even as it accelerates in others (semiconductors).
+
+## Related frameworks
+
+- [China's Predicament](chinas-predicament.qmd) — the structural driver of decoupling behaviour.
+- [India's Approach Towards Chinese Firms](indias-approach-towards-chinese-firms.qmd) — how India should calibrate its economic relationship during decoupling.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Decoupling Dynamics*](https://publicpolicy.substack.com/i/31560112/matsyanyaaya-decoupling-dynamics) on *Anticipating the Unintended*.
+:::

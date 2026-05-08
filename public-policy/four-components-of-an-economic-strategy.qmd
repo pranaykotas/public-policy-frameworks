@@ -1,0 +1,63 @@
+---
+title: "Four Components of an Economic Strategy"
+summary: "The essential elements that make an economic strategy coherent rather than a list of wishes."
+categories: [Public Policy]
+date: 2026-05-03
+image: "../images/defaults/public-policy.png"
+tags:
+  - design
+  - political-economy
+  - state-capacity
+use_cases:
+  - "When assembling an economic strategy that mixes rhetoric and concrete measures"
+  - "When diagnosing whether a problem needs a policy change or just a new programme"
+  - "When a PLI scheme is announced without accompanying trade and labour policy changes"
+  - "When distinguishing Aatmanirbhar Bharat as slogan from its actual policy content"
+  - "When a reform succeeds because it changed rules, not just because it launched a scheme"
+  - "When explaining why manufacturing underperformance cannot be solved by programmes alone"
+---
+::: {.card-meta}
+[Public Policy]{.badge} [economic-strategy]{.badge} [political-economy]{.badge}
+:::
+
+> Chronic economic problems might need a fundamental change in policies that cannot be fixed by programmes alone. The default government tendency is often to bat for government-run programmes. There are enough and more programmes from the past to tinker with and regurgitate into a new programme to "solve" the economic problems of the day.
+
+## Origin
+
+The framework comes from Montek Singh Ahluwalia, former deputy chairman of the Planning Commission, who argued that any economic strategy has four distinct components. The version used here draws on *Anticipating the Unintended*.
+
+## What it says
+
+
+An economic strategy is not a single document or speech. It is four layered components:
+
+1. **Slogans** — the rhetoric or "front end." Think *Garibi Hatao*, *Shining India*, *Sabka Saath Sabka Vikaas*, or *Minimum Government, Maximum Governance*. Slogans are not cynical distractions; they are necessary narrative devices in a representative democracy. They align constituencies around a direction without prescribing mechanisms.
+2. **Targets** — specific, measurable goals. "India will become a developed country by 2047" is a target. It serves as a guiding light for downstream choices and a tool for accountability.
+3. **Programmes** — government-led measures involving public expenditure. Bank recapitalisation, PLI schemes, and MGNREGA are programmes. They involve producing or financing.
+4. **Policies** — directives that allow or disallow specific economic activities. The Foreign Trade Policy, tax rules, and labour laws are policies. They involve regulating.
+
+The crucial distinction is between programmes and policies. Programmes spend money; policies change rules. India's manufacturing underperformance, for example, cannot be solved by programmes alone — it requires changes in trade, tax, labour, and doing-business policies.
+
+## Applied
+
+The 1991 reforms succeeded because the reformers argued that India needed a change in *policies* — not just a debt-restructuring *programme*. Many politicians at the time thought a new programme would suffice; the reformers insisted on changing the rules of the game.
+
+Conversely, the Production-Linked Incentive (PLI) scheme is a programme. It may yield short-term assembly jobs, but without accompanying policy changes — simpler tariffs, flexible labour rules, predictable regulation — it will not fix manufacturing competitiveness.
+
+## When it falls short
+
+The boundaries blur. PLI is a programme with policy elements. A slogan can crowd out substance if the other three components are missing. The framework also does not tell you whether a given problem needs a programme, a policy, or both — that requires separate diagnosis.
+
+## Related frameworks
+
+- [All Things Governments Do](all-things-governments-do.qmd) — the menu of tools from which programmes and policies are drawn.
+- [One Instrument, One Target](one-instrument-one-target.qmd) — what happens when a single programme or policy is asked to do too much.
+- [Outlays, Outputs, Outcomes](ooo.qmd) — how to evaluate whether programmes are delivering.
+
+## Further reading
+
+- Kelkar, V., & Shah, A. (2019). *In Service of the Republic*. Penguin Allen Lane.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Four Components of an Economic Strategy*](https://publicpolicy.substack.com/i/140409882/a-framework-a-week-four-components-of-an-economic-strategy) on *Anticipating the Unintended*.
+:::

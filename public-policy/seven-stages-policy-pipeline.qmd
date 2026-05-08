@@ -1,0 +1,95 @@
+---
+title: "Seven Stages of the Policy Pipeline"
+summary: "From a fact about the world to a working law on the ground, every policy passes through seven distinct stages — each requiring its own kind of state capacity."
+categories: [Public Policy]
+date: 2026-05-03
+image: "../images/defaults/public-policy.png"
+tags:
+  - state-capacity
+  - institutions
+  - design
+use_cases:
+  - "When diagnosing why a well-intentioned reform collapsed after announcement"
+  - "When planning long-term investments in statistics, research, and legal capacity"
+  - "When a government leaps to legislation without upstream evidence or alternatives"
+  - "When a state's court challenges reveal thin legal drafting capacity at stage 6"
+  - "When deciding where in the pipeline to intervene as a think tank or researcher"
+  - "When justifying why research, statistics bureaus, and public debate are not luxuries"
+---
+::: {.card-meta}
+[Public Policy]{.badge} [state-capacity]{.badge} [process]{.badge}
+:::
+
+> Policy is not made in a single act of decision. It travels through a long pipeline — from raw facts to enforceable law — and capacity must exist at every stage. A reform agenda that focuses only on the political moment, while neglecting the unglamorous earlier stages, fails predictably.
+
+## Origin
+
+The framework comes from Vijay Kelkar and Ajay Shah's 2019 book *In Service of the Republic: The Art and Science of Economic Policy*. Kelkar and Shah developed it to argue that India's policy weakness is not primarily about wrong choices at the top but about thin capacity all along the pipeline.
+
+## What it says
+
+
+Every well-functioning policy moves through seven stages:
+
+1. **Statistical system.** Facts about the world have to be systematically captured. Without facts, every downstream stage is built on guesswork.
+2. **Descriptive and causal research.** A research community studies the data, establishes regularities, and explores what causes what.
+3. **Creative policy invention.** Researchers and practitioners generate a wide menu of possible policy responses — not just one preferred answer.
+4. **Public debate.** Rival proposals compete in editorial pages, expert committees, and civil society. The strongest survive scrutiny.
+5. **Internal government decision-making.** Ministers and bureaucrats weigh trade-offs and make a choice. This is the zone of political economy.
+6. **Legal translation.** The decision is converted into legislation or subordinate rules with high technical quality and subtle attention to detail.
+7. **State capacity construction.** Administrative structures are built or repurposed to enforce the law on the ground.
+
+```{mermaid}
+flowchart TD
+  S1["1. Statistical system\nCapture facts systematically"]
+  S2["2. Descriptive & causal research\nStudy regularities, test causes"]
+  S3["3. Creative policy invention\nGenerate a menu of options"]
+  S4["4. Public debate\nRival proposals compete"]
+  S5["5. Government decision-making\nMinsters weigh trade-offs"]
+  S6["6. Legal translation\nConvert to legislation or rules"]
+  S7["7. State capacity construction\nBuild structures to enforce the law"]
+  S1 --> S2 --> S3 --> S4 --> S5 --> S6 --> S7
+  style S1 fill:#eef1f6,stroke:#1a4480,color:#1a1a1a
+  style S2 fill:#eef1f6,stroke:#1a4480,color:#1a1a1a
+  style S3 fill:#eef1f6,stroke:#1a4480,color:#1a1a1a
+  style S4 fill:#eef1f6,stroke:#1a4480,color:#1a1a1a
+  style S5 fill:#dde4f0,stroke:#1a4480,color:#1a1a1a,font-weight:bold
+  style S6 fill:#eef1f6,stroke:#1a4480,color:#1a1a1a
+  style S7 fill:#eef1f6,stroke:#1a4480,color:#1a1a1a
+```
+
+The argument is that **capacity must be present at every stage**. A country with weak statistical systems cannot do good causal research; a country with no research community cannot stage informed public debate; a country without bench strength in legal drafting will produce flawed laws even when the political decision is correct.
+
+A useful diagnostic: if you cannot easily name "ten wise persons" to staff an expert committee on a topic, you are likely weak at stages 1–3 of the pipeline for that topic. No amount of decisive action at stage 5 will compensate.
+
+## Applied
+
+Haryana's 2020 law reserving 75% of private sector jobs for local residents is a clean example of pipeline failure.
+
+The political decision (stage 5) was made quickly and with confidence. But the upstream stages were thin: there was no good statistical baseline of who was working in private firms (stage 1), little causal research on whether such reservations actually create jobs for locals or simply shift jobs out of the state (stage 2), and almost no public debate canvassing alternatives like skilling subsidies or transport infrastructure (stages 3–4). The legal drafting that followed (stage 6) was ambiguous on definitions and triggered immediate court challenges. Implementation capacity (stage 7) was never seriously planned.
+
+A reform that looks decisive at stage 5 collapsed because every other stage was empty. The pipeline framework would have predicted exactly this.
+
+The lesson runs both ways. Reform-minded governments cannot leap straight to legislation if the upstream is thin. Long-horizon investments in statistics, universities, and think tanks are not luxuries; they are the precondition for good policy.
+
+## When it falls short
+
+The framework is linear; real policymaking is recursive. Implementation reveals problems that send a policy back to the drawing board; new data changes how a problem is defined. Treating the seven stages as a strict sequence can mislead.
+
+It also assumes a benign, capable state genuinely interested in moving from facts to good law. In practice, parts of the pipeline can be deliberately starved — statistical systems weakened, research suppressed, public debate narrowed — precisely because reasoned policy is *not* what is wanted.
+
+Finally, the framework is silent on **politics as input**. It treats stage 5 as the only political stage, when in reality politics shapes which facts get collected, which research gets funded, and which solutions get voiced.
+
+## Related frameworks
+
+- [One Instrument, One Target](one-instrument-one-target.qmd) — what good design at stage 5 looks like.
+- [Wicked Problems](wicked-problems.qmd) — what makes upstream stages especially hard for some classes of problem.
+- [Policies vs Programmes vs Practices](policies-vs-programmes-vs-practices.qmd) — the granularity at which the pipeline actually operates.
+
+## Further reading
+
+- Kelkar, V., & Shah, A. (2019). *In Service of the Republic: The Art and Science of Economic Policy*. Penguin Allen Lane.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Seven Stages of the Policy Pipeline*](https://publicpolicy.substack.com/i/18088068/a-framework-a-week-seven-stages-of-the-policy-pipeline) on *Anticipating the Unintended*.
+:::

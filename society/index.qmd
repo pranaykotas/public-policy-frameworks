@@ -1,0 +1,22 @@
+---
+title: "Society"
+description: "Social norms, networked societies, ideology, and information ecosystems."
+listing:
+  contents: "*.qmd"
+  type: grid
+  grid-columns: 2
+  fields: [image, title, summary]
+  field-display-names:
+    title: "Framework"
+    summary: "What it says"
+  image-height: "180px"
+  sort:
+    - "title asc"
+  filter-ui: true
+  sort-ui: false
+  page-size: 50
+---
+
+Frameworks in this section sit at the boundary of state and society — how norms flip, how digital networks reshape collective action, and how ideologies travel.
+
+If you are new here, start with **Building Digital Communities** (to understand the specific logic of online collective action) or **Defence Against the Dark Arts in the Information Age** (to understand how misinformation spreads and what, if anything, stops it). These frameworks differ from the Public Policy section: they focus less on what governments *should* do and more on the underlying social dynamics that make governing hard.

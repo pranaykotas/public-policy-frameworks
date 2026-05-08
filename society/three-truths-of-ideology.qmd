@@ -1,0 +1,72 @@
+---
+title: "Three Truths of Ideology"
+summary: "The principles that animate how ideologies actually function — beyond their stated beliefs."
+categories: [Society]
+date: 2026-05-03
+image: "../images/defaults/society.png"
+tags:
+  - morality
+  - political-economy
+  - behaviour
+  - problem-definition
+use_cases:
+  - "When an opposition coalition defines itself only as 'not the current government' and you need to diagnose its missing sacred core"
+  - "When an ideological movement's claims expand from temples to textbooks to trade and internal contradictions begin to appear"
+  - "When 'anti-national' labels, expanded ideological shadows, and sanctified symbols all appear — mapping each to its truth"
+  - "When Reagan-Thatcher conservatism fractures under the weight of culture wars, deregulation, and globalisation simultaneously"
+  - "When predicting whether a new political coalition can sustain mobilisation beyond one electoral cycle without Truth 2 and Truth 3"
+  - "When assessing how a sacred principle ('sovereignty', 'national interest') is being deployed to pre-empt all policy trade-off discussions"
+---
+::: {.card-meta}
+[Society]{.badge} [ideology]{.badge} [politics]{.badge}
+:::
+
+> For all its pretensions, ideology reduces itself to three functional truths: find something to hate viscerally, over-extend your shadow to all realms of life, and sanctify a core principle that cannot be made profane.
+
+## Origin
+
+The framework is a synthesis drawn from observing how ideologies behave in practice — particularly the transformation of American conservatism from Goldwater's principled articulation to Trump's personality-driven movement. The three "truths" are not normative claims about what ideology should be; they are descriptive claims about what every successful ideology must do to survive.
+
+## What it says
+
+
+**Truth #1: An ideology needs a mortal enemy.**
+
+Ideological cohesion is easier to achieve through shared opposition than shared affirmation. Barry Goldwater laid down seven clear conservative principles in 1962; he lost in a landslide. Ronald Reagan used the same template but added a vivid enemy — "big government" — and won. The enemy need not be coherent; it need only be hated. In India, the Congress built post-Independence consensus around opposition to colonial rule. As that enemy faded, the party struggled to find a replacement. The BJP's ideological cohesion, by contrast, has been sustained by a continuously refreshed roster of enemies — real, imagined, and inherited.
+
+**Truth #2: Over-extension is the seed of destruction.**
+
+A clear ideology eases decision-making. The problem is that the modern state extends into every realm of life — economics, social norms, foreign policy, science, religion — and voters expect their ideology to have answers everywhere. This stretches any ideology thin. You might believe in free markets and also in climate action; in traditional family values and also in privacy rights. As the ideology claims authority across more domains, internal contradictions multiply. The compact that held the coalition together loosens. This is what happened to Reagan-Thatcher conservatism when it was asked to simultaneously deregulate finance, fight culture wars, and manage globalisation.
+
+**Truth #3: Find the sacred.**
+
+The way to hold off both threats — the loss of enemy focus and the loosening of the compact — is to elevate one core principle to sacred status. Once sanctified, it cannot be desecrated, and every argument can be routed through it. "Make America Great Again" was not a policy platform; it was a sacred invocation of the American way of life, usable to argue against mask mandates, gun control, climate agreements, or immigration. In the USSR and in China today, the sacred principle is Party supremacy. In many post-colonial states, it is nationalism. Once a principle is sanctified among the masses, all policy battles can be manoeuvred onto those grounds — and the side that holds the sacred wins.
+
+## Applied
+
+The framework explains why ideologically driven parties in India behave the way they do. The constant search for anti-national labels, the expansion of ideological claims from temples to textbooks to trade policy, and the elevation of specific symbols to untouchable status — all three truths are visible.
+
+It also explains the difficulty of building a coherent opposition. An opposition that defines itself only as "not the current government" has found Truth #1 but lacks Truths #2 and #3. Without an over-arching ideological shadow and a sacred core, it cannot sustain mobilisation beyond the immediate electoral cycle.
+
+## When it falls short
+
+The framework is cynical. It describes how ideologies function, not whether they are right. An ideology can be true and still follow these three rules; conversely, following the rules says nothing about the ideology's validity.
+
+It also assumes mass politics. In technocratic or authoritarian contexts where public opinion matters less, the three truths operate differently. The Chinese Communist Party does not need a mortal enemy to survive; it needs growth and surveillance.
+
+Finally, the framework underweights the role of material conditions. Economic distress can shatter even the most sanctified ideology, as the fall of the Soviet Union showed. Sacred principles are powerful but not omnipotent.
+
+## Related frameworks
+
+- [Cognitive Maps](../political-thinking/cognitive-maps.qmd) — why two people in the same ideology can still disagree.
+- [The Overton Window](../political-thinking/overton-window.qmd) — how the bounds of acceptable opinion shift independently of ideology.
+- [Internet and Politics](internet-and-politics.qmd) — how digital networks accelerate ideological mobilisation.
+
+## Further reading
+
+- Goldwater, B. (1962). *The Conscience of a Conservative*.
+- Haidt, J. (2012). *The Righteous Mind: Why Good People Are Divided by Politics and Religion*. Pantheon.
+
+::: {.attribution}
+Originally explored in [*Global Policy Watch: Three Truths of Ideology*](https://publicpolicy.substack.com/i/36453074/global-policy-watch-three-truths-of-ideology) on *Anticipating the Unintended*.
+:::

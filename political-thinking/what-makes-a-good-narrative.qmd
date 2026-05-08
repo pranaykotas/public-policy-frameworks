@@ -1,0 +1,70 @@
+---
+title: "What Makes a Good Narrative?"
+summary: "Characteristics of policy stories that travel: simplicity, emotional pull, and a credible villain."
+categories: [Political Thinking]
+date: 2026-05-03
+image: "../images/defaults/political-thinking.png"
+tags:
+  - causality
+  - narrative
+  - design
+  - behaviour
+use_cases:
+  - "When crafting a policy narrative that needs to travel beyond expert circles"
+  - "When critiquing a well-packaged but harmful policy that has a compelling story"
+  - "When Aatmanirbhar Bharat is the narrative and you need to understand why it works regardless of economics"
+  - "When evidence-based arguments are losing to a story that satisfies all five elements"
+  - "When building a counter-narrative against import protectionism or climate fatalism"
+  - "When a slow-burn structural issue like pension reform resists compelling storytelling"
+---
+::: {.card-meta}
+[Political Thinking]{.badge} [narrative]{.badge} [communication]{.badge}
+:::
+
+> Good policies need not just good evidence but also good stories. What is needed are counter-narratives that can stand up to the well-crafted stories that justify terrible policies.
+
+## Origin
+
+The framework comes from Marc Saxer's *Practical Guide to Transformative Change Making*, adapted for public policy by Pranay Kotasthane. Saxer was interested in how social movements and political entrepreneurs build support for change. His answer was not better data but better narrative architecture — a set of five elements that make a policy story stick, spread, and mobilise.
+
+## What it says
+
+
+Narratives are central to public policy because human beings think in stories. No matter how sound a policy proposal is, it will not travel without a narrative that carries it. Saxer identifies five criteria that distinguish powerful change narratives from weak ones:
+
+**1. Threat.** What is the danger of continuing with the status quo? A good narrative begins by making inaction feel risky, not just suboptimal.
+
+**2. Hope.** A vision of a better future where the interests of key constituencies converge. The vision must be **vague enough to allow different groups to project their own aspirations onto it**, yet **concrete enough to alter the calculation of risks versus opportunities**.
+
+**3. Opportunity.** A credible explanation of how the vision can become reality. This is where structural drivers — technological change, demographic shifts, geopolitical realignments — are invoked to show that the moment is ripe.
+
+**4. Confidence.** Facts framed so they are emotionally accessible and cognitively tangible. Metaphors, shared historical experiences, myths, and legends all serve this function. The message: what has been done before, can be done again.
+
+**5. Ethical Imperative.** Why the doable is the right thing to do. The narrative closes the gap between instrumental argument and moral obligation.
+
+A narrative that satisfies all five criteria does not merely inform; it **compels**. It makes the policy recommendation feel not just correct but inevitable.
+
+## Applied
+
+The "Aatmanirbhar Bharat" narrative is a near-perfect execution of the five-element architecture. The **threat** is strategic vulnerability: China can cripple Indian markets and supply chains at will. The **hope** is a vague but resonant vision of a self-reliant India — vague enough that industrialists, nationalists, and development economists can all read their own preferences into it. The **opportunity** is the global backlash against Chinese overreach and the China+1 shift in supply chains. The **confidence** draws on the "sone ki chidiya" myth — the idea that India was once prosperous and can be again. The **ethical imperative** frames self-reliance not as an economic strategy but as a precondition for sovereignty and dignity.
+
+Once this narrative is in motion, even counterproductive policies — import duties on televisions, app bans, local-content mandates — can be executed with broad public support. The economics may be questionable, but the narrative is airtight.
+
+The lesson for policy reformers is uncomfortable: evidence-based arguments are necessary but not sufficient. To defeat a well-crafted narrative, you need a better narrative, not just a better spreadsheet.
+
+## When it falls short
+
+The framework describes how narratives persuade, not whether they are true. A demagogue can satisfy all five criteria with a story that is factually false and morally abhorrent. The framework offers no internal mechanism for distinguishing good-faith narratives from manipulation.
+
+It also overstates the plasticity of narrative. Some policy problems — technical, slow-burn, lacking a clear villain — simply do not lend themselves to compelling storytelling. Pension reform, statistical system modernisation, and judicial process improvement are all vital and all narratively inert. The framework cannot conjure a myth where none exists.
+
+## Related frameworks
+
+- [Types of Causal Narratives](types-of-causal-narratives.qmd) — the causal story-shapes that narratives deploy.
+- [The Overton Window](overton-window.qmd) — the boundary of what narratives are sayable in public.
+- [Cognitive Maps](cognitive-maps.qmd) — why the same narrative lands differently on different audiences.
+
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: What Makes a Good Narrative?*](https://publicpolicy.substack.com/i/800865/a-framework-a-week-what-makes-a-good-narrative) on *Anticipating the Unintended*.
+:::

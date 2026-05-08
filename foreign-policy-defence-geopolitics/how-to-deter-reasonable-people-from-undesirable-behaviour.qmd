@@ -1,0 +1,62 @@
+---
+title: "How to Deter Reasonable People from Undesirable Behaviour"
+summary: "The mechanics of deterrence applied to states acting roughly rationally."
+categories: ["Foreign Policy & Geopolitics"]
+date: 2026-05-03
+image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+tags:
+  - behaviour
+  - incentives
+  - decision-making
+  - security
+use_cases:
+  - "When Chinese LAC aggression is treated as ideological irrationality rather than a calculable response to incentives, strategic vulnerability, and perceived opportunity"
+  - "When designing deterrence that raises costs in specific domains where India has tactical advantage rather than defaulting to purely military response"
+  - "When addressing the systemic factor — absence of settled boundaries — that makes salami-slicing on the LAC attractive to China"
+  - "When the lottery-vs-reasonableness analogy applies: the question is what makes an adversary's behaviour rational in their context, not whether they are 'crazy'"
+  - "When shifting from coercive-only deterrence to a richer mix that engages the adversary as a rational actor while maintaining capability to impose costs"
+  - "When designing counter-terrorism policy that identifies the incentive structure driving recruitment rather than treating recruiters as purely irrational"
+---
+
+::: {.card-meta}
+[Foreign Policy, Defence & Geopolitics]{.badge} [deterrence]{.badge} [behavioural]{.badge}
+:::
+
+> Assuming that people are reasonable highlights the need to engage with people who are the targets of interventions. This turns them from targets into partners.
+
+## Origin
+
+This framework draws on a paper by Nick Chater and George Loewenstein — *Behavioral Science Should Start by Assuming People Are Reasonable* — adapted by Pranay Kotasthane for the *A Framework a Week* series. It connects behavioural science insights to the logic of deterrence in international relations.
+
+## What it says
+
+
+Conventional economics assumes humans are rational; behavioural science assumes they are irrational. A growing consensus suggests a middle ground: humans are **reasonable** — they try to make optimal use of available information that fits their own contexts and goals.
+
+This matters enormously for deterrence. If we assume adversaries are irrational, our policy solutions tend towards coercion and paternalism. If we assume they are reasonable, we can explain their behaviour as responses to incentives, cultural context, and systemic factors — and design deterrence accordingly.
+
+The lottery example illustrates the difference:
+- **Irrationality assumption:** Playing the lottery is a cognitive bias. Solution: ban lotteries, run education campaigns.
+- **Reasonableness assumption:** Lottery-playing is cheap entertainment, social participation, or a response to limited upward mobility. Solution: address systemic factors that make the lottery appealing.
+
+Applied to states: if we assume China is "irrational" in its Himalayan aggression, we might favour purely military responses. If we assume it is reasonable — responding to domestic nationalism, strategic vulnerability, and perceived opportunity — we can design a richer mix of military, economic, and diplomatic deterrence.
+
+## Applied
+
+In the India-China context, the framework suggests that Chinese actions on the LAC are not random or ideologically driven but responses to a calculable mix of incentives. Deterrence should therefore:
+
+- Raise the costs of aggression in specific domains where India has tactical advantage.
+- Address the systemic factors — such as the absence of settled boundaries — that make salami-slicing attractive.
+- Engage with China as a reasonable actor while maintaining the capability to impose costs.
+
+## When it falls short
+
+The framework works best when the adversary is indeed acting within a reasonable cost-benefit framework. It breaks down when leaders are genuinely irrational (risk-acceptant to the point of self-destruction) or when domestic political constraints make cost-benefit calculation impossible. It also risks being too charitable — interpreting aggression as "reasonable" when it is simply opportunistic expansion.
+
+## Related frameworks
+
+- [Responding to LAC Standoff in Ladakh](responding-to-lac-standoff-in-ladakh.qmd) — a tactical framework for making aggression costly for China.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: How to Deter Reasonable People from Undesirable Behaviour*](https://publicpolicy.substack.com/i/144298540/a-framework-a-week-how-to-deter-reasonable-people-from-engaging-in-undesirable-behaviour) on *Anticipating the Unintended*.
+:::

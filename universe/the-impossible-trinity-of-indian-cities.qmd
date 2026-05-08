@@ -1,0 +1,75 @@
+---
+title: "The Impossible Trinity of Indian Cities"
+summary: "Affordable housing, easy commute, and pleasant environment — pick any two."
+categories: [Universe]
+date: 2026-05-03
+image: "../images/defaults/universe.png"
+tags:
+  - institutions
+  - state-capacity
+  - decision-making
+  - causality
+use_cases:
+  - "When Mumbai, Delhi, and Bengaluru offer economic dynamism and individual liberty but impose killer commutes and unaffordable housing as the hidden price"
+  - "When Goa or Kerala cities offer livability and liberty but thin economic networks — mapping the trade-off explicitly for a relocation decision"
+  - "When smaller or Gujarat towns offer economic opportunity and affordability but restrict individual expression through stronger community norms"
+  - "When someone claims a city offers all three and you need to ask which is being subsidised by invisible costs"
+  - "When advising a firm on location decisions by mapping the trilemma trade-off for their employee profile and talent needs"
+  - "When evaluating urban policy that promises improved livability without acknowledging which other corner of the trilemma must be sacrificed"
+---
+::: {.card-meta}
+[Universe]{.badge} [cities]{.badge} [trade-offs]{.badge}
+:::
+
+> Living in many Indian cities can be represented as a trilemma between three parameters: a decent standard of living, economic dynamism, and individual liberty. You can have two, but not all three.
+
+## Origin
+
+The "impossible trinity" or "policy trilemma" is a well-known heuristic in economics — the most famous version being that a country cannot simultaneously have a fixed exchange rate, free capital movement, and an independent monetary policy. The framework was adapted for Indian cities in an *India Policy Watch* edition, translating a macroeconomic concept into an urban quality-of-life diagnostic.
+
+## What it says
+
+
+The trilemma identifies three desirable attributes of a city:
+
+**A decent standard of living.** A median resident can afford dignified housing, commute without fearing death or disability, and breathe non-hazardous air most of the time.
+
+**Economic dynamism.** The place offers a wide range of economic opportunities at all income levels — jobs, markets, networks, and upward mobility.
+
+**Individual liberty.** The city allows an individual to be herself, where community beliefs do not suppress individual initiative, preferences, and expression.
+
+The claim is not that these three are technically impossible together. It is that in the Indian context, given current state capacity, land markets, and social structures, achieving all three simultaneously is extraordinarily difficult. The framework forces a explicit choice.
+
+## Applied
+
+The framework maps neatly onto Indian cities:
+
+- **Mumbai, Delhi, Bengaluru:** Economic dynamism and individual liberty are high. But the standard of living is poor for the median resident — unaffordable housing, killer commutes, and toxic air. The city extracts a physical tax for the economic and social freedom it offers.
+
+- **Goa, Kerala cities:** Standard of living and individual liberty are reasonable. But economic dynamism is low — fewer jobs, smaller markets, thinner professional networks. You can breathe and be yourself, but you may not find work.
+
+- **Smaller towns and Gujarat cities:** Standard of living and economic dynamism can be reasonable. But individual liberty is constrained — community norms are stronger, and the city enforces conformity on diet, dress, and social behaviour. You can earn and live affordably, but at the cost of self-expression.
+
+The diagnostic value: when someone claims a city offers all three, the framework forces you to ask which one is being subsidised by invisible costs — long commutes, pollution, social pressure, or economic stagnation.
+
+## When it falls short
+
+The trilemma is intentionally provocative, not scientific. Some neighbourhoods within cities do manage all three — pockets of South Bombay, parts of Indiranagar in Bengaluru, select locales in Panjim. The framework operates at the city-wide median, not the micro-level.
+
+It also treats the three attributes as independent when they clearly interact. Economic dynamism can fund better infrastructure (raising the standard of living). Individual liberty can attract talent (raising economic dynamism). Over long time horizons, the trilemma can be relaxed — but only with sustained investment and institutional reform that most Indian cities have not managed.
+
+Finally, the framework is static. A city can move between quadrants. Bengaluru in the 1990s had all three at a lower level. The trade-offs became sharper as the city grew faster than its infrastructure and governance capacity.
+
+## Related frameworks
+
+- [Confronting Trade-offs](../political-thinking/confronting-trade-offs.qmd) — methods for reasoning when no choice satisfies everyone.
+- [How to Build a Good 2x2 Matrix](how-to-build-a-good-2x2-matrix.qmd) — scenario-planning tools that help map trade-offs.
+- [Three Binding Constraints on Technological Progress](three-binding-constraints-tech-progress.qmd) — another trilemma framework applied to innovation.
+
+## Further reading
+
+- Glaeser, E. (2011). *Triumph of the City: How Our Greatest Invention Makes Us Richer, Smarter, Greener, Healthier, and Happier*. Penguin Press.
+
+::: {.attribution}
+Originally explored in [*India Policy Watch: Another Impossible Trinity*](https://publicpolicy.substack.com/i/98109740/india-policy-watch-another-impossible-trinity) on *Anticipating the Unintended*.
+:::

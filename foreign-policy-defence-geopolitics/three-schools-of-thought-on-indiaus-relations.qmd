@@ -1,0 +1,70 @@
+---
+title: "Three Schools of Thought on India–US Relations"
+summary: "The competing perspectives Indian strategists hold on the bilateral relationship."
+categories: ["Foreign Policy & Geopolitics"]
+date: 2026-05-03
+image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+tags:
+  - decision-making
+  - international-relations
+  - political-economy
+  - security
+use_cases:
+  - "When mapping whether an Indian foreign policy commentator belongs to the retaliatory, bandwagoning, or swing-power school — and what each implies"
+  - "When the retaliatory school's 'why support the US when they back Pakistan' argument needs to be tested against opportunity cost"
+  - "When the swing-power strategy is constrained by insufficient Indian power and the question is how much power growth changes the calculation"
+  - "When intensifying US-China rivalry is closing the swing option and India must decide whether to move closer to a bandwagoning posture"
+  - "When the highest common factor across all three schools — rapid Indian power growth — is used to find political common ground in the debate"
+  - "When advising on whether India's current policy (closer to swing) is the optimal choice given the current power differential with both superpowers"
+---
+::: {.card-meta}
+[Foreign Policy, Defence & Geopolitics]{.badge} [India-US]{.badge} [strategic-choice]{.badge}
+:::
+
+> India's options toward the United States and China must always be greater than their options toward each other.
+
+## Origin
+
+This framework was developed by Pranay Kotasthane in the *Matsyanyaaya* section of *Anticipating the Unintended*, classifying Indian perspectives on the India-US relationship into three coherent schools.
+
+## What it says
+
+
+**School 1: Retaliatory.** The underlying principle: why should India support the US when it continues to support Pakistan's military-jihadi complex? Why shouldn't India impose tariffs on US goods when the US does the same to India?
+
+As Bharat Karnad puts it: "Modi seems smitten by America, and losing the plot on how to further the national interest."
+
+The framework judges this school as low on realism. It ignores the opportunity costs of not having the US on India's side, and the opportunity benefits of alignment.
+
+**School 2: Bandwagoning.** The perspective, most effectively conveyed by K. Subrahmanyam: align with the US to increase India's own power. The US and India have no clash of national interest; the two-million-strong Indian diaspora is a natural bridge.
+
+The risk: allying with the US can decrease India's power if it is put on a collision course with China, or pushed into conflicts of little interest.
+
+**School 3: Swing power / Marginal cost-benefit strategy.** India should do business with both the US and China so that both take it seriously. As Pratap Bhanu Mehta warns: "An open declaration of a political and defence alignment with the US forecloses those options."
+
+Nitin Pai agrees: "Despite an alignment of interests, [India] must not always side with the United States. It must swing."
+
+The cost: with neither the US nor China backing India completely, their conduct with Pakistan becomes a determinant for India's success as an international player.
+
+## Applied
+
+The framework makes clear that regardless of which school one favours, the **highest common factor is a substantial and rapid rise in India's power** — economic, military, maritime, and political. Unless that happens, India's options with any major power will always remain less than their options with each other.
+
+The framework also suggests that India's current policy — closer to the swing-power school — is constrained by insufficient power. As India grows, it may be able to move closer to a bandwagoning posture without the risks that currently attend it.
+
+## When it falls short
+
+The framework is a snapshot of Indian strategic debate as of the late 2010s. The intensification of US-China rivalry and the Ukraine war have shifted the calculus. The "swing" option may be closing as both superpowers demand clearer alignment. The framework also does not engage with the domestic political economy of each school.
+
+## Related frameworks
+
+- [Paradoxes of India's Westernophobia](paradoxes-of-indias-westernophobia.qmd) — the emotional and historical barriers that shape School 1.
+- [Aap Hamaare Hain Kaun, Russia?](aap-hamaare-hain-kaun-russia.qmd) — why the retaliatory school's attachment to Russia is misplaced.
+
+## Further reading
+
+- Karnad, Bharat. *Why India is Not a Great Power (Yet)*. Oxford University Press, 2015.
+
+::: {.attribution}
+Originally explored in [*Matsyanyaaya: On the India–US Relationship*](https://publicpolicy.substack.com/i/266338/matsyanyaaya-on-the-indiaus-relationship) on *Anticipating the Unintended*.
+:::

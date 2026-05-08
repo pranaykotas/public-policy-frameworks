@@ -1,0 +1,60 @@
+---
+title: "The Right & Wrong of Ages Past"
+summary: ". Nevertheless, something that comes often in public debates is the issue of passing moral judgment on someone from the past."
+categories: [Society]
+date: 2026-05-03
+image: "../images/defaults/society.png"
+tags:
+  - morality
+  - history
+  - judgment
+  - ethics
+use_cases:
+  - "When deciding whether to rename an institution or remove a statue based on the historical figure's record"
+  - "When assessing whether a colonial-era administrator could have known the harm their policies caused"
+  - "When designing history curricula that neither sanitise the past nor anachronistically condemn it"
+  - "When a political debate recycles historical grievances and you need to distinguish moral standardism from whataboutery"
+  - "When evaluating political legacies in contemporary debates using the best standards available at the time"
+  - "When 'everyone did it then' is used as a moral absolution and needs to be distinguished from genuine standardism"
+---
+
+::: {.card-meta}
+[Society]{.badge} [morality]{.badge} [narrative]{.badge}
+:::
+
+> The proper standards by which to judge people are the best standards that were available to them at the time.
+
+## Origin
+
+This framework draws on philosopher Miranda Fricker's articulation of "moral standardism," introduced in a BBC Magazine article, and was adapted by Pranay Kotasthane in an essay for *Pragati* on how to judge historical figures.
+
+## What it says
+
+
+When we judge historical figures, three positions are available:
+
+- **Moral relativism:** Values evolve across time and place, so judging the past by modern standards is unfair.
+- **Moral absolutism:** Universal standards of right and wrong apply regardless of era or circumstance.
+- **Moral standardism:** The proper standard is the best that was available to the person at the time.
+
+The standardist position asks not whether a historical figure was perfect by today's lights, but whether they could have known and done better given the standards of their era. This shifts debate away from listing good deeds to counter bad ones — all historical figures are layered — and toward a narrower, more answerable question.
+
+## Applied
+
+- When assessing calls to remove statues or rename institutions.
+- When designing history curricula that neither sanitise the past nor anachronistically condemn it.
+- When evaluating political legacies in contemporary debates.
+
+## When it falls short
+
+"What was knowable at the time" is itself contested, and the framework does not resolve who decides. It can also become an excuse for minimising grave harm: "everyone did it then" is not a moral absolution. Finally, it is silent on the politics of commemoration, which is often less about history than about present-day identity.
+
+## Related frameworks
+
+- [[The Basis of Morality]](../society/the-basis-of-morality.qmd) — where moral intuitions come from.
+- [[Three Truths of Ideology]](../society/three-truths-of-ideology.qmd) — how ideological narratives structure historical memory.
+- [[What Is a Nation?]](../society/what-is-a-nation.qmd) — the politics of collective memory and identity.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: The Right & Wrong of Ages Past*](https://publicpolicy.substack.com/p/42-baithe-baithe-kya-karein) on *Anticipating the Unintended*.
+:::

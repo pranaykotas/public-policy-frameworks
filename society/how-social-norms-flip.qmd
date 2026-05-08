@@ -1,0 +1,82 @@
+---
+title: "How Social Norms Flip"
+summary: "The mechanism by which a norm everyone privately rejects can collapse very quickly."
+categories: [Society]
+date: 2026-05-03
+image: "../images/defaults/society.png"
+tags:
+  - causality
+  - behaviour
+  - design
+  - problem-definition
+use_cases:
+  - "When India's Motor Vehicles Act 2019 raised fines but saw no behaviour change because detection was never increased first"
+  - "When sequencing enforcement so Step 1 (detection) precedes Step 3 (higher penalties) to shift empirical expectations"
+  - "When a drunk-driving, seatbelt, or helmet campaign needs to follow the sequence that worked in countries that succeeded"
+  - "When a behaviour-change programme has failed because it raised fines without making rule-breaking visibly consequential"
+  - "When state governments offered 90 per cent discounts on challans and you need to diagnose why the norm never shifted"
+  - "When designing anti-corruption or tax compliance campaigns that must change what people believe others are doing"
+---
+::: {.card-meta}
+[Society]{.badge} [norms]{.badge} [behaviour-change]{.badge}
+:::
+
+> Increasing fines without better enforcement does not change longstanding social norms. The question is whether there is a systematic way to sequence policy steps so that behaviour actually shifts.
+
+## Origin
+
+The five-step sequence draws on the work of criminologist Nick Cowen, who studied how drunk driving — once a commonplace social norm in many countries — came to be socially unacceptable. Cowen's analysis was published in *Works in Progress*. The underlying theory of social norms comes from Cristina Bicchieri's pioneering work on empirical and normative expectations.
+
+## What it says
+
+
+A social norm survives on two kinds of expectations working together:
+
+- **Empirical expectations:** I do something because everyone around me is doing it too.
+- **Normative expectations:** I believe others expect me to behave that way.
+
+When both are aligned, the norm is stable. Flipping it requires a sequenced intervention:
+
+**Step 1: Increase detection to target conditional offenders.**
+Start by making it likely that rule-breakers will be caught and sanctioned — even if the sanction is small. Conditional offenders (those who break the norm only because everyone else does) recalibrate their empirical expectations when they see consequences become real.
+
+**Step 2: Publicise the deterrence.**
+Messaging that enforcement has increased signals society-wide disapproval. Bystanders become more likely to intervene. This begins shifting normative expectations.
+
+**Step 3: Increase punishment for habitual offenders.**
+Once the marginal offenders have dropped out, raise the quantum of punishment for the remaining hardcore deviants. At this stage the public supports stronger measures because the norm has already begun to shift.
+
+**Step 4: Monitor and adjust.**
+Track whether empirical and normative expectations are moving in the same direction. Adapt intensity and messaging as the norm evolves.
+
+**Step 5: Encourage positive norms.**
+Reinforce the new behaviour by showcasing compliance, identifying norm champions, and making the rule-following norm visible.
+
+## Applied
+
+India's Motor Vehicles Act 2019 substantially hiked fines for traffic violations, expecting a deterrent effect. It failed — and some states later offered "discounts" of up to 90 per cent on pending challans. The framework explains why: the policy skipped Step 1. Without increased detection and swift sanction, empirical expectations never shifted. Drivers continued to see others breaking rules with impunity, so the higher fines simply became a cost of doing business rather than a signal of social disapproval.
+
+The drunk-driving parallel is instructive. Countries that succeeded did not start with harsh sentences. They started with breathalyser checkpoints (Step 1), publicised them (Step 2), and only later raised penalties (Step 3). The sequence matters more than the severity.
+
+## When it falls short
+
+The framework assumes the state has enough enforcement capacity to make detection credible. In contexts where the police are understaffed, corrupt, or themselves norm-breakers, Step 1 is impossible and the whole sequence collapses.
+
+It also treats social norms as independent of identity and politics. A norm tied to caste, religion, or partisan identity may resist deterrence because the empirical expectations are reinforced by in-group solidarity, not just frequency of behaviour. In such cases, messaging from the "wrong" messenger can backfire.
+
+Finally, not all norms should be flipped. Some locally stable norms serve useful coordinating functions. The framework is a tool for change, not a reason to change everything.
+
+## Related frameworks
+
+- [Radically Networked Societies](radically-networked-societies.qmd) — how digital networks reshape the social landscape in which norms operate.
+- [Building Digital Communities](building-digital-communities.qmd) — the design of online spaces where norms are actively constructed.
+- [Why We Do Stupid Things in Groups](why-we-do-stupid-things-in-groups.qmd) — collective irrationality as a norm-driven phenomenon.
+
+## Further reading
+
+- Bicchieri, C. (2017). *Norms in the Wild: How to Diagnose, Measure, and Change Social Norms*. Oxford University Press.
+- Sunstein, C. R. (2019). *How Change Happens*. MIT Press.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Norm Flipping*](https://publicpolicy.substack.com/i/142234193/a-framework-a-week-norm-flipping) on *Anticipating the Unintended*.
+:::

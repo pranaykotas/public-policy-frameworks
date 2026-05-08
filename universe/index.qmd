@@ -1,0 +1,22 @@
+---
+title: "Universe"
+description: "Modelling, trade-offs, and frameworks that cut across domains."
+listing:
+  contents: "*.qmd"
+  type: grid
+  grid-columns: 2
+  fields: [image, title, summary]
+  field-display-names:
+    title: "Framework"
+    summary: "What it says"
+  image-height: "180px"
+  sort:
+    - "title asc"
+  filter-ui: true
+  sort-ui: false
+  page-size: 50
+---
+
+A catch-all section for frameworks that don't fit neatly elsewhere — building good models, constructing 2x2 matrices, navigating impossible trinities.
+
+If you are new here, start with **Building Models** (on why simplification is not a bug but the whole point of a model) and **Three Binding Constraints on Tech Progress** (a framework for diagnosing why a technology isn't spreading as fast as expected). These are the most domain-agnostic frameworks on the site — useful whether you are analysing a policy problem, a business decision, or an intellectual puzzle.

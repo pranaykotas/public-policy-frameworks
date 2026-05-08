@@ -1,0 +1,31 @@
+---
+title: "Find a Framework"
+summary: "Describe a policy problem and get recommended frameworks."
+page-layout: custom
+---
+
+::: {.finder-page}
+
+# Find a Framework
+
+Describe the policy problem you're trying to understand — e.g. "why infrastructure projects fail" or "how to think about India's labour policy" — and we'll recommend the most relevant frameworks.
+
+::: {.finder-input-row}
+<input type="text" id="finder-input" class="finder-input" placeholder="Type a policy problem, topic, or question…" />
+<button id="finder-btn" class="finder-btn">Find</button>
+:::
+
+::: {.example-chips}
+<button class="example-chip" data-query="why infrastructure projects fail">infrastructure failures</button>
+<button class="example-chip" data-query="how narrative shifts policy acceptability">narrative and policy</button>
+<button class="example-chip" data-query="matching policy instruments to objectives">instrument selection</button>
+<button class="example-chip" data-query="deterrence and state behaviour">deterrence</button>
+<button class="example-chip" data-query="fiscal federalism and taxation">fiscal federalism</button>
+<button class="example-chip" data-query="corruption incentives and institutions">corruption</button>
+:::
+
+<div id="finder-results" class="finder-results-area"></div>
+
+:::
+
+<script src="../scripts/finder.js"></script>

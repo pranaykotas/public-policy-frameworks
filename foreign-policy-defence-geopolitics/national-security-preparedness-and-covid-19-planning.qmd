@@ -1,0 +1,70 @@
+---
+title: "National Security Preparedness and COVID-19 Planning"
+summary: "Why pandemics belong in national security thinking, not just public health."
+categories: ["Foreign Policy & Geopolitics"]
+date: 2026-05-03
+image: "../images/national-security-preparedness-and-covid-19-planning.webp"
+tags:
+  - design
+  - implementation
+  - state-capacity
+  - evaluation
+use_cases:
+  - "When COVID-19 lockdown management and the LAC standoff simultaneously compete for police capacity — identifying policing as the critical bottleneck"
+  - "When a single development (pandemic) generates multiple cascading risks across health, internal security, and border management simultaneously"
+  - "When distinguishing preparedness actions (taken in advance to reduce likelihood) from countermeasures (taken after a risk materialises) in a contingency plan"
+  - "When proposing to surge policing capacity through Central Armed Police Forces, private security offloading, or retired officers during a crisis"
+  - "When climate disasters, cyber-attacks, or economic shocks generate cross-silo cascading risks that departmental plans have not anticipated"
+  - "When designing national security preparedness plans that are generic enough to handle unexpected developments, not only pre-specified scenarios"
+---
+
+::: {.card-meta}
+[Foreign Policy, Defence & Geopolitics]{.badge} [preparedness]{.badge} [contingency]{.badge}
+:::
+
+> A single development can generate multiple risks. Contingencies can also generate opportunities apart from risks.
+
+## Origin
+
+This framework was adapted by Pranay Kotasthane from a WHO contingency planning model, applied to India's national security situation during the COVID-19 pandemic and the simultaneous LAC standoff with China.
+
+## What it says
+
+![National Security Preparedness and COVID-19 Planning](../images/national-security-preparedness-and-covid-19-planning.webp){fig-alt="National Security Preparedness and COVID-19 Planning"}
+
+Systematic contingency planning involves identifying four factors:
+
+1. **Developments:** The underlying phenomena that cause risks to materialise. A single development can generate multiple risks.
+2. **Risks:** Potential hazards that must be identified and mitigated. (Kotasthane adds that contingencies can also generate opportunities.)
+3. **Preparedness actions:** Proactive steps taken in advance primarily to reduce the likelihood of a risk materialising, and secondarily to reduce its impact.
+4. **Countermeasures:** Reactive steps taken to reduce or contain the impact of a risk once it has begun materialising.
+
+Applying this to India's COVID-19 plus LAC situation revealed that policing capacity was the critical bottleneck. Police forces were deployed on lockdown management, border control, and quarantine enforcement — stretching them thin just when they might also be needed for security contingencies.
+
+## Applied
+
+Short-term options to surge policing capacity:
+
+- Supplement state police forces with Central Armed Police Forces in sensitive areas.
+- Offload auxiliary policing functions to the private security sector temporarily.
+- Bring back retired police officers for functions that do not require much social interaction.
+
+Long-term: the pandemic underscored the urgent need for both **policing reforms** (procedural and accountability changes) and **police reforms** (structural reorganisation of the force).
+
+The framework also applies beyond pandemics. Climate disasters, cyber-attacks, and economic shocks all generate cascading risks that cut across departmental silos. National security planning must be generic enough to handle unexpected developments, not just scenario-specific.
+
+## When it falls short
+
+The framework is broad and requires detailed domain expertise to operationalise. It does not tell us how to trade off resources between preparedness and countermeasures, or how to maintain political support for expensive preparedness measures that may never be used.
+
+## Related frameworks
+
+- [Responding to LAC Standoff in Ladakh](responding-to-lac-standoff-in-ladakh.qmd) — the specific tactical situation that overlapped with COVID-19.
+
+## Further reading
+
+- World Health Organization. *Contingency Planning Framework*.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: National Security Preparedness and Planning for COVID-19*](https://publicpolicy.substack.com/i/593932/a-framework-a-week-matsyanyaaya-national-security-preparedness-and-planning-for-covid) on *Anticipating the Unintended*.
+:::

@@ -1,0 +1,60 @@
+---
+title: "How to Analyse an Analysis"
+summary: "A meta-framework for evaluating the analyses you read — own one before applying any other."
+categories: [Society]
+date: 2026-05-03
+image: "../images/defaults/society.png"
+tags:
+  - problem-definition
+  - causality
+  - institutions
+  - federalism
+use_cases:
+  - "When an op-ed advocates a sweeping reform and you need to surface its unstated assumptions before accepting its conclusions"
+  - "When two sides in a policy debate contradict each other and you need to identify whether they are answering different questions"
+  - "When a research claim underpins a major spending programme and the methodology needs scrutiny before the money flows"
+  - "When dissecting a think-tank brief to distinguish genuine reasoning from post-hoc justification of a predetermined position"
+  - "When a strategic recommendation is backed by analogies and powerful metaphors but lacks explicit premises"
+  - "When teaching critical reading and needing a structured eight-point checklist to apply to any argument"
+---
+::: {.card-meta}
+[Society]{.badge} [critical-thinking]{.badge} [epistemology]{.badge}
+:::
+
+> In the Information Age, we are exposed to several opinions on any given topic. Impactful analogies and powerful metaphors can change our thinking about a topic. Wouldn't it be great if we have a framework to analyse opinions?
+
+## Origin
+
+This eightfold path comes from Linda Elder and Richard Paul's *The Thinker's Guide to Analytic Thinking*. It shares intellectual ancestry with the Indian debating tradition of *purva paksha* — representing your opponent's view faithfully before criticising it.
+
+## What it says
+
+
+The framework forces reflection on eight dimensions of any argument:
+
+1. **Purpose.** What is the author trying to accomplish? Stated purposes often differ from actual ones.
+2. **Key question.** What is the central question the author is addressing? A poorly framed question predetermines the answer.
+3. **Important information.** What facts, experiences, and data does the author use to support conclusions? What is omitted?
+4. **Main inferences.** What are the most important conclusions drawn? Do they follow from the information provided?
+5. **Key concepts.** What are the most important ideas you must understand to follow the author's reasoning? Are they clearly defined?
+6. **Main assumptions.** What is the author taking for granted that might be questioned? Assumptions are often unstated and are where reasoning logically begins.
+7. **Implications.** What consequences follow if we accept this reasoning? What consequences follow if we reject it?
+8. **Point of view.** From what position is the author looking at the subject? Every perspective reveals some things and conceals others.
+
+Running through these eight elements prevents the fast brain from being swayed by rhetoric, analogy, or vehement agreement.
+
+
+## When it falls short
+
+The framework is time-intensive. Applying it rigorously to every article you read is impractical. It works best as a deliberate exercise for high-stakes decisions — buying into a policy position, evaluating a research claim, or assessing a strategic recommendation.
+
+It also assumes the author is making an argument at all. Much contemporary discourse is mood affiliation or identity signalling masquerading as analysis. In such cases, the framework correctly diagnoses that there is nothing to analyse — but that realisation itself is useful.
+
+## Related frameworks
+
+- [Cognitive Maps](../political-thinking/cognitive-maps.qmd) — mapping how individuals interpret policy causality.
+- [Types of Causal Narratives](../political-thinking/types-of-causal-narratives.qmd) — identifying the structure of explanatory stories.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: How to Analyse an Analysis*](https://publicpolicy.substack.com/i/40599585/a-framework-a-week-how-to-analyse-an-analysis) on *Anticipating the Unintended*.
+:::

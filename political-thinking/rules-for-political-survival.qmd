@@ -1,0 +1,64 @@
+---
+title: "Rules For Political Survival"
+summary: ": Keep your winning coalition as small as possible. A small coalition allows a leader to rely on very few people to stay in power. Fewer essentials equals more control and contributes to more discretion over expenditures."
+categories: [Political Thinking]
+date: 2026-05-03
+image: "../images/defaults/political-thinking.png"
+tags:
+  - political-economy
+  - incentives
+  - leadership
+  - selectorate
+  - coalition
+use_cases:
+  - "When analysing why a leader resists reforms that would benefit the population broadly"
+  - "When trying to predict how an authoritarian or democratic government will respond to pressure"
+  - "When patronage transfers persist even when public goods would deliver higher welfare"
+  - "When disaster relief is captured by political elites rather than delivered to affected citizens"
+  - "When reading coalition politics in Indian states where patronage networks determine outcomes"
+  - "When designing institutional reforms that expand the winning coalition's incentives toward public goods"
+---
+
+::: {.card-meta}
+[Political Thinking]{.badge} [political-economy]{.badge} [incentives]{.badge}
+:::
+
+> Effective policy for the masses doesn't necessarily produce loyalty among essentials, and it's darn expensive to boot.
+
+## Origin
+
+The framework comes from *The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics* (2011) by Bruce Bueno de Mesquita and Alastair Smith. The Netflix series *How To Become A Tyrant* is based on the same logic. The book's central premise is that politicians, dictators and democrats alike, must follow the same playbook of self-interested behaviour to stay in power.
+
+## What it says
+
+
+Political survival is a principal-agent problem. Leaders stay in power not by serving the public interest but by managing a small **winning coalition** of essentials who control the instruments of power. The rest are **interchangeables** — a large pool of potential replacements that keeps the coalition docile. The five rules are intuitive but ruthless: keep the coalition small, keep the selectorate large, control revenue, pay supporters just enough, and never divert money from the coalition to improve public welfare. The logic applies across democracies and dictatorships; only the size of the coalition changes. Democracies merely have larger coalitions; the incentive to pay essentials and starve interchangeables remains.
+
+## Applied
+
+- When analyzing why a government prioritises expensive welfare transfers over public goods that benefit everyone — the former rewards a narrow coalition, the latter does not.
+- When predicting which policies survive a change in leadership — those that pay the coalition, not those that serve the public.
+- When designing institutional reforms that aim to expand the winning coalition and align leader incentives with citizen welfare.
+- When explaining why disaster relief is sometimes captured by the military or local elites rather than delivered directly to citizens — the coalition must be fed first.
+- When reading coalition politics in Indian states where patronage networks determine electoral outcomes.
+
+## When it falls short
+
+- It assumes leaders are pure survival-maximisers; it underpredicts leaders who sacrifice power for legacy or ideology.
+- The framework is descriptive, not prescriptive — it explains why bad policies persist but offers no straightforward path to reform.
+- It treats the selectorate as passive, missing moments when mass mobilisation or information shocks overturn the coalition calculus.
+- It struggles to explain reformist leaders who deliberately dismantle the very coalitions that brought them to power.
+
+## Related frameworks
+
+- [[The Overton Window]](../political-thinking/overton-window.qmd)
+- [[Kingdon's Three Streams]](../political-thinking/kingdon-three-streams.qmd)
+- [[Wilson's Interest Group Matrix]](../political-thinking/wilson-interest-group-matrix.qmd)
+
+## Further reading
+
+- [Original newsletter essay](https://publicpolicy.substack.com/p/145-the-escalation-ladder-of-outrage)
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Rules For Political Survival*](https://publicpolicy.substack.com/p/145-the-escalation-ladder-of-outrage) on *Anticipating the Unintended*.
+:::

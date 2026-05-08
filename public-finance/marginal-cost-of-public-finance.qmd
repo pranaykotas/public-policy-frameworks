@@ -1,0 +1,71 @@
+---
+title: "Marginal Cost of Public Finance"
+summary: "Every additional rupee government raises has an economic cost beyond the rupee itself — and that cost matters."
+categories: [Public Finance]
+date: 2026-05-03
+image: "../images/defaults/public-finance.png"
+tags:
+  - causality
+  - evaluation
+  - security
+  - behaviour
+use_cases:
+  - "When evaluating whether keeping Air India, BSNL, or a loss-making PSU under state control passes the social cost test"
+  - "When a ₹1 lakh crore fertiliser subsidy must be tested against the ₹3 lakh crore cost society actually bears"
+  - "When comparing cash transfers to in-kind subsidies and need to show the latter imposes higher distortion"
+  - "When arguing for GST broadening or rate rationalisation as a way to lower the MCPF across all spending"
+  - "When a new government programme promises social returns and you need a threshold to test whether they clear the bar"
+  - "When a Pigouvian carbon tax is proposed and you need to explain why its MCPF can fall below 1"
+---
+::: {.card-meta}
+[Public Finance]{.badge} [taxation]{.badge} [efficiency]{.badge}
+:::
+
+> The cost to society for every rupee of public spending in India is around ₹3. Therefore, the government should only spend an additional one rupee when the gains to society from that action exceed ₹3.
+
+## Origin
+
+The concept of the **Marginal Cost of Public Funds (MCPF)** was developed in public finance theory to measure the true social cost of government revenue. In India, the insight was popularised by Vijay Kelkar and Ajay Shah in their 2019 book *In Service of the Republic: The Art and Science of Economic Policy*. The thumb rule that India's MCPF is approximately 3 has become a widely cited benchmark in Indian policy debates.
+
+## What it says
+
+
+In an ideal world, ₹1 of public spending would require ₹1 of tax revenue, which would impose exactly ₹1 of cost on society. Taxation is not frictionless. Taxes create **deadweight loss**: some economically valuable exchanges simply disappear because the tax raises prices and discourages activity.
+
+In OECD countries, the MCPF typically ranges from 1.25 to 2. In India, it is roughly **3** — meaning every rupee the government spends costs society about three rupees in foregone economic activity and distortion.
+
+Why is India's number so high? Three factors:
+- **Bad taxes**: India relies heavily on distortionary taxes rather than broad-based, low-rate taxes.
+- **Exemptions**: The tax code is riddled with exemptions that narrow the base and raise marginal rates.
+- **Administrative distortion**: Compliance costs, litigation, and arbitrary enforcement amplify the economic damage.
+
+The policy implication is stark: **government should spend only where the marginal social benefit exceeds the MCPF**. This means expanding spending on genuine market failures — public health, defence, basic research — where benefits far outweigh costs. It also means **governments must avoid spending on private goods**, where market provision is already efficient and public intervention merely distorts.
+
+## Applied
+
+The MCPF is a powerful diagnostic for India's perennial public-sector debates. When someone argues that the government should continue running Air India, BSNL, or public-sector banks, the MCPF reframes the question: does the social benefit of keeping these entities under state control exceed three times the fiscal cost? For most such cases, the answer is no.
+
+The framework also illuminates subsidy policy. India's fertiliser, food, and fuel subsidies transfer enormous sums to private consumption. If the MCPF is 3, a ₹1 lakh crore subsidy programme costs society ₹3 lakh crore in distortion. The redistributive benefit would need to be extraordinarily large to justify that cost. Direct cash transfers, by contrast, create less distortion and are easier to evaluate against the MCPF threshold.
+
+Tax reform follows the same logic. The GST was a step toward lowering the MCPF: broader base, fewer exemptions, lower compliance costs. Every subsequent exemption or rate hike that narrows the base pushes the MCPF back up, making all government spending more expensive.
+
+## When it falls short
+
+The MCPF is a useful thumb rule, not a precise engineering constant. The actual marginal cost varies by tax instrument: a Pigouvian carbon tax may have an MCPF below 1 (because it corrects an externality), while a high customs tariff on an intermediate good may have an MCPF well above 3. Treating all taxes as equally distortionary oversimplifies.
+
+Political realities constrain the application. Even if the MCPF suggests shutting down a loss-making PSU, the transition costs — unemployment, contract renegotiation, political backlash — may make immediate closure infeasible. The MCPF is a first-order guide, not a sufficient decision rule.
+
+## Related frameworks
+
+- [Three Functions of the State](three-functions-of-the-state.qmd) — what governments are spending the raised money on.
+- [The Domar Rule for Public Debt Sustainability](domar-rule.qmd) — the sustainability of borrowing to fund spending.
+- [Algorithm for Fiscal Federalism](algorithm-for-fiscal-federalism.qmd) — who raises the revenue and who spends it.
+
+## Further reading
+
+- Kelkar, V., & Shah, A. (2019). *In Service of the Republic: The Art and Science of Economic Policy*. Penguin.
+- Dahlby, B. (2008). *The Marginal Cost of Public Funds: Theory and Applications*. MIT Press.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Marginal Cost of Public Finance*](https://publicpolicy.substack.com/i/181698/a-framework-a-week) on *Anticipating the Unintended*.
+:::

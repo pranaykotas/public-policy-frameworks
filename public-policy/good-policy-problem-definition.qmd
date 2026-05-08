@@ -1,0 +1,65 @@
+---
+title: "Good Policy Problem Definition"
+summary: "Criteria that separate a usable problem statement from a hidden solution."
+categories: [Public Policy]
+date: 2026-05-03
+image: "../images/defaults/public-policy.png"
+tags:
+  - problem-definition
+  - design
+  - decision-making
+use_cases:
+  - "When reframing a solution-first proposal into an honest problem statement"
+  - "When testing whether a stated problem admits multiple mutually exclusive solutions"
+  - "When a ministry frames the problem as 'teachers need higher pay' rather than 'children cannot read'"
+  - "When checking that a problem statement is outcome-oriented, specific, and measurable"
+  - "When a policy brief's recommendations follow inevitably from a poorly framed question"
+  - "When using ASER data to reframe education debate away from inputs toward learning outcomes"
+---
+::: {.card-meta}
+[Public Policy]{.badge} [problem-definition]{.badge} [diagnosis]{.badge}
+:::
+
+> A public policy problem is not yet a problem unless you can name at least three mutually exclusive solutions to address it. Until then, you are working on a solution looking for a justification, not a problem looking for a solution.
+
+## Origin
+
+The framework comes from development economist Lant Pritchett, whose lectures on problem-driven iterative adaptation (PDIA) stress that reform must start with a problem, not a preferred answer. The version used here was introduced in *Anticipating the Unintended*.
+
+## What it says
+
+
+The most common mistake in policy analysis is to define a problem as the **absence of your preferred solution**.
+
+- **Weak framing:** *"Government school teachers are paid less than they should be."* This smuggles in a single solution (raise salaries) and forecloses every other path.
+- **Strong framing:** *"Only half the children in class 5 can read a class 2 textbook."* This opens up teacher training, learning materials, accountability reforms, parental engagement, structured pedagogy — all of them in scope.
+
+A good problem definition has three properties:
+
+1. **Outcome-oriented.** It describes the state of the world, not the absence of an intervention.
+2. **Specific enough to be measured.** Vague problem statements cannot be tracked.
+3. **Broad enough to admit multiple solutions.** If there is only one conceivable fix, you have stated a solution, not a problem.
+
+## Applied
+
+India’s primary education debate has historically been hijacked by solution-first framing. Teacher unions demand higher pay; civil society demands smaller class sizes; technocrats demand more testing. Each defines the problem as the absence of their remedy. ASER data — showing that half of class 5 students cannot read class 2 text — reframes the issue around learning outcomes, forcing all sides to argue why their proposal would actually move that number.
+
+The same logic applies to air pollution. "We need more electric buses" is a solution masquerading as a problem. "Delhi’s winter PM2.5 exceeds WHO limits by a factor of ten" is a problem statement that invites stubble-burning controls, industrial emission norms, dust management, and transport reform alike.
+
+## When it falls short
+
+The "three solutions" heuristic is arbitrary. Some genuine problems — say, a collapsed banking system — may have a narrow range of viable responses. The framework can also be gamed: analysts can generate three token alternatives while pushing their favourite. Finally, it is silent on who gets to define the problem, which is often the most political step of all.
+
+## Related frameworks
+
+- [Wicked Problems](wicked-problems.qmd) — when even agreeing on a problem statement is impossible.
+- [Outlays, Outputs, Outcomes](ooo.qmd) — the measurement chain that makes problem definitions testable.
+- [Seven Stages of the Policy Pipeline](seven-stages-policy-pipeline.qmd) — where in the policy process problem definition sits.
+
+## Further reading
+
+- Head, B. W. (2008). *Wicked Problems in Public Policy*.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week*](https://publicpolicy.substack.com/i/169367/a-framework-a-week) on *Anticipating the Unintended*.
+:::

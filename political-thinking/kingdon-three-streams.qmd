@@ -1,0 +1,78 @@
+---
+title: "Kingdon's Three Streams"
+summary: "Reform happens when a problem, a solution, and a political moment line up at the same time. Until they do, no amount of effort is enough."
+categories: [Political Thinking]
+date: 2026-05-03
+image: "../images/defaults/political-thinking.png"
+tags:
+  - problem-definition
+  - institutions
+  - political-economy
+  - decision-making
+use_cases:
+  - "When a long-recognised problem suddenly becomes actionable after years of neglect"
+  - "When planning reform advocacy by identifying whether all three streams are ripe for coupling"
+  - "When explaining why crisis moments produce policy changes that decades of deliberation could not"
+  - "When a think tank must have solutions ready before the political window opens"
+  - "When a new government's first year is the widest window and reformers must be prepared"
+  - "When a policy stalls because a mature problem lacks a developed and available solution"
+---
+
+::: {.card-meta}
+[Political Thinking]{.badge} [agenda-setting]{.badge} [windows]{.badge}
+:::
+
+> A problem can be obvious for decades and still go unsolved. A good solution can sit on the shelf for years before anyone reaches for it. Reform happens only when problem, solution, and politics arrive in the same room — and that room stays open for a short time.
+
+## Origin
+
+The framework was developed by the American political scientist John W. Kingdon in his 1984 book *Agendas, Alternatives, and Public Policies*. Kingdon was trying to explain how some issues get on the government's decision agenda while others — equally important — are ignored for years. His answer was that policy change is not a linear process but a confluence of three independent streams.
+
+For Indian readers, R. V. Vaidyanatha Ayyar's *Public Policymaking in India* applies Kingdon's schema to a series of Indian cases and is the best entry point into how the framework travels.
+
+## What it says
+
+
+Three streams flow through political life, each with its own rhythm and its own actors.
+
+**The problem stream.** A condition becomes a *problem* only when it is widely acknowledged as one. Crises, statistical indicators, and dramatic incidents push conditions across this threshold. Without acknowledgement, no condition — however severe — reaches the government's decision agenda.
+
+**The solution (or policy) stream.** Inside research institutions, expert committees, ministries, and think tanks, ideas for action are continuously generated, debated, and refined. Most are never adopted. They float in what Kingdon called the "policy primeval soup". Government rarely picks up a problem unless pre-existing solutions are already lying around, ready to be deployed.
+
+**The political stream.** This is the stream of public mood, election cycles, dominant narratives, changes of government, and global trends. It moves on its own logic, often disconnected from the problem and solution streams.
+
+When the three streams **couple** — when a recognised problem, an available solution, and a favourable political moment converge — a *policy window* opens. Reform becomes possible. The window is brief. If it closes before action is taken, the issue can drop off the agenda for years.
+
+The role of the **policy entrepreneur** is to be ready when the window opens: to have a solution prepared, alliances built, drafts available, and the political instincts to seize the moment.
+
+## Applied
+
+Reform momentum at the start of a new government is the clearest expression of the framework. The political stream shifts decisively (election victory, fresh mandate). Pre-existing solutions, often developed by think tanks and former officials in the years before, become suddenly available. Old problems that had been politely ignored re-enter the public conversation.
+
+This is why difficult reforms are often attempted in the first year or two of a government's term — the window is widest then. Reformers who have a solution ready can move; reformers still drafting their solution miss the moment. Conversely, important issues that lack mature solutions can sit unresolved through multiple political cycles, even when the problem is well recognised.
+
+The framework also explains why crisis is sometimes the only path to reform: a crisis collapses all three streams onto each other simultaneously, opening a window that prolonged consensus-building never could.
+
+The lesson for analysts and advocates: do not wait for a problem to reach the agenda before working on solutions. By the time the window opens, it is too late to start. The work must be done in advance, in the slow time between windows.
+
+## When it falls short
+
+The three-streams metaphor describes a coupling but does not predict it. The framework can explain in retrospect why reform happened in 2015 and not 2010, but it cannot tell you when the next window will open. It is a structure for reading the past, not a forecast.
+
+It also assumes the three streams are independent. In practice, political entrepreneurs work to *make* problems visible, to *promote* particular solutions, and to *shape* the political mood — collapsing the streams into each other deliberately. The agency-and-structure question that Kingdon's framework brushes past is exactly what skilled reformers spend their careers on.
+
+Finally, the framework is a model of agenda-setting and adoption. It says little about implementation, which is where most reforms ultimately succeed or fail.
+
+## Related frameworks
+
+- [The Overton Window](overton-window.qmd) — how the political stream's bounds of acceptability are themselves shaped over time.
+- [Wilson's Interest Group Matrix](wilson-interest-group-matrix.qmd) — the cost-benefit politics that determine which solutions can survive coupling.
+- [Stakeholder Management in Public Policy](stakeholder-management-in-public-policy.qmd) — the work of preparing the solution stream for the moment when the window opens.
+
+## Further reading
+
+- Kingdon, J. W. (1984). *Agendas, Alternatives, and Public Policies*. Little, Brown.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Kingdon's Three Streams Schema*](https://publicpolicy.substack.com/i/246695/a-framework-a-week-kingdons-three-streams-schema) on *Anticipating the Unintended*.
+:::

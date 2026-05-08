@@ -1,0 +1,61 @@
+---
+title: "A useful thumb rule:"
+summary: "the cost to society for every rupee of public spending in India is around ₹3. Therefore, the government should only spend an additional one rupee when the gains to society from that action exceed ₹3."
+categories: [Public Finance]
+date: 2026-05-03
+image: "../images/defaults/public-finance.png"
+tags:
+  - taxation
+  - public-spending
+  - efficiency
+  - evaluation
+use_cases:
+  - "When evaluating whether a proposed public expenditure is worth its cost to society"
+  - "When comparing government provision with private or market alternatives"
+  - "When making the case against a subsidy or public programme that fails a cost-benefit test"
+  - "When deciding whether to continue running a loss-making PSU or exit"
+  - "When a ₹1 lakh crore fertiliser subsidy must be tested against a ₹3 lakh crore social cost"
+  - "When arguing for tax simplification as a way to lower the MCPF and expand fiscal space"
+---
+
+::: {.card-meta}
+[Public Finance]{.badge} [evaluation]{.badge} [design]{.badge}
+:::
+
+> The government should only spend an additional one rupee when the gains to society from that action exceed ₹3.
+
+## Origin
+
+From *In Service of the Republic: The Art and Science of Economic Policy* (2019) by Vijay Kelkar and Ajay Shah. The underlying concept is the Marginal Cost of Public Funds (MCPF).
+
+## What it says
+
+
+Taxation is not frictionless. Every rupee the government raises costs society more than a rupee because of deadweight loss — exchanges that disappear due to tax-induced price distortions. In OECD countries, the MCPF ranges from 1.25 to 2. In India, bad taxes, exemptions, and distortions push the MCPF to roughly ₹3. That means the bar for public spending is high: only fund activities where the marginal social benefit exceeds ₹3 per rupee spent. Public goods with large externalities — health, defence, basic research — clear the bar; private goods do not. As a corollary, governments should avoid spending on private goods where market provision is viable.
+
+## Applied
+
+- When evaluating whether the government should continue operating loss-making PSUs or exit.
+- When deciding whether to subsidise a private good or invest in a public good with large positive externalities.
+- When setting the threshold for cost-benefit analysis of new public projects in India.
+- When reviewing ongoing subsidies or transfers that may have once been justified but now deliver social returns well below the MCPF.
+- When arguing for tax simplification — reducing exemptions and bad taxes lowers the MCPF and expands the fiscal space for legitimate public goods.
+
+## When it falls short
+
+- The ₹3 estimate is a rule of thumb, not a precise figure; it varies by tax instrument and over time.
+- It does not capture political economy constraints; even inefficient spending may be necessary to maintain coalition support.
+
+## Related frameworks
+
+- [[Three Functions of the State]](../public-finance/three-functions-of-the-state.qmd)
+- [[The Domar Rule]](../public-finance/domar-rule.qmd)
+- [[A Taxing Month Ahead]](../public-finance/a-taxing-month-ahead.qmd)
+
+## Further reading
+
+- [Original newsletter essay](https://publicpolicy.substack.com/p/7-msp-is-really-maximum-smog-price)
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: A Useful Thumb Rule*](https://publicpolicy.substack.com/p/7-msp-is-really-maximum-smog-price) on *Anticipating the Unintended*.
+:::

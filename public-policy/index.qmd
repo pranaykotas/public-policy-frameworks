@@ -1,0 +1,22 @@
+---
+title: "Public Policy"
+description: "Frameworks for defining policy problems, analysing failures, and matching tools to objectives."
+listing:
+  contents: "*.qmd"
+  type: grid
+  grid-columns: 2
+  fields: [image, title, summary]
+  field-display-names:
+    title: "Framework"
+    summary: "What it says"
+  image-height: "180px"
+  sort:
+    - "title asc"
+  filter-ui: true
+  sort-ui: false
+  page-size: 50
+---
+
+Frameworks in this section help with the foundational moves of policy analysis — how to frame a problem, choose between instruments, and tell whether an intervention is working.
+
+If you are new here, start with **Wicked Problems** (to understand why some problems resist easy fixes), then **All Things Governments Do** (to see what interventions are even available), and **One Instrument, One Target** (to learn why trying to do everything at once usually ends badly). From there, follow whichever thread pulls — problem diagnosis, instrument selection, or implementation failure.

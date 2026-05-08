@@ -1,0 +1,75 @@
+---
+title: "Building Models"
+summary: "The basic craft of constructing simple, useful models of complex situations."
+categories: [Universe]
+date: 2026-05-03
+image: "../images/defaults/universe.png"
+tags:
+  - design
+  - causality
+  - problem-definition
+  - narrative
+use_cases:
+  - "When 'higher MSPs help farmers' is asserted without specifying who captures the benefit, at what fiscal cost, and with what second-order effects on land rents"
+  - "When BSNL's ₹1.64 lakh crore revival package pursues two independent targets (rural connectivity and indigenous 4G) with one instrument"
+  - "When a policy claim lacks causal mechanisms and needs to be made testable through deliberate simplification"
+  - "When farm law, GST, or labour reform debate proceeds on political instinct and a causal model is needed to make the dispute resolvable"
+  - "When teaching students to move from slogans to structured reasoning by isolating the variables that actually matter"
+  - "When diagnosing whether a proposed intervention has unexamined second-order effects before implementation begins"
+---
+::: {.card-meta}
+[Universe]{.badge} [models]{.badge} [method]{.badge}
+:::
+
+> Models function not just as a means of intervention, but also as a means of representation. It is when we manipulate the model that these combined features enable us to learn how and why our interventions work.
+
+## Origin
+
+The framework draws on the philosophy of science work of Margaret Morrison and Mary S. Morgan, particularly their chapter "Models as Mediating Instruments" and Morgan's book *The World in the Model: How Economists Work and Think*. Their insight was that models are neither deduced from theory nor induced from data; they are constructed objects that stand between theory and the world, mediating our understanding of both.
+
+## What it says
+
+
+A good model is not a miniature replica of reality. It is a deliberately simplified representation that isolates the mechanisms that matter for a specific question. Morrison and Morgan identify four elements of model-building:
+
+**Construction.**
+Models gain their power from partial independence. A model derived entirely from theory tells you nothing the theory didn't already say. A model derived entirely from data is just a summary. Useful models combine theory, data, and "outside" elements — assumptions, analogies, and simplifications that are justified by the problem at hand, not by the theory.
+
+**Functioning.**
+A model functions like a tool. A hammer is independent of both the nail and the wall, but it connects them. Similarly, a model is independent of both the theory and the world, but it mediates between them. And like a hammer, a model built for one purpose can often be repurposed for another.
+
+**Representing.**
+The difference between a simple tool and a tool of investigation is representation. A hammer does not represent the nail. A thermometer represents temperature. Scientific models represent either some aspect of the world or some aspect of our theories — or both at once. This representative power is what makes them instruments of learning, not just intervention.
+
+**Learning.**
+We do not learn much from looking at a model. We learn from building it and manipulating it. The power of the model becomes apparent only in use. This is why economists spend so much time on calibration, simulation, and counterfactual analysis — the model teaches through manipulation.
+
+## Applied
+
+The Indian policy discourse is often model-averse. Debates about farm laws, GST, or labour reform proceed as if the only relevant knowledge is political instinct or administrative experience. Models are dismissed as "ivory tower" abstractions. The result is a repeated pattern: policies are designed without clear causal mechanisms, fail in predictable ways, and are then explained away as "implementation problems."
+
+A model-building approach would force clarity. If you claim that higher MSPs help farmers, build a model: who captures the MSP benefit (large farmers with marketable surplus, or small farmers who consume their own output)? What is the fiscal cost? What happens to consumer prices? What are the second-order effects on land rents and tenancy? Without a model, the claim is just a slogan. With a model, it becomes testable.
+
+The BSNL revival package (₹1.64 lakh crore) is a case in point. The government had two stated objectives: rural connectivity and indigenous 4G technology. A simple Tinbergen-style model would have shown immediately that one instrument cannot hit two independent targets. Either BSNL becomes a rural connectivity provider, or it becomes a testbed for domestic technology. Expecting both is model-free wishful thinking.
+
+## When it falls short
+
+Models can become prisons. When a model is treated as reality rather than as a simplification, it produces dangerous overconfidence. The 2008 financial crisis was partly a failure of models — risk models that assumed house prices could not fall nationally, calibrated on data from a period when they had not.
+
+Models also embed the assumptions of their builders. A model of Indian agriculture built by someone who has never visited a village will miss the informal credit networks, the role of kinship in labour allocation, and the political economy of mandis. The model will be elegant and wrong.
+
+Finally, not every problem needs a formal model. Some policy questions are primarily about values, rights, or institutional capacity. Building a model of whether a ban on child labour is desirable would be grotesque. The framework is a tool, not a universal solvent.
+
+## Related frameworks
+
+- [How to Build a Good 2x2 Matrix](how-to-build-a-good-2x2-matrix.qmd) — a complementary tool for structuring problems.
+- [Hal Varian's Tips on Building an Economic Model](hal-varians-tips-on-building-an-economic-model.qmd) — practical advice from a working economist.
+- [One Instrument, One Target](../public-policy/one-instrument-one-target.qmd) — a specific model-building heuristic for policy design.
+
+## Further reading
+
+- Morgan, M. S. (2012). *The World in the Model: How Economists Work and Think*. Cambridge University Press.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Building Models*](https://publicpolicy.substack.com/i/66344283/a-framework-a-week-building-models) on *Anticipating the Unintended*.
+:::

@@ -1,0 +1,60 @@
+---
+title: "Moralising is Central to Storytelling"
+summary: "Why every powerful narrative carries an ethical claim — and how to read for it."
+categories: [Universe]
+date: 2026-05-03
+image: "../images/defaults/universe.png"
+tags:
+  - causality
+  - narrative
+  - morality
+  - institutions
+use_cases:
+  - "When deconstructing a reform proposal's political narrative to identify who is the protagonist, who is the villain, and what moral emotion is being activated"
+  - "When an Overton Window shift requires not more evidence but a more compelling moral story to displace the incumbent narrative"
+  - "When crafting policy communications that mobilise support without amplifying the rage-and-villains structure that stories naturally produce"
+  - "When explaining why demonetisation's narrative power outlasted its economic failure — the moral story held even as the data disappointed"
+  - "When a policy debate is being lost because the opposing side has the better story, not the better evidence"
+  - "When reading a political speech to separate the moral framing from the policy content and assess which is doing the persuasive work"
+---
+::: {.card-meta}
+[Universe]{.badge} [narratives]{.badge} [cognition]{.badge}
+:::
+
+> Even if stories don't have a moral at the end, they are deeply moralistic and judgmental, transforming the reader into a moral monitor who applauds or condemns the intentions and actions of the characters.
+
+## Origin
+
+This argument comes from Jonathan Gottschall's *The Story Paradox*, which draws on literary analysis and evolutionary psychology to explain why human beings are compulsive storytellers. The framework applies the book's insight to public policy, where narratives are the primary currency of political persuasion.
+
+## What it says
+
+
+Stories have a remarkably uniform structure across cultures and eras. The protagonist is rarely a saint — saints are boring — but is a "transformational character" who moves from blindness to sight, from selfishness to generosity, from confusion to understanding. The antagonist, by contrast, is static: purely selfish, exploitative, sadistic.
+
+This asymmetry is functional. Stories evolved in hunter-gatherer societies to keep groups cohesive. They discourage showing off, encourage sharing, and enforce norms by making every listener a judge. The listener's brain is recruited as a moral surveillance system.
+
+The dark side of this mechanism is that stories are paranoid and vindictive by default. They show problem-drenched worlds and invite us to blame the people causing them. To proliferate narratives is to proliferate villains. To proliferate villains is to proliferate rage, judgment, and division.
+
+## Applied
+
+Policy debates are fought as stories, not spreadsheets. Every reform proposal has a protagonist (the reformer, the poor, the nation), an antagonist (rent-seekers, foreign powers, the elite), and a moral arc. The [Overton Window](../political-thinking/overton-window.qmd) shifts not when evidence accumulates but when a new story with a more compelling moral geometry takes hold.
+
+Understanding this framework makes you a better reader of political rhetoric. When someone tells you a policy story, ask: who is cast as the transformational character? Who is frozen in villainy? What moral emotion is being activated in me, and is it deserved?
+
+## When it falls short
+
+Not all communication is narrative. Technical documentation, legal drafting, and accounting statements are deliberately anti-story. The framework also struggles with modernist or absurdist art that refuses moral closure. And while it explains why stories bind groups together, it under-explains why some stories fail to travel despite having all the right moral ingredients.
+
+## Related frameworks
+
+- [What Makes a Good Narrative](../political-thinking/what-makes-a-good-narrative.qmd) — the craft of constructing policy stories that persuade.
+- [The Basis of Morality](../society/the-basis-of-morality.qmd) — where moral claims come from when they are not supplied by stories.
+
+## Further reading
+
+- Gottschall, J. *The Story Paradox: How Our Love of Storytelling Builds Societies and Tears them Down*.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Moralising is Central to Storytelling*](https://publicpolicy.substack.com/i/45317880/a-framework-a-week-moralising-is-central-to-storytelling) on *Anticipating the Unintended*.
+:::

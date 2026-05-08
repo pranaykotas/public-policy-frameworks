@@ -1,0 +1,69 @@
+---
+title: "Describing State Policy on Geopolitical Issues"
+summary: "A common vocabulary for analysing what a state's position on any given foreign-policy issue actually is."
+categories: ["Foreign Policy & Geopolitics"]
+date: 2026-05-03
+image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+tags:
+  - problem-definition
+  - international-relations
+  - evaluation
+  - decision-making
+use_cases:
+  - "When analysing India's Israel-Palestine position — mapping interests (Gulf energy, Israeli tech), actions (UN votes, bilateral visits), and effects (preserved ties, no mediating role)"
+  - "When China's Afghanistan policy needs analysis that avoids both demonisation and apologia by applying the three-step protocol"
+  - "When cutting through diplomatic rhetoric to identify what a state has actually done versus what it claims its position is"
+  - "When India's abstentions at the UN Security Council need to be evaluated as deliberate calibrations, not mere fence-sitting"
+  - "When assessing whether a state's actions have exposed its own weaknesses even while opening new opportunities"
+  - "When an op-ed attributes a state's foreign policy to ideology or hypocrisy without running the interests-actions-effects protocol"
+---
+
+::: {.card-meta}
+[Foreign Policy, Defence & Geopolitics]{.badge} [analysis]{.badge} [vocabulary]{.badge}
+:::
+
+> To evaluate a state's policy on a geopolitical issue, ask what its interests are, list what it has done, and then ask how those actions affect its interests.
+
+## Origin
+
+This is a simple analytical framework developed by Pranay Kotasthane for the *A Framework a Week* series, designed to cut through the fog of diplomatic rhetoric and media commentary to get at the substance of a state's position.
+
+## What it says
+
+
+The framework is a three-step protocol for describing any state's policy on any geopolitical issue:
+
+1. **What are the state's interests?** Identify strengths, weaknesses, risks and opportunities. To avoid a superficial rational-actor model, also consider the stances of a few important interest groups within the state.
+
+2. **What actions has the state taken?** List the concrete steps — diplomatic, economic, military, legal — that the state has actually undertaken on the issue.
+
+3. **How do the actions affect the interests?** Have some actions exposed weaknesses even as they opened new opportunities? Have there been unintended consequences or fallouts?
+
+This third step is where most analysis fails. It is easy to list interests and actions; the hard part is tracing the causal and counterfactual links between them.
+
+## Applied
+
+Apply the framework to India's position on Israel-Palestine:
+
+- **Interests:** Stable energy supplies from the Gulf; strong defence and technology ties with Israel; domestic political considerations; diaspora welfare.
+- **Actions:** Strategic partnership with Israel; consistent support for Palestinian statehood at the UN; calibrated abstentions on critical votes; bilateral visits to both capitals.
+- **Effects:** The balancing act has preserved both relationships but prevented India from playing a decisive mediating role. The approach is tactically sound but strategically constrained.
+
+Similarly for China's actions in Afghanistan: without running the three-step protocol, analysis descends into either demonisation or apologia.
+
+## When it falls short
+
+The framework assumes that states have identifiable interests and that actions are observable. In highly opaque regimes, or where decision-making is concentrated in a single leader's hands, both assumptions weaken. It also does not prescribe what the policy *should* be — it only helps describe what it *is*.
+
+## Related frameworks
+
+- [Hypocrisy in International Relations](hypocrisy-in-international-relations.qmd) — why the gap between stated preferences and revealed actions is often rational, not shameful.
+- [Ingredients of a New World Order](ingredients-of-a-new-world-order.qmd) — how power and legitimacy shape what states can achieve with their policies.
+
+## Further reading
+
+- Kotasthane, Pranay. *A Framework a Week: Describing a State's Policy on a Geopolitical Issue*. Anticipating the Unintended, 2020.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Describing a State's Policy on a Geopolitical Issue*](https://publicpolicy.substack.com/i/39436985/a-framework-a-week-describing-a-states-policy-on-a-geopolitical-issue) on *Anticipating the Unintended*.
+:::

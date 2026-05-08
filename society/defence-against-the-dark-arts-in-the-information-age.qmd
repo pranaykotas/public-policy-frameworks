@@ -1,0 +1,75 @@
+---
+title: "Defence Against the Dark Arts in the Information Age"
+summary: "A working stance against motivated misinformation in everyday reading."
+categories: [Society]
+date: 2026-05-03
+image: "../images/defaults/society.png"
+tags:
+  - causality
+  - narrative
+  - design
+  - behaviour
+use_cases:
+  - "When reports of caste violence, crimes against women, or pollution incidents spike and you need to distinguish real increase from expanded moral circle"
+  - "When a political actor claims 'India is getting worse' and you need to test whether reporting frequency equals prevalence"
+  - "When industrial pollution makes headlines more often and the question is whether the problem grew or standards rose"
+  - "When evaluating whether alarm about a social evil is justified by data or inflated by information-theoretic dynamics of media"
+  - "When China's low corruption-reporting rate is offered as evidence of less corruption rather than less reporting"
+  - "When designing a three-question diagnostic before concluding that a society is deteriorating on any social dimension"
+---
+::: {.card-meta}
+[Society]{.badge} [information]{.badge} [media]{.badge}
+:::
+
+> Increase in reporting of a social evil is not the same as increase in the prevalence of that social evil. Most likely, it is the reverse.
+
+## Origin
+
+The framework draws on two sources: Claude Shannon's information theory (which established that the informational value of an event is inversely proportional to its probability of occurrence), and Michael Shermer's observation about the expanding moral arc of history. The synthesis is Pranay's own, designed as a practical stance for maintaining sanity while reading news feeds.
+
+## What it says
+
+
+The Information Age produces an optical illusion: the more we hear about a problem, the worse we believe it is becoming. In many cases, the opposite is true. The illusion has two causes:
+
+**The information-theory mechanism.**
+Media is in the attention business. Unusual events provide more information (in Shannon's technical sense) than common events, and are therefore more newsworthy. A bomb blast in Kabul was unremarkable in the 1990s; today it makes headlines precisely because it is rarer. The increased reporting reflects the event's newsworthiness, not its prevalence.
+
+**The expanding moral arc.**
+Two hundred and fifty years ago, no newspaper would have reported that Thomas Jefferson owned slaves. The practice was too common to be newsworthy. Today, any hint of forced labour is front-page news — not because slavery is more prevalent, but because it is rarer and universally condemned. The moral circle has expanded; behaviours that were once invisible are now visible precisely because they have become unacceptable.
+
+The combined effect is perverse: as society improves on a dimension, reporting on that dimension increases, which makes the public believe things are getting worse. The Dementors of the Information Age are not the problems themselves; they are the despair that comes from misreading the signal.
+
+## Applied
+
+Environmental pollution is a clean example. Decades ago, industrial pollution was so commonplace that it rarely made the news. Today, each pollution incident is treated as significant — not because the problem has grown, but because our standards have risen and violations have become less frequent and less acceptable.
+
+In India, reports of caste discrimination, violence against women, and religious hate crimes have increased dramatically in the digital era. Some of this reflects real deterioration. But some of it reflects the expanding moral arc: behaviours that were always present but previously unreported are now visible. The framework does not tell you which explanation is correct for any given issue. It tells you to ask the question rather than assume the worst.
+
+A diagnostic habit: when you see repeated reports of a particular social evil, ask three questions before concluding that the world is getting worse:
+1. Is this being reported because it is becoming rarer and thus more noteworthy?
+2. How does the current prevalence compare to the past?
+3. Does the increased reporting reflect changing societal values rather than changing behaviour?
+
+## When it falls short
+
+The framework can become an excuse for complacency. "Things are actually getting better" is a comforting thought, but it is sometimes false. Some problems genuinely are worsening — antibiotic resistance, climate change, democratic backsliding — and the framework should not be used to dismiss legitimate alarm.
+
+
+The framework does not distinguish between "rare because solved" and "rare because suppressed." A social evil that has been driven underground by authoritarian pressure may be rare in reporting but widespread in reality. China reports almost no corruption cases relative to India; the reason is not absence but suppression.
+
+## Related frameworks
+
+- [How to Analyse an Analysis](how-to-analyse-an-analysis.qmd) — a meta-framework for evaluating the analyses you read.
+- [Internet and Politics](internet-and-politics.qmd) — how digital networks reshape the information environment.
+- [Social Media's Rule of Three](../universe/social-medias-rule-of-three.qmd) — the mechanisms that make extreme content spread.
+
+## Further reading
+
+- Shannon, C. E. (1948). *A Mathematical Theory of Communication*. Bell System Technical Journal, 27(3), 379–423.
+- Shermer, M. (2015). *The Moral Arc: How Science and Reason Lead Humanity Toward Truth, Justice, and Freedom*. Henry Holt.
+- Pinker, S. (2011). *The Better Angels of Our Nature: Why Violence Has Declined*. Viking.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Defence Against the Dark Arts in the Information Age*](https://publicpolicy.substack.com/i/146793176/a-framework-a-week-defence-against-the-dark-arts-in-the-information-age) on *Anticipating the Unintended*.
+:::

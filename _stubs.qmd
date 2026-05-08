@@ -1,0 +1,459 @@
+## More frameworks
+
+Cards for these are not yet written. Each links to the original *Anticipating the Unintended* essay.
+
+### Public Policy
+
+::: {.stub-entry}
+[**Anticipating Unintended Policy Consequences**]{.stub-name}<br>
+[Distinguishing the policy outcomes that could have been foreseen from those that genuinely could not.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/157063/a-framework-a-week)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**India's Three Dimensions of Decentralisation**]{.stub-name}<br>
+[Anatomising decentralisation in Indian governance along functional, fiscal, and political dimensions.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/73591188/india-policy-watch-the-anatomy-of-decentralisation)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Policies vs Programmes vs Practices**]{.stub-name}<br>
+[Why the distinction between intent, scheme design, and on-ground implementation matters for analysis.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/303254/a-framework-a-week-policies-programmes-and-practices)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Eight Things to Unlearn Before Learning Public Policy**]{.stub-name}<br>
+[Common misconceptions that have to be cleared before frameworks become useful.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/36985100/a-framework-a-week-things-to-unlearn-before-learning-public-policy)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Taxonomy of Policy Failures and Successes**]{.stub-name}<br>
+[A typology that separates kinds of policy outcomes — design failures, implementation failures, and so on.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/106189420/a-framework-a-week-a-taxonomy-of-policy-failures-and-policy-successes)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Good Policy Problem Definition**]{.stub-name}<br>
+[Criteria that separate a usable problem statement from a hidden solution.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/169367/a-framework-a-week)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Hyper Multi-Objective Optimisation**]{.stub-name}<br>
+[Why pursuing many policy goals at once is the structural cause of policy failure.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/195884/hyper-multi-objective-optimisation-the-bane-of-policymaking)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Errors of Omission and Commission**]{.stub-name}<br>
+[The symmetric mistakes a policy can make: doing the wrong thing, and failing to do the right thing.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/54857006/a-framework-a-week-errors-of-omission-and-commission-how-vlsi-relates-to-subsidies)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Four Components of an Economic Strategy**]{.stub-name}<br>
+[The essential elements that make an economic strategy coherent rather than a list of wishes.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/140409882/a-framework-a-week-four-components-of-an-economic-strategy)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Opportunity Cost Neglect**]{.stub-name}<br>
+[Why policy debates systematically forget what could have been done with the same resources.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/137097252/a-framework-a-week-conceptualising-opportunity-cost-neglect)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**When Conditions Become Policy Problems**]{.stub-name}<br>
+[The process by which a fact about the world acquires the status of a policy problem requiring action.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/139645573/a-framework-a-week-when-do-conditions-become-problems)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Understanding Corruption**]{.stub-name}<br>
+[A structured way to examine corruption beyond the moralising frame.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/34985111/a-framework-a-week)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Public Sector Reform**]{.stub-name}<br>
+[Strategies for making large public organisations work better.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/258477/a-framework-a-week-public-sector-reform)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**All Things Governments Do**]{.stub-name}<br>
+[A working taxonomy of state functions, beyond the textbook list.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/266338/a-framework-a-week-things-governments-do)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Complexity and Public Policy**]{.stub-name}<br>
+[How to think about policy in systems where outcomes do not follow linearly from inputs.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/125669863/india-policy-watch-beyond-isomorphic-mimicry)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Prisoner's Dilemma in Policy Engineering**]{.stub-name}<br>
+[Game theory as a working tool for designing institutions, not just describing them.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/388702/a-framework-a-week-making-prisoners-dilemma-a-part-of-the-policy-engineering-toolkit)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Nine Competing Visions of Equality**]{.stub-name}<br>
+[Distinct, often incompatible, conceptions of what equality means in policy debate.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/4452439/a-framework-a-week-nine-competing-visions-of-equality)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Public Policy Solutionism**]{.stub-name}<br>
+[A critique of the instinct to reach for clean solutions in domains where they do not exist.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/40888151/a-framework-a-week-public-policy-solutionism)]{.stub-link}
+:::
+
+### Political Thinking
+
+::: {.stub-entry}
+[**Cognitive Maps**]{.stub-name}<br>
+[Why two informed people can reach opposing conclusions from the same facts — and what to do about it.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/884531/a-framework-a-week-understanding-cognitive-maps)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Types of Causal Narratives**]{.stub-name}<br>
+[The story-shapes through which policy problems are explained — and which shape wins shapes the response.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/162458/a-framework-a-week)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Stakeholder Management in Public Policy**]{.stub-name}<br>
+[The practical work of building support for a reform, one stakeholder at a time.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/314829/a-framework-a-week-stakeholder-management-in-public-policy)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**What Makes a Good Narrative?**]{.stub-name}<br>
+[Characteristics of policy stories that travel: simplicity, emotional pull, and a credible villain.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/800865/a-framework-a-week-what-makes-a-good-narrative)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Confronting Trade-offs**]{.stub-name}<br>
+[Methods for reasoning when no policy choice can satisfy everyone.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/42989726/a-framework-a-week-confronting-trade-offs)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Why Weak Dictators Get Softer Loans**]{.stub-name}<br>
+[The political economy of international lending to authoritarian regimes.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/425679/a-framework-a-week-why-weak-dictators-get-softer-loans)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Political Policymaking**]{.stub-name}<br>
+[How political incentives shape what policy can be made, beyond the technocratic frame.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/147951949/a-framework-a-week-political-policymaking)]{.stub-link}
+:::
+
+### Public Finance
+
+::: {.stub-entry}
+[**Marginal Cost of Public Finance**]{.stub-name}<br>
+[Every additional rupee government raises has an economic cost beyond the rupee itself — and that cost matters.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/181698/a-framework-a-week)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Algorithm for Fiscal Federalism**]{.stub-name}<br>
+[A systematic approach to splitting revenue and responsibility between centre and states.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/147695011/india-policy-watch-an-algorithm-for-fiscal-federalism)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Wicksellian Disconnection**]{.stub-name}<br>
+[The mismatch between who pays for a service and who consumes it, and the political pathologies it creates.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com)]{.stub-link}
+:::
+
+### Foreign Policy, Defence & Geopolitics
+
+::: {.stub-entry}
+[**Paradoxes of India's Westernophobia**]{.stub-name}<br>
+[Contradictions in how India relates to Western powers — economically, strategically, and rhetorically.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/51486065/india-policy-watch-the-paradoxes-of-indias-westernophobia)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Describing State Policy on Geopolitical Issues**]{.stub-name}<br>
+[A common vocabulary for analysing what a state's position on any given foreign-policy issue actually is.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/39436985/a-framework-a-week-describing-a-states-policy-on-a-geopolitical-issue)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**How to Deter Reasonable People from Undesirable Behaviour**]{.stub-name}<br>
+[The mechanics of deterrence applied to states acting roughly rationally.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/144298540/a-framework-a-week-how-to-deter-reasonable-people-from-engaging-in-undesirable-behaviour)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Dictatorship and Democracy in Israel and Pakistan**]{.stub-name}<br>
+[A comparative reading of two states often analogised — and what the analogy hides.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/58802368/matsyanyaaya-dictatorship-and-democracy-in-israel-and-pakistan)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**India and the Post-COVID-19 World Order**]{.stub-name}<br>
+[How the pandemic accelerated geopolitical realignments India has to navigate.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/446462/a-framework-a-week-india-and-the-post-covid-world-order)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Guns and Butter**]{.stub-name}<br>
+[The classic trade-off between defence and civilian spending, applied to Indian budgetary politics.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/406598/a-framework-a-week-guns-and-butter)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Ingredients of a New World Order**]{.stub-name}<br>
+[The components — power, ideology, institutions — that define an international system.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/368483/a-framework-a-week-ingredients-of-a-new-world-order)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**What Global Order Are We In?**]{.stub-name}<br>
+[A framework for naming the current international system — unipolar, multipolar, or something messier.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/49403859/matsyanyaaya-where-do-we-go-now)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**What Makes an Asset Strategic?**]{.stub-name}<br>
+[The criteria that separate genuinely strategic assets from things merely labelled strategic.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/9055227/a-framework-a-week-what-makes-an-asset-strategic)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**National Security Preparedness and COVID-19 Planning**]{.stub-name}<br>
+[Why pandemics belong in national security thinking, not just public health.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/593932/a-framework-a-week-matsyanyaaya-national-security-preparedness-and-planning-for-covid)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Responding to LAC Standoff in Ladakh**]{.stub-name}<br>
+[A working framework for thinking through India's options on a live border crisis.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/570850/a-framework-a-week-responding-to-the-standoff-on-the-lac-in-ladakh)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Three Schools of Thought on India–US Relations**]{.stub-name}<br>
+[The competing perspectives Indian strategists hold on the bilateral relationship.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/266338/matsyanyaaya-on-the-indiaus-relationship)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**China's Predicament**]{.stub-name}<br>
+[The structural strategic challenges China faces — and what they imply for India.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/89720005/a-framework-a-week-chinas-predicament)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Human Capital Investment Model for National Security**]{.stub-name}<br>
+[Defence capability is built from people, not platforms; the framework forces that fact into view.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/181699/policywtf-unaffordable-defence-pensions)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**How Democratic States Perceive Each Other**]{.stub-name}<br>
+[The structured way democracies read other democracies — and where the reading breaks down.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/144296102/matsyanyaaya-how-do-democratic-states-perceive-each-other)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**What Made the US Enable China's Rise**]{.stub-name}<br>
+[A historical reading of strategic miscalculation by an open economy facing a closed rival.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/2848238/a-framework-a-week-what-made-the-us-enable-chinas-rise)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Aap Hamaare Hain Kaun, Russia?**]{.stub-name}<br>
+[An honest framework for India's actual strategic relationship with Russia.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/48867145/matsyanyaaya-aap-hamaare-hain-kaun-russia)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Hypocrisy in International Relations**]{.stub-name}<br>
+[A typology of inconsistent state behaviour — and why some hypocrisies are stable and others are not.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/732804/matsyanyaaya-hypocrisy-in-international-relations)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**India's Approach Towards Chinese Firms**]{.stub-name}<br>
+[A framework for balancing technology, security, and economic openness in dealing with Chinese companies.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/147546599/india-policy-watch-a-framework-for-indias-approach-towards-chinese-firms)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Decoupling Dynamics**]{.stub-name}<br>
+[The mechanics of economic-political separation between major economies.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/31560112/matsyanyaaya-decoupling-dynamics)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Flakiness in US Pakistan Policy**]{.stub-name}<br>
+[A pattern-level analysis of the inconsistencies in American policy towards Pakistan.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/202594/matsyanyaaya)]{.stub-link}
+:::
+
+### Society
+
+::: {.stub-entry}
+[**Internet and Politics**]{.stub-name}<br>
+[How digital networks reshape the basic structures of political life.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/6807081/a-framework-a-week-internet-politics)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Building Digital Communities**]{.stub-name}<br>
+[Strategies for making online groups work — and the failure modes to avoid.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/139148108/a-framework-a-week-building-digital-communities)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**How Social Norms Flip**]{.stub-name}<br>
+[The mechanism by which a norm everyone privately rejects can collapse very quickly.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/142234193/a-framework-a-week-norm-flipping)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Radically Networked Societies**]{.stub-name}<br>
+[How states should think about populations whose every member is now in real-time contact with every other.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/154262/the-march-of-radically-networked-societies)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Terrorism, Poverty, and Education**]{.stub-name}<br>
+[The actual relationship between these three variables, against the lazy assumption that they are simply linked.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/202594/a-framework-a-week-terrorism-poverty-and-education)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**The Basis of Morality**]{.stub-name}<br>
+[The frameworks within which moral claims become arguable, rather than just felt.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/31819140/a-framework-a-week-the-basis-of-morality)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**How to Analyse an Analysis**]{.stub-name}<br>
+[A meta-framework for evaluating the analyses you read — own one before applying any other.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/40599585/a-framework-a-week-how-to-analyse-an-analysis)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Defence Against the Dark Arts in the Information Age**]{.stub-name}<br>
+[A working stance against motivated misinformation in everyday reading.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/146793176/a-framework-a-week-defence-against-the-dark-arts-in-the-information-age)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Three Truths of Ideology**]{.stub-name}<br>
+[The principles that animate how ideologies actually function — beyond their stated beliefs.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/36453074/global-policy-watch-three-truths-of-ideology)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Why We Do Stupid Things in Groups**]{.stub-name}<br>
+[A reading of collective irrationality that takes the social mechanics seriously.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/p/123-lost-in-the-kumbh-)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Why People Rebel**]{.stub-name}<br>
+[The conditions under which grievance turns into mobilisation, and mobilisation into upheaval.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/50638070/policywtf-pension-troubles-are-back)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**What is a Nation?**]{.stub-name}<br>
+[The competing answers to a question that policy debates routinely assume is settled.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/884531/addendum)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**The State and the Society**]{.stub-name}<br>
+[A framework for the relationship between the two — neither extension nor opposite.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/130620341/india-policy-watch-the-state-and-the-society)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**What the Census Reveals About State and Society**]{.stub-name}<br>
+[Reading demographic data as a window into the state's grip on the population.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/34456772/india-policy-watch-census)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Why Large WhatsApp Groups Are So Ineffective**]{.stub-name}<br>
+[The structural reasons that group-chat scale defeats the very communication it was meant to enable.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/767325/a-framework-a-week-why-large-whatsapp-groups-are-so-ineffective)]{.stub-link}
+:::
+
+### Universe
+
+::: {.stub-entry}
+[**How to Build a Good 2x2 Matrix**]{.stub-name}<br>
+[The discipline that separates a useful 2x2 from a decorative one.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/99395359/a-framework-a-week-two-is-better-than-one)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Building Models**]{.stub-name}<br>
+[The basic craft of constructing simple, useful models of complex situations.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/66344283/a-framework-a-week-building-models)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Moralising is Central to Storytelling**]{.stub-name}<br>
+[Why every powerful narrative carries an ethical claim — and how to read for it.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/45317880/a-framework-a-week-moralising-is-central-to-storytelling)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Social Media's Rule of Three**]{.stub-name}<br>
+[A pattern in how attention, virality, and reaction interact on networked platforms.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/59994095/global-policy-watch-social-medias-rule-of-three)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**How Social Media Expands Reference Networks**]{.stub-name}<br>
+[The mechanism by which platforms grow whom we are constantly comparing ourselves to.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/63263132/global-policy-watch-how-social-media-expands-our-reference-networks)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Inter-State Water Sharing**]{.stub-name}<br>
+[A working framework for thinking about transboundary water disputes.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/137520569/india-policy-watch-same-old-stock-responses)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**The Impossible Trinity of Indian Cities**]{.stub-name}<br>
+[Affordable housing, easy commute, and pleasant environment — pick any two.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/98109740/india-policy-watch-another-impossible-trinity)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Hal Varian's Tips on Building an Economic Model**]{.stub-name}<br>
+[Practical advice from a working economist on how to make a model that earns its keep.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/503142/a-framework-a-week-hal-varians-tips-on-building-an-economic-model)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Prohibition and Morality**]{.stub-name}<br>
+[The relationship between legal restriction and ethical claim — and why the two diverge so often.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/31560112/policywtf-prohibition-and-morality)]{.stub-link}
+:::
+
+::: {.stub-entry}
+[**Xi's Trilemma**]{.stub-name}<br>
+[The three-way constraint that shapes the strategic options of contemporary China.]{.stub-summary}<br>
+[[Read on Substack →](https://publicpolicy.substack.com/i/149522469/global-policy-watch-not-stimulating-enough)]{.stub-link}
+:::

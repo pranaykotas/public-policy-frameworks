@@ -1,0 +1,85 @@
+---
+title: "How to Build a Good 2x2 Matrix"
+summary: "The discipline that separates a useful 2x2 from a decorative one."
+categories: [Universe]
+date: 2026-05-03
+image: "../images/defaults/universe.png"
+tags:
+  - evaluation
+  - institutions
+  - trade
+  - security
+use_cases:
+  - "When a Takshashila scenario exercise on Iran's global status needs two axes that are genuinely independent and uncertain, not correlated proxies"
+  - "When a strategy team produces a 2x2 with 'good vs bad' on both axes and needs a rigorous axis-selection process"
+  - "When structuring uncertainty about India's energy mix in 2035 by ranking driving forces by importance and uncertainty before picking axes"
+  - "When preparing an organisation for multiple futures by deriving leading indicators that signal which quadrant is emerging"
+  - "When the first draft of a scenario matrix produces only two populated diagonals — diagnosing correlated rather than independent axes"
+  - "When a lazy matrix embeds the analyst's preferred conclusion in the 'desirable' quadrant and needs to be challenged"
+---
+::: {.card-meta}
+[Universe]{.badge} [scenarios]{.badge} [tools]{.badge}
+:::
+
+> The strength of the 2x2 framework is that it helps create robust scenarios located at the intersection of two important, independent, and uncertain trends. The weakness is that it ignores the interplay between more than two variables.
+
+## Origin
+
+The 2x2 matrix as a scenario-planning tool was formalised by Alun Rhydderch at Futuribles International in his paper *Scenario Building: The 2x2 Matrix Technique*. The method builds on earlier scenario-planning traditions (Royal Dutch Shell, RAND) but adds a systematic discipline for choosing the axes — the step where most amateur matrices fail.
+
+## What it says
+
+
+A 2x2 matrix is not a framework in the same sense as Domar's rule or Wilson's matrix. It is a method for structuring uncertainty. The output is only as good as the inputs, and the inputs depend on following the steps with rigour.
+
+Rhydderch's eight-step process:
+
+**Step 1: Identify the focal issue.**
+Develop a specific question the scenario exercise should answer. "What will India's energy mix look like in 2035?" is a good focal question. "Think about energy" is not. Most failed matrices skip this step.
+
+**Step 2: Map internal dynamics.**
+Scan the operating environment for factors that might affect the focal issue. For energy, these might include: global oil prices, domestic coal reserves, renewable cost curves, nuclear policy, grid infrastructure, and political coalitions.
+
+**Step 3: Identify driving forces.**
+Locate the deeper forces behind the dynamics. For example, "global oil prices" is a dynamic; the driving force is the speed of the global energy transition and the coherence of OPEC+ supply management.
+
+**Step 4: Rank by importance and uncertainty.**
+This is the critical step. From the driving forces, pick the **two** that are simultaneously (a) most important to the outcome, and (b) most uncertain. If a force is important but certain (e.g., "India will need more electricity"), it should not be an axis. If it is uncertain but unimportant, it should not be an axis. The two axes must also be independent — not two measures of the same underlying variable.
+
+**Step 5: Check the scenario logic.**
+Pause. Do the two chosen drivers actually produce four distinct, plausible quadrants? If the drivers are correlated, you may end up with only two populated diagonals and two empty quadrants. That is not a failure — it is useful information — but it means the matrix is not doing the work you asked it to do.
+
+**Step 6: Flesh out the scenarios.**
+Project what each quadrant looks like across all the drivers identified in Step 3. This works best in groups, where different disciplinary perspectives fill in blind spots.
+
+**Step 7: Derive implications.**
+Each scenario creates different opportunities, threats, and possible allies. The point is not to predict which scenario will occur, but to prepare for all of them.
+
+**Step 8: Set leading indicators.**
+Identify observable variables that tell you which scenario is emerging. These are your early-warning system.
+
+## Applied
+
+A 2015 Takshashila exercise used the 2x2 matrix to explore: *How might Iran's global status and regional influence play out over the next decade?* The two axes chosen were (1) Iran's relationship with the West, and (2) the stability of the Gulf monarchies. The four quadrants produced very different implications for India's energy security, diaspora safety, and strategic partnerships. The exercise did not predict the 2015 nuclear deal or its subsequent unravelling, but it did prepare analysts for both possibilities.
+
+The discipline is in the axis selection. A lazy matrix uses "good vs. bad" on both axes. A rigorous matrix uses genuinely uncertain, independent drivers. The difference is visible at a glance.
+
+## When it falls short
+
+The 2x2 matrix cannot handle more than two variables at a time. Complex policy problems — climate adaptation, fiscal federalism, urban transformation — are shaped by dozens of interacting forces. Reducing them to two axes risks oversimplification. The matrix is a starting point, not an analysis.
+
+It is also vulnerable to post-hoc rationalisation. A clever analyst can always find two axes that make their preferred conclusion land in the "desirable" quadrant. The framework is a discipline for exploration, not a tool for advocacy.
+
+## Related frameworks
+
+- [Building Models](building-models.qmd) — the underlying craft of constructing simplifying representations.
+- [The Overton Window](../political-thinking/overton-window.qmd) — a one-dimensional framework for thinking about political possibility.
+- [Wilson's Interest Group Matrix](../political-thinking/wilson-interest-group-matrix.qmd) — a genuinely useful 2x2 with well-chosen axes.
+
+## Further reading
+
+- Schwartz, P. (1991). *The Art of the Long View*. Currency Doubleday.
+
+::: {.attribution}
+Originally explored in [*A Framework a Week: Two is Better Than One*](https://publicpolicy.substack.com/i/99395359/a-framework-a-week-two-is-better-than-one) on *Anticipating the Unintended*.
+:::

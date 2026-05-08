@@ -1,0 +1,82 @@
+---
+pagetitle: "Frameworks for Public Policy"
+page-layout: full
+toc: false
+listing:
+  - id: featured
+    contents:
+      - public-policy/wicked-problems.qmd
+      - public-policy/ooo.qmd
+      - political-thinking/overton-window.qmd
+    type: grid
+    grid-columns: 3
+    fields: [image, title, summary, categories]
+    image-height: "200px"
+    sort: false
+---
+
+::: {.hero}
+::: {.tagline}
+A growing collection of mental models for thinking about policy, drawn from books, papers, and 300+ editions of *Anticipating the Unintended*. Frameworks-based thinking helps make sense of complex policy problems and what can be done about them.
+:::
+
+::: {.sub-tagline}
+Curated and explained by [Pranay Kotasthane](https://pranaykotas.com).
+:::
+:::
+
+## Find a framework
+
+Describe the policy problem you're thinking about and get the most relevant frameworks.
+
+::: {.finder-box}
+
+::: {.finder-input-row}
+<input type="text" id="finder-input" class="finder-input" placeholder="e.g. why infrastructure projects fail, how reforms become politically acceptable…" />
+<button id="finder-btn" class="finder-btn">Find</button>
+:::
+
+::: {.example-chips}
+<button class="example-chip" data-query="why infrastructure projects fail">infrastructure failures</button>
+<button class="example-chip" data-query="how narrative shifts policy acceptability">narrative and policy</button>
+<button class="example-chip" data-query="matching policy instruments to objectives">instrument selection</button>
+<button class="example-chip" data-query="deterrence and state behaviour">deterrence</button>
+<button class="example-chip" data-query="fiscal federalism and taxation">fiscal federalism</button>
+:::
+
+<div id="finder-results"></div>
+
+:::
+
+<script src="scripts/finder.js"></script>
+
+## Start here
+
+Three frameworks that show the range of what's on this site — analysis, evaluation, politics.
+
+::: {#featured}
+:::
+
+## Browse by category
+
+::: {.category-grid}
+
+[**Public Policy**<br>
+[Frameworks for defining policy problems, analysing failures, and matching tools to objectives.]{.category-tile-desc}](public-policy/index.qmd){.category-tile}
+
+[**Political Thinking**<br>
+[How political coalitions form, narratives travel, and ideas become acceptable.]{.category-tile-desc}](political-thinking/index.qmd){.category-tile}
+
+[**Public Finance**<br>
+[State functions, debt sustainability, taxation, and fiscal federalism.]{.category-tile-desc}](public-finance/index.qmd){.category-tile}
+
+[**Foreign Policy & Geopolitics**<br>
+[State behaviour, deterrence, world orders, and India's strategic choices.]{.category-tile-desc}](foreign-policy-defence-geopolitics/index.qmd){.category-tile}
+
+[**Society**<br>
+[Social norms, networked societies, ideology, and information ecosystems.]{.category-tile-desc}](society/index.qmd){.category-tile}
+
+[**Universe**<br>
+[Modelling, trade-offs, and frameworks that cut across domains.]{.category-tile-desc}](universe/index.qmd){.category-tile}
+
+:::
