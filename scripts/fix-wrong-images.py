@@ -2,6 +2,7 @@
 """Remove wrong scraped images from framework pages, replacing with category defaults."""
 import re
 import os
+from pathlib import Path
 
 DEFAULTS = {
     'public-policy': 'images/defaults/public-policy.png',
@@ -73,7 +74,7 @@ TO_FIX = [
     ('universe', 'what-s-easy-what-s-not'),
 ]
 
-base = '/Users/pranay-karma/Projects/frameworks'
+base = str(Path(__file__).parent.parent)
 fixed = 0
 not_found = 0
 

@@ -8,7 +8,7 @@ and emits a JSON file that the find-framework.qmd page loads via JS.
 import os, re, json, yaml
 from pathlib import Path
 
-ROOT = Path("/Users/pranay-karma/Projects/frameworks")
+ROOT = Path(__file__).parent.parent
 CATEGORIES = ["public-policy", "political-thinking", "public-finance",
               "foreign-policy-defence-geopolitics", "society", "universe"]
 
