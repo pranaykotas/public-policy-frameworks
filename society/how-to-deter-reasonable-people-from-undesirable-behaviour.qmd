@@ -1,9 +1,9 @@
 ---
 title: "How to Deter Reasonable People from Undesirable Behaviour"
 summary: "The mechanics of deterrence applied to states acting roughly rationally."
-categories: ["Foreign Policy & Geopolitics"]
+categories: [Society]
 date: 2026-05-03
-image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+image: "../images/how-to-deter-reasonable-people-from-undesirable-behaviour.webp"
 tags:
   - behaviour
   - incentives
@@ -19,7 +19,7 @@ use_cases:
 ---
 
 ::: {.card-meta}
-[Foreign Policy, Defence & Geopolitics]{.badge} [deterrence]{.badge} [behavioural]{.badge}
+[Society]{.badge} [deterrence]{.badge} [behavioural]{.badge}
 :::
 
 > Assuming that people are reasonable highlights the need to engage with people who are the targets of interventions. This turns them from targets into partners.
@@ -30,12 +30,14 @@ This framework draws on a paper by Nick Chater and George Loewenstein — *Behav
 
 ## What it says
 
+![How to Deter Reasonable People from Undesirable Behaviour](../images/how-to-deter-reasonable-people-from-undesirable-behaviour.webp){fig-alt="How to Deter Reasonable People from Undesirable Behaviour"}
 
 Conventional economics assumes humans are rational; behavioural science assumes they are irrational. A growing consensus suggests a middle ground: humans are **reasonable** — they try to make optimal use of available information that fits their own contexts and goals.
 
 This matters enormously for deterrence. If we assume adversaries are irrational, our policy solutions tend towards coercion and paternalism. If we assume they are reasonable, we can explain their behaviour as responses to incentives, cultural context, and systemic factors — and design deterrence accordingly.
 
 The lottery example illustrates the difference:
+
 - **Irrationality assumption:** Playing the lottery is a cognitive bias. Solution: ban lotteries, run education campaigns.
 - **Reasonableness assumption:** Lottery-playing is cheap entertainment, social participation, or a response to limited upward mobility. Solution: address systemic factors that make the lottery appealing.
 
@@ -55,7 +57,7 @@ The framework works best when the adversary is indeed acting within a reasonable
 
 ## Related frameworks
 
-- [Responding to LAC Standoff in Ladakh](responding-to-lac-standoff-in-ladakh.qmd) — a tactical framework for making aggression costly for China.
+- [Responding to LAC Standoff in Ladakh](../foreign-policy-defence-geopolitics/responding-to-lac-standoff-in-ladakh.qmd) — a tactical framework for making aggression costly for China.
 
 ::: {.attribution}
 Originally explored in [*A Framework a Week: How to Deter Reasonable People from Undesirable Behaviour*](https://publicpolicy.substack.com/i/144298540/a-framework-a-week-how-to-deter-reasonable-people-from-engaging-in-undesirable-behaviour) on *Anticipating the Unintended*.
