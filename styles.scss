@@ -398,7 +398,7 @@ blockquote {
 @media (max-width: 600px) {
   .hero h1 { font-size: 2rem; }
   .hero .tagline { font-size: 1.05rem; }
-  .finder-input-row { flex-direction: column; }
+  .finder-input-row p { flex-direction: column; }
   .finder-btn { width: 100%; }
   .finder-input {
     width: 100%;
