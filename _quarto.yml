@@ -5,6 +5,7 @@ project:
     - frameworks.json
     - images/
     - scripts/finder.js
+    - CNAME
 
 website:
   title: "Frameworks for Public Policy"
