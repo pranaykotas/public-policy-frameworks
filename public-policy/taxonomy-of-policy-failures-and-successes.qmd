@@ -1,23 +1,32 @@
 ---
 title: "Taxonomy of Policy Failures and Successes"
-summary: "A typology that separates kinds of policy outcomes — design failures, implementation failures, and so on."
+summary: "A diagnostic menu for why policies fail — six lenses covering design failures, implementation failures, theory-of-change failures, political failures, and incentive interference."
 categories: [Public Policy]
 date: 2026-05-03
 image: "../images/taxonomy-of-policy-failures-and-successes.webp"
 tags:
+  - policy-failure
+  - failure-diagnosis
+  - why-policies-fail
   - evaluation
   - design
+  - implementation
   - unintended-consequences
+  - theory-of-change
+  - meta-framework
 use_cases:
   - "When a policy has failed and you need a structured way to diagnose why"
+  - "When asking why do policies fail — this is the go-to diagnostic framework"
   - "When separating political success from programmatic success in a review"
   - "When rent control is electorally popular but demonstrably destroys housing supply"
   - "When a technically sound pension reform is reversed because of coalition politics"
   - "When distinguishing a theory-of-change failure from an implementation failure"
   - "When a policy followed the right process but produced wrong incentives on the ground"
+  - "When an institution is chasing too many objectives with one instrument"
+  - "When you need to explain to someone why bans, price caps, or subsidies backfire"
 ---
 ::: {.card-meta}
-[Public Policy]{.badge} [evaluation]{.badge} [meta-framework]{.badge}
+[Public Policy]{.badge} [policy-failure]{.badge} [meta-framework]{.badge}
 :::
 
 > What we think of as implementation failures often turn out to be "theory of change" failures under the hood.
@@ -35,16 +44,27 @@ The taxonomy bundles six distinct diagnostic lenses:
 **1. The Programmatic–Political Axes**
 Policies can be assessed on programmatic efficiency/effectiveness and on political coalition-building. A scheme can be technically sound but politically orphaned, or politically popular but technically hollow.
 
+![Programmatic–Political Axes](../images/taxonomy-policy-programmatic-political-axes.webp){fig-alt="2x2 matrix of programmatic vs political success and failure"}
+
 **2. The Fourfold Measure**
+Expands the two-axis view to counter narrative bias. Four assessment dimensions:
+
 - **Programmatic:** effectiveness and efficiency.
 - **Process:** implementation capability.
 - **Political:** narrative power and coalition durability.
+- **Symbolic/Legitimacy:** does the policy signal the right values?
+
+![Fourfold Measure of Policy Success and Failure](../images/taxonomy-policy-fourfold-measure.webp){fig-alt="Fourfold measure of policy success and failure"}
 
 **3. McConnell’s Spectrum**
 Each dimension is graded from outright success → resilient success → conflicted success → precarious success → outright failure. A policy can be an outright success programmatically but precarious politically.
 
+![McConnell’s Spectrum](../images/taxonomy-policy-mcconnell-spectrum.webp){fig-alt="McConnell’s spectrum from outright success to outright failure across programmatic, process, and political dimensions"}
+
 **4. Outlays–Outputs–Outcomes (OOO)**
 Breaks the chain: inputs → activities → impacts. A theory-of-change failure occurs when the assumed linkage is wrong (e.g., more school spending → better learning). An implementation failure occurs when the linkage is sound but execution breaks down.
+
+![Outlays–Outputs–Outcomes](../images/taxonomy-policy-ooo.webp){fig-alt="Outlays, outputs, and outcomes chain with economy, efficiency, and effectiveness measures"}
 
 **5. Violating the Tinbergen Rule**
 An institution asked to achieve many objectives with one instrument will fail on all of them.
