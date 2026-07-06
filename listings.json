@@ -8,39 +8,13 @@
     ]
   },
   {
-    "listing": "/foreign-policy-defence-geopolitics/index.html",
-    "items": [
-      "/foreign-policy-defence-geopolitics/a-taxonomy-of-defence-innovation.html",
-      "/foreign-policy-defence-geopolitics/aap-hamaare-hain-kaun-russia.html",
-      "/foreign-policy-defence-geopolitics/chinas-predicament.html",
-      "/foreign-policy-defence-geopolitics/decoupling-dynamics.html",
-      "/foreign-policy-defence-geopolitics/describing-state-policy-on-geopolitical-issues.html",
-      "/foreign-policy-defence-geopolitics/dictatorship-and-democracy-in-israel-and-pakistan.html",
-      "/foreign-policy-defence-geopolitics/flakiness-in-us-pakistan-policy.html",
-      "/foreign-policy-defence-geopolitics/guns-and-butter.html",
-      "/foreign-policy-defence-geopolitics/how-democratic-states-perceive-each-other.html",
-      "/foreign-policy-defence-geopolitics/human-capital-investment-model-for-national-security.html",
-      "/foreign-policy-defence-geopolitics/hypocrisy-in-international-relations.html",
-      "/foreign-policy-defence-geopolitics/india-and-the-post-covid-19-world-order.html",
-      "/foreign-policy-defence-geopolitics/indias-approach-towards-chinese-firms.html",
-      "/foreign-policy-defence-geopolitics/ingredients-of-a-new-world-order.html",
-      "/foreign-policy-defence-geopolitics/instruments-of-technology-geopolitics.html",
-      "/foreign-policy-defence-geopolitics/national-security-preparedness-and-covid-19-planning.html",
-      "/foreign-policy-defence-geopolitics/paradoxes-of-indias-westernophobia.html",
-      "/foreign-policy-defence-geopolitics/responding-to-lac-standoff-in-ladakh.html",
-      "/foreign-policy-defence-geopolitics/three-schools-of-thought-on-indiaus-relations.html",
-      "/foreign-policy-defence-geopolitics/what-global-order-are-we-in.html",
-      "/foreign-policy-defence-geopolitics/what-made-the-us-enable-chinas-rise.html",
-      "/foreign-policy-defence-geopolitics/what-makes-an-asset-strategic.html"
-    ]
-  },
-  {
     "listing": "/political-thinking/index.html",
     "items": [
       "/political-thinking/cognitive-maps.html",
       "/political-thinking/confronting-trade-offs.html",
       "/political-thinking/kingdon-three-streams.html",
       "/political-thinking/political-policymaking.html",
+      "/political-thinking/power-versus-authority.html",
       "/political-thinking/rules-for-political-survival.html",
       "/political-thinking/stakeholder-management-in-public-policy.html",
       "/political-thinking/overton-window.html",
@@ -49,23 +23,6 @@
       "/political-thinking/what-makes-a-good-narrative.html",
       "/political-thinking/why-weak-dictators-get-softer-loans.html",
       "/political-thinking/wilson-interest-group-matrix.html"
-    ]
-  },
-  {
-    "listing": "/universe/index.html",
-    "items": [
-      "/universe/building-models.html",
-      "/universe/hal-varians-tips-on-building-an-economic-model.html",
-      "/universe/how-social-media-expands-reference-networks.html",
-      "/universe/how-to-build-a-good-2x2-matrix.html",
-      "/universe/inter-state-water-sharing.html",
-      "/universe/moralising-is-central-to-storytelling.html",
-      "/universe/prohibition-and-morality.html",
-      "/universe/social-medias-rule-of-three.html",
-      "/universe/the-impossible-trinity-of-indian-cities.html",
-      "/universe/three-binding-constraints-tech-progress.html",
-      "/universe/what-s-easy-what-s-not.html",
-      "/universe/xis-trilemma.html"
     ]
   },
   {
@@ -101,6 +58,36 @@
     ]
   },
   {
+    "listing": "/foreign-policy-defence-geopolitics/index.html",
+    "items": [
+      "/foreign-policy-defence-geopolitics/a-taxonomy-of-defence-innovation.html",
+      "/foreign-policy-defence-geopolitics/aap-hamaare-hain-kaun-russia.html",
+      "/foreign-policy-defence-geopolitics/chinas-predicament.html",
+      "/foreign-policy-defence-geopolitics/decoupling-dynamics.html",
+      "/foreign-policy-defence-geopolitics/describing-state-policy-on-geopolitical-issues.html",
+      "/foreign-policy-defence-geopolitics/dictatorship-and-democracy-in-israel-and-pakistan.html",
+      "/foreign-policy-defence-geopolitics/flakiness-in-us-pakistan-policy.html",
+      "/foreign-policy-defence-geopolitics/guns-and-butter.html",
+      "/foreign-policy-defence-geopolitics/how-democratic-states-perceive-each-other.html",
+      "/foreign-policy-defence-geopolitics/human-capital-investment-model-for-national-security.html",
+      "/foreign-policy-defence-geopolitics/hypocrisy-in-international-relations.html",
+      "/foreign-policy-defence-geopolitics/india-and-the-post-covid-19-world-order.html",
+      "/foreign-policy-defence-geopolitics/indias-approach-towards-chinese-firms.html",
+      "/foreign-policy-defence-geopolitics/indias-leverage-assessment-framework.html",
+      "/foreign-policy-defence-geopolitics/indias-retaliatory-options-against-larger-powers.html",
+      "/foreign-policy-defence-geopolitics/ingredients-of-a-new-world-order.html",
+      "/foreign-policy-defence-geopolitics/instruments-of-technology-geopolitics.html",
+      "/foreign-policy-defence-geopolitics/national-security-preparedness-and-covid-19-planning.html",
+      "/foreign-policy-defence-geopolitics/paradoxes-of-indias-westernophobia.html",
+      "/foreign-policy-defence-geopolitics/responding-to-lac-standoff-in-ladakh.html",
+      "/foreign-policy-defence-geopolitics/three-schools-of-thought-on-indiaus-relations.html",
+      "/foreign-policy-defence-geopolitics/trusted-source-trusted-product.html",
+      "/foreign-policy-defence-geopolitics/what-global-order-are-we-in.html",
+      "/foreign-policy-defence-geopolitics/what-made-the-us-enable-chinas-rise.html",
+      "/foreign-policy-defence-geopolitics/what-makes-an-asset-strategic.html"
+    ]
+  },
+  {
     "listing": "/public-finance/index.html",
     "items": [
       "/public-finance/a-taxing-month-ahead.html",
@@ -121,6 +108,7 @@
       "/society/how-to-analyse-an-analysis.html",
       "/society/how-to-deter-reasonable-people-from-undesirable-behaviour.html",
       "/society/internet-and-politics.html",
+      "/society/mazarrs-societal-characteristics-for-ai-competitiveness.html",
       "/society/radically-networked-societies.html",
       "/society/social-norms-and-public-policy.html",
       "/society/terrorism-poverty-and-education.html",
@@ -134,6 +122,23 @@
       "/society/why-large-whatsapp-groups-are-so-ineffective.html",
       "/society/why-people-rebel.html",
       "/society/why-we-do-stupid-things-in-groups.html"
+    ]
+  },
+  {
+    "listing": "/universe/index.html",
+    "items": [
+      "/universe/building-models.html",
+      "/universe/hal-varians-tips-on-building-an-economic-model.html",
+      "/universe/how-social-media-expands-reference-networks.html",
+      "/universe/how-to-build-a-good-2x2-matrix.html",
+      "/universe/inter-state-water-sharing.html",
+      "/universe/moralising-is-central-to-storytelling.html",
+      "/universe/prohibition-and-morality.html",
+      "/universe/social-medias-rule-of-three.html",
+      "/universe/the-impossible-trinity-of-indian-cities.html",
+      "/universe/three-binding-constraints-tech-progress.html",
+      "/universe/what-s-easy-what-s-not.html",
+      "/universe/xis-trilemma.html"
     ]
   }
 ]
