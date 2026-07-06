@@ -1,0 +1,51 @@
+---
+title: "Power Versus Authority"
+summary: "Authority is power plus legitimacy. Legitimacy disarms others, making them willing to accept your leadership without coercion. Losing legitimacy while retaining power is the most dangerous form of hegemonic decline."
+categories: ["Political Thinking"]
+date: 2026-07-06
+image: "../images/defaults/political-thinking.png"
+tags:
+  - political-theory
+  - hegemony
+  - legitimacy
+  - india
+  - international-relations
+use_cases:
+  - "When Trump's America retains military and economic power but loses the ability to lead coalitions willingly — diagnosing the authority deficit"
+  - "When India dominates cricket revenue but alienates smaller cricketing nations through coercion rather than persuasion — mapping the power-authority gap"
+  - "When a regional hegemon confuses compliance extracted through fear with genuine acceptance"
+  - "When evaluating whether India's rise will follow the US pattern of power-without-authority or build genuine legitimacy"
+  - "When a dominant actor's unilateral actions erode the normative framework that sustained its leadership"
+---
+
+::: {.card-meta}
+[Political Thinking]{.badge} [legitimacy]{.badge} [hegemony]{.badge}
+:::
+
+> Authority is power plus legitimacy. Legitimacy disarms others, making them willing to accept your leadership without coercion.
+
+## Origin
+
+The distinction between power and authority is a foundational concept in political theory (Weber, Arendt, Nye). Applied to contemporary geopolitics and India's cricket hegemony by RSJ in *Anticipating the Unintended* #331 (February 2026).
+
+## What it says
+
+Power is the ability to compel outcomes. Authority is power accepted as legitimate. The US after the Cold War had both — unmatched military and economic power, plus a normative framework (democracy, rule of law, open trade) that other states voluntarily bought into.
+
+What accelerated American decline was not a loss of power but the erosion of legitimacy through unilateral actions — Iraq, financial crises, and now Trump's tariff regime. Power without authority generates compliance through fear, which is inherently unstable.
+
+The framework is visible in miniature in India's cricket dominance. The BCCI controls roughly 85 per cent of ICC television revenues. It could use this structural power to elevate weaker cricketing nations (as it did with Afghanistan). Instead, the recent pattern — refusing handshakes with Pakistan, weaponising IPL against Bangladesh, ignoring African cricket development — reveals the instinct to coerce rather than lead. This is power without authority.
+
+## Applied
+
+- When assessing whether a dominant power's behaviour will build or erode long-term coalitions.
+- When a rising power must choose between extracting short-term concessions and building long-term legitimacy.
+- When evaluating foreign policy actions by asking: does this increase or decrease others' willingness to follow?
+
+## When it falls short
+
+The framework assumes that legitimacy is instrumentally valuable — that authority is "better" than naked power because it is cheaper and more durable. But there are historical cases where coercive power alone sustained dominance for extended periods (Soviet control of Eastern Europe). Legitimacy also depends on whose standards count, and that itself is a political contest.
+
+## Further reading
+
+- Originally explored in [Anticipating the Unintended #331](https://publicpolicy.substack.com/p/331-fast-brain-slow-brain)

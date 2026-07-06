@@ -1,0 +1,62 @@
+---
+title: "India's Retaliatory Options Against Larger Powers"
+summary: "India's conventional wisdom that it lacks retaliatory options against the US is analytically wrong. A big domestic market, defence procurement leverage, pharmaceutical patents, and a SAMR-type regulatory authority are four concrete cards India can play."
+categories: ["Foreign Policy & Geopolitics"]
+date: 2026-07-06
+image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+tags:
+  - geopolitics
+  - india
+  - trade
+  - strategy
+  - united-states
+use_cases:
+  - "When India faces aggressive US tariffs and the instinctive response is that India cannot afford to push back"
+  - "When assessing whether India's defence procurement from the US can be used as a bargaining chip"
+  - "When pharmaceutical patent enforcement becomes a geopolitical lever rather than a purely legal question"
+  - "When designing an Indian equivalent of China's SAMR that merges antitrust with strategic considerations"
+  - "When evaluating the second-order effects of each retaliatory option on India's relationships with third parties"
+---
+
+::: {.card-meta}
+[Foreign Policy, Defence & Geopolitics]{.badge} [strategy]{.badge} [trade]{.badge}
+:::
+
+> When you are a big buyer, you have power. The question is whether you are willing to use it.
+
+## Origin
+
+Developed by Pranay Kotasthane in *Anticipating the Unintended* #316 (September 2025), building on Swaminathan Aiyar's argument and analysis of China's SAMR as a geopolitical instrument.
+
+## What it says
+
+India's domestic market is already a source of leverage. Four retaliatory options exist beyond conventional tariffs:
+
+1. **Defence procurement linkage** — India is among the largest arms importers globally. Telling the US that India cannot buy arms from a country that imposes punitive tariffs turns foreign policy into trade leverage.
+
+2. **Pharmaceutical patent pressure** — US drug firms fear India will restrict fresh patents or liberally issue compulsory licenses. India can calibrate this pressure without formal announcements.
+
+3. **SAMR-type regulatory authority** — China's State Administration for Market Regulation uses merger review as a geopolitical lever. India, as the only other market of comparable scale, can build a regulator that considers national strategic interests alongside market competition. The current CCI focuses narrowly on competition; a broader mandate would give India structural leverage over multinational deals.
+
+4. **Market access calibration** — using procurement preferences, data localisation, and standards-setting as graduated pressure tools.
+
+Each option sets in motion effects that extend beyond the bilateral relationship, which is why calibration matters more than maximalism.
+
+## Applied
+
+- When designing India's response to trade coercion from the US, EU, or China.
+- When arguing against the defeatist view that India must simply accept external pressure until it grows richer.
+- When building institutional infrastructure (a SAMR equivalent) before it is urgently needed.
+
+## When it falls short
+
+Each option carries escalation risk. Arms procurement linkage damages interoperability built over decades. Pharma pressure can invite WTO challenges and damage India's broader trade reputation. And a SAMR-type regulator requires sophisticated institutional capacity that India's bureaucracy does not yet possess. The framework identifies cards; it does not guarantee they can be played cleanly.
+
+## Related frameworks
+
+- [[India's Leverage Assessment Framework]](../foreign-policy-defence-geopolitics/indias-leverage-assessment-framework.qmd) — the analytical framework for evaluating each option.
+- [[Instruments of Technology Geopolitics]](../foreign-policy-defence-geopolitics/instruments-of-technology-geopolitics.qmd) — technology-specific tools in the same strategic domain.
+
+## Further reading
+
+- Originally explored in [Anticipating the Unintended #316](https://publicpolicy.substack.com/p/316-being-unreasonable)

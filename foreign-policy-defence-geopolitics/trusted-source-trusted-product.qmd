@@ -1,0 +1,58 @@
+---
+title: "Trusted Source–Trusted Product Framework"
+summary: "India's hardware security regime screens both vendors and products for supply chain integrity. The framework separates who makes something from what it does, recognising that a trusted vendor can ship a compromised product and a distrusted vendor can ship a clean one."
+categories: ["Foreign Policy & Geopolitics"]
+date: 2026-07-06
+image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+tags:
+  - security
+  - technology
+  - supply-chain
+  - telecom
+  - regulation
+use_cases:
+  - "When India bans Chinese telecom vendors but must still assess equipment from multinational firms with Chinese components"
+  - "When extending supply chain security screening from telecom to satellite services, data centres, or critical infrastructure"
+  - "When designing procurement rules that distinguish vendor risk from product risk rather than relying on blanket country-of-origin bans"
+  - "When a 'trusted' domestic vendor delivers equipment with undisclosed third-party firmware"
+---
+
+::: {.card-meta}
+[Foreign Policy, Defence & Geopolitics]{.badge} [security]{.badge} [technology]{.badge}
+:::
+
+> A trusted vendor can ship a compromised product. A distrusted vendor can ship a clean one. Security screening must address both dimensions.
+
+## Origin
+
+Developed as part of India's telecom security regulations, the Trusted Source–Trusted Product framework was implemented by the Department of Telecommunications. Discussed in *Anticipating the Unintended* #339 (March 2026).
+
+## What it says
+
+The framework operates on two independent axes:
+
+- **Trusted Source** — is the vendor deemed reliable based on ownership, jurisdiction, track record, and geopolitical alignment?
+- **Trusted Product** — does the specific equipment pass technical security audits regardless of who made it?
+
+Both must be satisfied. A vendor cleared as a trusted source still has each product assessed independently. This dual screening creates a matrix: a Chinese-origin firm may fail on source but pass on product for specific equipment; a domestic firm may pass on source but fail on product if its firmware includes unaudited third-party code.
+
+India first applied this framework to telecom services and has recently extended it to satellite services.
+
+## Applied
+
+- When designing supply chain security policies for critical infrastructure.
+- When moving beyond blunt country-of-origin bans toward risk-based procurement.
+- When extending telecom security screening to new domains (satellites, cloud, undersea cables).
+
+## When it falls short
+
+The framework requires significant technical capacity to audit products, which India's regulators are still building. It also creates compliance costs that disadvantage smaller vendors. The "trusted source" determination inevitably involves geopolitical judgment calls that can be arbitrary or politically motivated.
+
+## Related frameworks
+
+- [[Instruments of Technology Geopolitics]](../foreign-policy-defence-geopolitics/instruments-of-technology-geopolitics.qmd) — the broader toolkit of technology statecraft.
+- [[What Makes an Asset Strategic?]](../foreign-policy-defence-geopolitics/what-makes-an-asset-strategic.qmd) — determining what warrants this level of scrutiny.
+
+## Further reading
+
+- Originally explored in [Anticipating the Unintended #339](https://publicpolicy.substack.com/p/339-divergence-and-assimilation)

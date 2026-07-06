@@ -1,0 +1,64 @@
+---
+title: "India's Leverage Assessment Framework"
+summary: "Leverage is not a property of national size. It is a product of the density of interrelationships, the asymmetry of vulnerability in specific domains, and the willingness to endure short-term costs to establish long-term red lines."
+categories: ["Foreign Policy & Geopolitics"]
+date: 2026-07-06
+image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+tags:
+  - geopolitics
+  - india
+  - strategy
+  - leverage
+  - trade
+use_cases:
+  - "When Sri Lanka and Maldives extract concessions from India despite massive power asymmetry — understanding that leverage is relational, not absolute"
+  - "When assessing whether India should retaliate against US tariffs or stay quiet — mapping the action on the 2×2 matrix of vulnerability asymmetry and political salience"
+  - "When a proposed retaliatory action scores well on vulnerability but poorly on signal clarity or credibility impact"
+  - "When Indian strategic circles claim India has no leverage against the US because of GDP disparity"
+  - "When designing a calibrated response that can be escalated or de-escalated without permanent self-damage"
+---
+
+::: {.card-meta}
+[Foreign Policy, Defence & Geopolitics]{.badge} [strategy]{.badge} [leverage]{.badge}
+:::
+
+> If leverage were purely a function of aggregate national power, Sri Lanka would have zero leverage over India. Yet both Sri Lanka and the Maldives routinely extract concessions from New Delhi.
+
+## Origin
+
+Developed by Pranay Kotasthane in *Anticipating the Unintended* #348 (June 2026), drawing on David Baldwin's relational theory of economic statecraft, the Keohane-Nye model of complex interdependence, and empirical analysis of contemporary supply-chain weaponisation.
+
+## What it says
+
+Leverage is not about who is bigger. It is a product of three factors: the density of interrelationships between two states, the asymmetry of vulnerability in specific domains, and the willingness to endure short-term costs to establish long-term red lines.
+
+Seven factors determine whether a leverage action will succeed:
+
+1. **Asymmetry of vulnerability** — who suffers more in the specific domain?
+2. **Political salience in the target state** — does it generate domestic political pain?
+3. **Target state's substitutability** — can India find alternatives if the target retaliates?
+4. **Acting state's substitutability** — can the target replace what India provides?
+5. **Reversibility** — can India walk it back without permanent self-damage?
+6. **Credibility impact** — does it hurt India's reputation with third parties?
+7. **Signal clarity** — does the action unambiguously communicate a red line?
+
+The first two factors are the most important. They generate a 2×2 matrix: high/low asymmetry of vulnerability crossed with high/low political salience in the target state. Actions in the high-high quadrant have the best chance of success.
+
+## Applied
+
+- When deciding whether India should push back against trade coercion from a larger power.
+- When evaluating specific retaliatory options (arms procurement, pharma patents, regulatory leverage) against the seven criteria.
+- When designing a graduated escalation ladder rather than a binary retaliate-or-acquiesce choice.
+
+## When it falls short
+
+The framework is analytically clean but politically hard. Deploying leverage requires institutional coordination across defence, trade, and diplomatic establishments that India's bureaucratic silos make difficult. It also assumes rational cost-benefit calculation; some leverage actions trigger emotional or nationalistic counter-reactions that defy the matrix.
+
+## Related frameworks
+
+- [[India's Retaliatory Options Against Larger Powers]](../foreign-policy-defence-geopolitics/indias-retaliatory-options-against-larger-powers.qmd) — specific options that score well on this framework.
+- [[Instruments of Technology Geopolitics]](../foreign-policy-defence-geopolitics/instruments-of-technology-geopolitics.qmd) — the technology-specific toolkit for statecraft.
+
+## Further reading
+
+- Originally explored in [Anticipating the Unintended #348](https://publicpolicy.substack.com/p/348-pause-and-think)

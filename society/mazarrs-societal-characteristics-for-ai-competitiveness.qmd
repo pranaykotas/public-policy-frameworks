@@ -1,0 +1,63 @@
+---
+title: "Mazarr's Societal Characteristics for AI Competitiveness"
+summary: "Success in the AI era is more a societal challenge than a technological one. Countries that win won't simply be those with the best chips or the biggest models — they will be societies that can absorb, deploy, and manage the effects of a powerful general-purpose technology."
+categories: [Society]
+date: 2026-07-06
+image: "../images/defaults/society.png"
+tags:
+  - technology
+  - ai
+  - geopolitics
+  - state-capacity
+  - society
+use_cases:
+  - "When the AI policy debate fixates on GPU access, data centres, and model size — and you need to redirect attention to societal absorptive capacity"
+  - "When evaluating India's AI readiness and the standard metrics (STEM graduates, compute) feel incomplete"
+  - "When arguing that India needs a strategy for national renewal that uses AI, not an AI strategy per se"
+  - "When assessing why some countries adopt general-purpose technologies faster than others despite having fewer technical resources"
+  - "When the discourse around Viksit Bharat 2047 needs grounding in what actually makes nations competitive during technological transitions"
+---
+
+::: {.card-meta}
+[Society]{.badge} [technology]{.badge} [state-capacity]{.badge}
+:::
+
+> We don't need an AI strategy. We need a strategy for national renewal and competitive advantage that uses the capabilities and opportunities of the AI Era to achieve its goals.
+
+## Origin
+
+Michael Mazarr, *A New Age of Nations: Power and Advantage in the AI Era* (RAND, 2026), drawing on a prior study for the US Office of Net Assessment on societal characteristics that shape long-term national competitiveness. Applied to India by Pranay Kotasthane in *Anticipating the Unintended* #336.
+
+## What it says
+
+Seven societal characteristics determine whether nations rise or decline during technological transitions:
+
+1. **National ambition and will** — a society-wide aspirational narrative that transcends party lines.
+2. **Unified national identity** — societies with a shared sense of who they are mobilise more effectively.
+3. **Shared opportunity** — gains from technological revolutions must be broadly distributed, not concentrated.
+4. **Active and engaged society** — vibrant civic life and entrepreneurial energy, channelled productively.
+5. **Effective government institutions** — state capacity to absorb, deploy, and regulate new technologies.
+6. **Learning and adaptive intellectual climate** — education systems that foster critical thinking, not just credentialism.
+7. **Diversity and pluralism** — intellectual openness that enables experimentation and course correction.
+
+Applied to India: strong on ambition (Viksit Bharat 2047) and demographic energy, mixed on identity and opportunity, weakest on institutional capacity. The real bottleneck is not chips — it is whether India's institutions can process information, make decisions, and deliver services at the speed AI demands.
+
+## Applied
+
+- When designing national AI policy that goes beyond compute and model access.
+- When evaluating a country's readiness for any general-purpose technology transition, not just AI.
+- When arguing that diffusion — the ability to take technology from lab to field at population scale — matters more than invention.
+
+## When it falls short
+
+The seven characteristics are broad enough to be applied to almost any era, which raises the question of their specificity to AI. The framework is diagnostic, not prescriptive — it tells you what matters but not how to build institutional capacity or shared opportunity in practice. Country-specific constraints (India's federalism, caste dynamics, linguistic diversity) require translation that the RAND report, written for an American audience, does not provide.
+
+## Related frameworks
+
+- [[Instruments of Technology Geopolitics]](../foreign-policy-defence-geopolitics/instruments-of-technology-geopolitics.qmd) — the hardware side of technology competition.
+- [[Three Binding Constraints on Technological Progress]](../universe/three-binding-constraints-tech-progress.qmd) — a complementary framework on what blocks technological progress.
+
+## Further reading
+
+- Mazarr, M. *A New Age of Nations: Power and Advantage in the AI Era*. RAND Corporation, 2026.
+- Originally explored in [Anticipating the Unintended #336](https://publicpolicy.substack.com/p/336-of-wars-and-races)
