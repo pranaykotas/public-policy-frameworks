@@ -44,6 +44,8 @@ website:
     left: |
       Companion to [publicpolicy.substack.com](https://publicpolicy.substack.com).
       Curated by [Pranay Kotasthane](https://pranaykotas.com).
+    center: |
+      A [Takshashila Institution](https://takshashila.org.in) initiative.
     right: |
       Built with [Quarto](https://quarto.org).
 
@@ -63,3 +65,8 @@ format:
     anchor-sections: true
     smooth-scroll: true
     code-copy: false
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Roboto+Mono:wght@400&display=swap" rel="stylesheet">
