@@ -89,3 +89,32 @@ def test_split_sections_drops_short_sections():
 
 def test_split_sections_no_headers_returns_empty():
     assert split_sections("Just a plain newsletter intro with no section headers at all.") == []
+
+
+def test_split_sections_lights_camera_header():
+    body = (
+        "Lights, Camera, (Policy Precedes) Action: Rent Control\n\n"
+        "This section discusses rent control through cinema, exploring how "
+        "Bollywood has depicted the consequences of housing regulation in "
+        "various films over the decades, padded to clear the length filter.\n\n"
+        "—Pranay Kotasthane\n"
+    )
+    sections = split_sections(body)
+    assert len(sections) == 1
+    assert "Lights, Camera" in sections[0]["header"]
+    assert sections[0]["title"] == "Rent Control"
+    assert sections[0]["author"] == "Pranay"
+
+
+def test_split_sections_framework_a_week_header():
+    body = (
+        "A Framework a Week: Overton Window\n\n"
+        "The Overton Window describes the range of policies politically "
+        "acceptable at a given time, padded out with more explanation "
+        "to clear the minimum section length filter requirement.\n\n"
+        "—Pranay Kotasthane\n"
+    )
+    sections = split_sections(body)
+    assert len(sections) == 1
+    assert sections[0]["header"] == "A Framework a Week"
+    assert sections[0]["title"] == "Overton Window"
