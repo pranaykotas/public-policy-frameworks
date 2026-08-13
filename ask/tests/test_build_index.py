@@ -71,3 +71,27 @@ def test_chunks_from_db_drops_guest_sections(sample_db):
     chunks = chunks_from_db(sample_db)
     headers = [c["header"] for c in chunks]
     assert "PolicyWTF" not in headers
+
+
+import json
+
+import numpy as np
+
+from ask.build_index import build_and_save
+
+
+def test_build_and_save_writes_chunks_and_vectors(sample_db, tmp_path, monkeypatch):
+    def fake_embed_texts(texts):
+        return np.ones((len(texts), 4), dtype=np.float32)
+
+    monkeypatch.setattr("ask.build_index.embed_texts", fake_embed_texts)
+
+    chunks_out = tmp_path / "chunks.json"
+    vectors_out = tmp_path / "vectors.npy"
+    count = build_and_save(sample_db, str(chunks_out), str(vectors_out))
+
+    assert count == 1
+    saved_chunks = json.loads(chunks_out.read_text())
+    assert len(saved_chunks) == 1
+    saved_vectors = np.load(vectors_out)
+    assert saved_vectors.shape == (1, 4)

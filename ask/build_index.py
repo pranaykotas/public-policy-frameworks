@@ -1,9 +1,13 @@
 from __future__ import annotations
 
 import hashlib
+import json
 import sqlite3
 
+import numpy as np
+
 from ask.attribution import split_sections
+from ask.embed import embed_texts
 
 
 def chunks_from_db(db_path: str) -> list[dict]:
@@ -34,3 +38,16 @@ def chunks_from_db(db_path: str) -> list[dict]:
                 }
             )
     return chunks
+
+
+def build_and_save(db_path: str, chunks_out_path: str, vectors_out_path: str) -> int:
+    """Build chunks from the database, embed them, and write both artifacts to disk."""
+    chunks = chunks_from_db(db_path)
+    texts = [c["text"] for c in chunks]
+    vectors = embed_texts(texts)
+
+    with open(chunks_out_path, "w") as f:
+        json.dump(chunks, f)
+    np.save(vectors_out_path, vectors)
+
+    return len(chunks)
