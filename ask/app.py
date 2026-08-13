@@ -16,7 +16,7 @@ CHUNKS_PATH = os.environ.get("ASK_CHUNKS_PATH", "ask/data/chunks.json")
 VECTORS_PATH = os.environ.get("ASK_VECTORS_PATH", "ask/data/vectors.npy")
 MAX_REQUESTS_PER_HOUR = int(os.environ.get("ASK_RATE_LIMIT", "30"))
 CACHE_TTL_SECONDS = int(os.environ.get("ASK_CACHE_TTL", "86400"))
-MIN_SIMILARITY = float(os.environ.get("ASK_MIN_SIMILARITY", "0.25"))
+MIN_SIMILARITY = float(os.environ.get("ASK_MIN_SIMILARITY", "0.20"))
 TOP_K = int(os.environ.get("ASK_TOP_K", "10"))
 ALLOWED_ORIGINS = os.environ.get(
     "ASK_ALLOWED_ORIGINS",
