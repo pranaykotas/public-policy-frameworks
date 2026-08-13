@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: ask-our-views-api
+    env: python
+    buildCommand: pip install -r ask/requirements.txt
+    startCommand: uvicorn ask.app:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: LLM_API_KEY
+        sync: false
+      - key: LLM_API_BASE_URL
+        value: https://api.groq.com/openai/v1
+      - key: LLM_MODEL
+        value: llama-3.3-70b-versatile
