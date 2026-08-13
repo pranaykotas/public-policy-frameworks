@@ -1,30 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/public-policy/wicked-problems.html",
-      "/public-policy/ooo.html",
-      "/political-thinking/overton-window.html"
-    ]
-  },
-  {
-    "listing": "/universe/index.html",
-    "items": [
-      "/universe/building-models.html",
-      "/universe/hal-varians-tips-on-building-an-economic-model.html",
-      "/universe/how-social-media-expands-reference-networks.html",
-      "/universe/how-to-build-a-good-2x2-matrix.html",
-      "/universe/inter-state-water-sharing.html",
-      "/universe/moralising-is-central-to-storytelling.html",
-      "/universe/prohibition-and-morality.html",
-      "/universe/social-medias-rule-of-three.html",
-      "/universe/the-impossible-trinity-of-indian-cities.html",
-      "/universe/three-binding-constraints-tech-progress.html",
-      "/universe/what-s-easy-what-s-not.html",
-      "/universe/xis-trilemma.html"
-    ]
-  },
-  {
     "listing": "/public-finance/index.html",
     "items": [
       "/public-finance/a-taxing-month-ahead.html",
@@ -34,38 +9,6 @@
       "/public-finance/domar-rule.html",
       "/public-finance/three-functions-of-the-state.html",
       "/public-finance/wicksellian-disconnection.html"
-    ]
-  },
-  {
-    "listing": "/public-policy/index.html",
-    "items": [
-      "/public-policy/a-covid-19-vaccine-deployment-strategy-for-india.html",
-      "/public-policy/all-things-governments-do.html",
-      "/public-policy/anticipating-unintended-policy-consequences.html",
-      "/public-policy/complexity-and-public-policy.html",
-      "/public-policy/eight-things-to-unlearn-before-learning-public-policy.html",
-      "/public-policy/errors-of-omission-and-commission.html",
-      "/public-policy/four-components-of-an-economic-strategy.html",
-      "/public-policy/good-policy-problem-definition.html",
-      "/public-policy/hyper-multi-objective-optimisation.html",
-      "/public-policy/indias-three-dimensions-of-decentralisation.html",
-      "/public-policy/nine-competing-visions-of-equality.html",
-      "/public-policy/no-more-cop-outs.html",
-      "/public-policy/one-instrument-one-target.html",
-      "/public-policy/opportunity-cost-neglect.html",
-      "/public-policy/ooo.html",
-      "/public-policy/policies-vs-programmes-vs-practices.html",
-      "/public-policy/prisoners-dilemma-in-policy-engineering.html",
-      "/public-policy/public-policy-solutionism.html",
-      "/public-policy/public-sector-reform.html",
-      "/public-policy/seven-stages-policy-pipeline.html",
-      "/public-policy/sunset-clauses.html",
-      "/public-policy/taxonomy-of-policy-failures-and-successes.html",
-      "/public-policy/two-is-better-than-one.html",
-      "/public-policy/understanding-corruption.html",
-      "/public-policy/what-makes-a-policy-chance-stick.html",
-      "/public-policy/when-conditions-become-policy-problems.html",
-      "/public-policy/wicked-problems.html"
     ]
   },
   {
@@ -96,6 +39,14 @@
       "/foreign-policy-defence-geopolitics/what-global-order-are-we-in.html",
       "/foreign-policy-defence-geopolitics/what-made-the-us-enable-chinas-rise.html",
       "/foreign-policy-defence-geopolitics/what-makes-an-asset-strategic.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/public-policy/wicked-problems.html",
+      "/public-policy/ooo.html",
+      "/political-thinking/overton-window.html"
     ]
   },
   {
@@ -139,6 +90,55 @@
       "/society/why-large-whatsapp-groups-are-so-ineffective.html",
       "/society/why-people-rebel.html",
       "/society/why-we-do-stupid-things-in-groups.html"
+    ]
+  },
+  {
+    "listing": "/universe/index.html",
+    "items": [
+      "/universe/building-models.html",
+      "/universe/hal-varians-tips-on-building-an-economic-model.html",
+      "/universe/how-social-media-expands-reference-networks.html",
+      "/universe/how-to-build-a-good-2x2-matrix.html",
+      "/universe/inter-state-water-sharing.html",
+      "/universe/moralising-is-central-to-storytelling.html",
+      "/universe/prohibition-and-morality.html",
+      "/universe/social-medias-rule-of-three.html",
+      "/universe/the-impossible-trinity-of-indian-cities.html",
+      "/universe/three-binding-constraints-tech-progress.html",
+      "/universe/what-s-easy-what-s-not.html",
+      "/universe/xis-trilemma.html"
+    ]
+  },
+  {
+    "listing": "/public-policy/index.html",
+    "items": [
+      "/public-policy/a-covid-19-vaccine-deployment-strategy-for-india.html",
+      "/public-policy/all-things-governments-do.html",
+      "/public-policy/anticipating-unintended-policy-consequences.html",
+      "/public-policy/complexity-and-public-policy.html",
+      "/public-policy/eight-things-to-unlearn-before-learning-public-policy.html",
+      "/public-policy/errors-of-omission-and-commission.html",
+      "/public-policy/four-components-of-an-economic-strategy.html",
+      "/public-policy/good-policy-problem-definition.html",
+      "/public-policy/hyper-multi-objective-optimisation.html",
+      "/public-policy/indias-three-dimensions-of-decentralisation.html",
+      "/public-policy/nine-competing-visions-of-equality.html",
+      "/public-policy/no-more-cop-outs.html",
+      "/public-policy/one-instrument-one-target.html",
+      "/public-policy/opportunity-cost-neglect.html",
+      "/public-policy/ooo.html",
+      "/public-policy/policies-vs-programmes-vs-practices.html",
+      "/public-policy/prisoners-dilemma-in-policy-engineering.html",
+      "/public-policy/public-policy-solutionism.html",
+      "/public-policy/public-sector-reform.html",
+      "/public-policy/seven-stages-policy-pipeline.html",
+      "/public-policy/sunset-clauses.html",
+      "/public-policy/taxonomy-of-policy-failures-and-successes.html",
+      "/public-policy/two-is-better-than-one.html",
+      "/public-policy/understanding-corruption.html",
+      "/public-policy/what-makes-a-policy-chance-stick.html",
+      "/public-policy/when-conditions-become-policy-problems.html",
+      "/public-policy/wicked-problems.html"
     ]
   }
 ]
