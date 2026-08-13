@@ -1,0 +1,22 @@
+---
+title: "Ask Our Views"
+summary: "Ask a policy question and see what Pranay and RSJ have written about it."
+page-layout: custom
+---
+
+::: {.finder-page}
+
+# Ask Our Views
+
+Ask a public policy question in plain language — e.g. "how should I think about rent control?" or "what's the case for congestion pricing?" — and see the actual excerpts Pranay and RSJ have written on it over five years of *Anticipating the Unintended*, grouped by author. When they've disagreed, you'll see both views.
+
+::: {.finder-input-row}
+<input type="text" id="ask-input" class="finder-input" placeholder="e.g. how should I think about rent control?" />
+<button id="ask-btn" class="finder-btn">Ask</button>
+:::
+
+<div id="ask-results" class="finder-results-area"></div>
+
+:::
+
+<script src="scripts/ask.js"></script>
