@@ -5,34 +5,38 @@ SAMPLE_BODY = """Some intro text nobody signed, not a real section.
 
 India Policy Watch: Regulating Medical Devices
 
+Insights on current policy issues in India
+
+—RSJ
+
 This is the body of the first section. It needs to be long enough to
 clear the minimum length filter, so here is some more filler text
 about medical device regulation and unintended consequences that a
 policy newsletter section would plausibly contain.
 
-—RSJ
-
 Global Policy Watch: A Second Section
+
+Global policy issues relevant to India
+
+—Pranay Kotasthane
 
 This is the body of the second section, also padded out to be long
 enough to survive the minimum length filter used by split_sections,
 discussing a completely different global policy topic in some detail.
 
-—Pranay Kotasthane
-
 Matsyanyaaya: A Joint Section
 
-This section has no trailing signature line at all, so it should be
+This section has no signature line at all, so it should be
 attributed to both authors jointly rather than to either one alone,
 and it also needs to be padded to clear the length filter.
 
 PolicyWTF: A Guest Section
 
+—Guest Post by Ameya Naik
+
 This section was written by someone outside the two hosts, so even
 though it's long enough to pass the length filter, it should be
 dropped entirely because the signature doesn't match either alias set.
-
-—Guest Post by Ameya Naik
 """
 
 
@@ -79,7 +83,6 @@ def test_split_sections_captures_title_and_text():
     first = sections[0]
     assert first["title"] == "Regulating Medical Devices"
     assert "medical device regulation" in first["text"]
-    assert first["text"].strip().endswith("—RSJ")
 
 
 def test_split_sections_drops_short_sections():
@@ -94,10 +97,11 @@ def test_split_sections_no_headers_returns_empty():
 def test_split_sections_lights_camera_header():
     body = (
         "Lights, Camera, (Policy Precedes) Action: Rent Control\n\n"
+        "Public Policy via Bollywood\n\n"
+        "—Pranay Kotasthane\n\n"
         "This section discusses rent control through cinema, exploring how "
         "Bollywood has depicted the consequences of housing regulation in "
-        "various films over the decades, padded to clear the length filter.\n\n"
-        "—Pranay Kotasthane\n"
+        "various films over the decades, padded to clear the length filter.\n"
     )
     sections = split_sections(body)
     assert len(sections) == 1
@@ -109,10 +113,11 @@ def test_split_sections_lights_camera_header():
 def test_split_sections_framework_a_week_header():
     body = (
         "A Framework a Week: Overton Window\n\n"
+        "Tools for thinking about public policy\n\n"
+        "—Pranay Kotasthane\n\n"
         "The Overton Window describes the range of policies politically "
         "acceptable at a given time, padded out with more explanation "
-        "to clear the minimum section length filter requirement.\n\n"
-        "—Pranay Kotasthane\n"
+        "to clear the minimum section length filter requirement.\n"
     )
     sections = split_sections(body)
     assert len(sections) == 1

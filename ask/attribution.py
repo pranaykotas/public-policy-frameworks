@@ -2,15 +2,44 @@ from __future__ import annotations
 
 import re
 
-SECTION_HEADER_PATTERN = re.compile(
-    r"^([A-Z][A-Za-z ,()#\-']+?):\s+([A-Z][^\n]{3,80})", re.MULTILINE
+KNOWN_HEADERS = (
+    "India Policy Watch",
+    "Global Policy Watch",
+    "World Policy Watch",
+    "World Politics Watch",
+    "Matsyanyaaya",
+    "PolicyWTF",
+    "PolicyWTFs",
+    "PolicWTF",
+    "Not(PolicyWTF)",
+    "Not a PolicyWTF",
+    "Global PolicyWTF",
+    "PolicyWTF (revisited)",
+    "PolicyFTW",
+    "A Framework a Week",
+    "A Framework A Week",
+    "Lights, Camera, (Policy Precedes) Action",
+    "Another Perspective",
+    "A Counter-view",
+    "Book Review",
+    "Numbers that Ought to Matter",
+    "A Sixth Of Humanity",
+    "Prof AISH",
+    "Quiz",
+    "Homework",
+    "Course reminder",
+    "Money Quote",
+    "Flashback",
+    "Bonus",
+    "AIforPublicPolicy",
+    "Poetry In Public Policy",
+    "Announcement",
 )
 
-NOISE_HEADERS = frozenset({
-    "leave a comment", "share", "subscribe now", "source", "outcome",
-    "result", "course advertisement", "programming note", "translation",
-    "data source", "ps", "pps", "share anticipating the unintended",
-})
+_header_alts = "|".join(re.escape(h) for h in sorted(KNOWN_HEADERS, key=len, reverse=True))
+SECTION_HEADER_PATTERN = re.compile(
+    rf"^({_header_alts})(?:\s*#\d+)?:\s+([A-Z][^\n]{{3,80}})", re.MULTILINE
+)
 
 SIGNATURE_PATTERN = re.compile(r"^[—-]\s*([A-Z][A-Za-z .]{2,60})\s*$", re.MULTILINE)
 
@@ -42,11 +71,10 @@ def split_sections(body_text: str) -> list[dict]:
     someone other than Pranay or RSJ are dropped, as are sections under the
     minimum length.
     """
-    all_matches = list(SECTION_HEADER_PATTERN.finditer(body_text))
-    matches = [m for m in all_matches if m.group(1).strip().lower() not in NOISE_HEADERS]
+    matches = list(SECTION_HEADER_PATTERN.finditer(body_text))
     sections = []
     for i, m in enumerate(matches):
-        header_name = re.sub(r"\s*#\d+", "", m.group(1)).strip()
+        header_name = m.group(1).strip()
         title = m.group(2).strip()
         start = m.end()
         end = matches[i + 1].start() if i + 1 < len(matches) else len(body_text)
@@ -55,8 +83,10 @@ def split_sections(body_text: str) -> list[dict]:
         if len(section_text) < MIN_SECTION_LENGTH:
             continue
 
-        sig_matches = SIGNATURE_PATTERN.findall(section_text)
-        author = classify_signature(sig_matches[-1]) if sig_matches else "Joint"
+        # Signature appears at top of section, within first 300 chars
+        top_text = section_text[:300]
+        sig_match = SIGNATURE_PATTERN.search(top_text)
+        author = classify_signature(sig_match.group(1)) if sig_match else "Joint"
         if author is None:
             continue
 

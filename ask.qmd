@@ -2,6 +2,7 @@
 title: "Ask Our Views"
 summary: "Ask a policy question and see what Pranay and RSJ have written about it."
 page-layout: custom
+toc: false
 ---
 
 ::: {.finder-page}

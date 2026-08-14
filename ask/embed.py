@@ -16,29 +16,36 @@ MAX_RETRIES = 5
 
 
 def _embed_batch(texts: list[str]) -> np.ndarray:
+    last_err = None
     for attempt in range(MAX_RETRIES):
-        resp = requests.post(
-            JINA_API_URL,
-            headers={
-                "Authorization": f"Bearer {JINA_API_KEY}",
-                "Content-Type": "application/json",
-            },
-            json={
-                "model": JINA_MODEL,
-                "input": texts,
-                "dimensions": EMBED_DIM,
-                "normalized": True,
-            },
-            timeout=60,
-        )
+        try:
+            resp = requests.post(
+                JINA_API_URL,
+                headers={
+                    "Authorization": f"Bearer {JINA_API_KEY}",
+                    "Content-Type": "application/json",
+                },
+                json={
+                    "model": JINA_MODEL,
+                    "input": texts,
+                    "dimensions": EMBED_DIM,
+                    "normalized": True,
+                },
+                timeout=60,
+            )
+        except (requests.ConnectionError, requests.Timeout) as e:
+            last_err = e
+            time.sleep(min(10 * (attempt + 1), 60))
+            continue
         if resp.status_code == 429:
-            wait = min(10 * (attempt + 1), 60)
-            time.sleep(wait)
+            time.sleep(min(10 * (attempt + 1), 60))
             continue
         resp.raise_for_status()
         data = resp.json()["data"]
         data.sort(key=lambda d: d["index"])
         return np.array([d["embedding"] for d in data], dtype=np.float32)
+    if last_err:
+        raise last_err
     resp.raise_for_status()
     return np.zeros((0, EMBED_DIM), dtype=np.float32)
 
