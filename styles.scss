@@ -337,6 +337,15 @@ blockquote {
   line-height: 1.5;
 }
 
+.ask-callout {
+  background: $wine-soft;
+  border-left: 4px solid $wine;
+  padding: 1rem 1.25rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+
 /* ── Ask Our Views ─────────────────────────────────────── */
 
 .ask-group {
