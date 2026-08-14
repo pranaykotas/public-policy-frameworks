@@ -1,22 +1,57 @@
 from __future__ import annotations
 
-from functools import lru_cache
+import os
+import time
 
 import numpy as np
-from sentence_transformers import SentenceTransformer
+import requests
 
-MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+JINA_API_URL = os.environ.get("JINA_API_URL", "https://api.jina.ai/v1/embeddings")
+JINA_API_KEY = os.environ.get("JINA_API_KEY", "")
+JINA_MODEL = os.environ.get("JINA_MODEL", "jina-embeddings-v3")
+EMBED_DIM = int(os.environ.get("JINA_EMBED_DIM", "384"))
+BATCH_SIZE = 20
+BATCH_DELAY = 5
+MAX_RETRIES = 5
 
 
-@lru_cache(maxsize=1)
-def get_model() -> SentenceTransformer:
-    return SentenceTransformer(MODEL_NAME)
+def _embed_batch(texts: list[str]) -> np.ndarray:
+    for attempt in range(MAX_RETRIES):
+        resp = requests.post(
+            JINA_API_URL,
+            headers={
+                "Authorization": f"Bearer {JINA_API_KEY}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": JINA_MODEL,
+                "input": texts,
+                "dimensions": EMBED_DIM,
+                "normalized": True,
+            },
+            timeout=60,
+        )
+        if resp.status_code == 429:
+            wait = min(10 * (attempt + 1), 60)
+            time.sleep(wait)
+            continue
+        resp.raise_for_status()
+        data = resp.json()["data"]
+        data.sort(key=lambda d: d["index"])
+        return np.array([d["embedding"] for d in data], dtype=np.float32)
+    resp.raise_for_status()
+    return np.zeros((0, EMBED_DIM), dtype=np.float32)
 
 
 def embed_texts(texts: list[str]) -> np.ndarray:
-    """Embed a list of strings into L2-normalized vectors, one row per text."""
+    """Embed a list of strings into L2-normalized vectors via Jina API."""
     if not texts:
-        return np.zeros((0, 384), dtype=np.float32)
-    model = get_model()
-    vectors = model.encode(texts, normalize_embeddings=True, show_progress_bar=False)
-    return np.asarray(vectors, dtype=np.float32)
+        return np.zeros((0, EMBED_DIM), dtype=np.float32)
+    if len(texts) <= BATCH_SIZE:
+        return _embed_batch(texts)
+    parts = []
+    for i in range(0, len(texts), BATCH_SIZE):
+        if i > 0:
+            time.sleep(BATCH_DELAY)
+        parts.append(_embed_batch(texts[i : i + BATCH_SIZE]))
+    return np.vstack(parts)
