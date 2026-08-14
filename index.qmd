@@ -50,6 +50,10 @@ Describe the policy problem you're thinking about and get the most relevant fram
 
 <script src="scripts/finder.js"></script>
 
+::: {.ask-callout}
+**New: [Ask Our Views](ask.qmd)** --- Ask a policy question and see what Pranay and RSJ have actually written about it across 300+ editions of *Anticipating the Unintended*, grouped by author.
+:::
+
 ## Start here
 
 Three frameworks that show the range of what's on this site — analysis, evaluation, politics.
