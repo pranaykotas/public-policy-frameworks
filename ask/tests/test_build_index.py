@@ -60,6 +60,11 @@ def test_chunks_from_db_extracts_signed_section(sample_db):
     assert "Rent control" in chunk["text"]
 
 
+def test_chunks_from_db_has_embed_text_with_header(sample_db):
+    chunks = chunks_from_db(sample_db)
+    assert chunks[0]["embed_text"].startswith("India Policy Watch: Rent Control Revisited")
+
+
 def test_chunks_from_db_has_stable_unique_ids(sample_db):
     chunks_a = chunks_from_db(sample_db)
     chunks_b = chunks_from_db(sample_db)
@@ -73,11 +78,28 @@ def test_chunks_from_db_drops_guest_sections(sample_db):
     assert "PolicyWTF" not in headers
 
 
+from ask.build_index import _sub_chunk
+
 import json
 
 import numpy as np
 
 from ask.build_index import build_and_save
+
+
+def test_sub_chunk_short_text_unchanged():
+    text = "This is a short paragraph with only a few words."
+    assert _sub_chunk(text) == [text]
+
+
+def test_sub_chunk_splits_long_text():
+    # 500-word text should split into 2 chunks
+    words = [f"word{i}" for i in range(500)]
+    text = " ".join(words[:250]) + "\n\n" + " ".join(words[250:])
+    chunks = _sub_chunk(text)
+    assert len(chunks) >= 2
+    for chunk in chunks:
+        assert len(chunk.split()) <= 450  # MAX_CHUNK_WORDS + overlap
 
 
 def test_build_and_save_writes_chunks_and_vectors(sample_db, tmp_path, monkeypatch):
