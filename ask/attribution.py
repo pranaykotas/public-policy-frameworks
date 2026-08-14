@@ -27,6 +27,7 @@ KNOWN_HEADERS = (
     "Prof AISH",
     "Quiz",
     "Homework",
+    "HomeWork",
     "Course reminder",
     "Money Quote",
     "Flashback",
@@ -36,9 +37,23 @@ KNOWN_HEADERS = (
     "Announcement",
 )
 
+BOUNDARY_HEADERS = (
+    "HomeWork",
+    "Homework",
+    "Leave a comment",
+    "Share Anticipating the Unintended",
+    "Share",
+    "Subscribe now",
+)
+
 _header_alts = "|".join(re.escape(h) for h in sorted(KNOWN_HEADERS, key=len, reverse=True))
 SECTION_HEADER_PATTERN = re.compile(
     rf"^({_header_alts})(?:\s*#\d+)?:\s+([A-Z][^\n]{{3,80}})", re.MULTILINE
+)
+
+_boundary_alts = "|".join(re.escape(h) for h in sorted(BOUNDARY_HEADERS, key=len, reverse=True))
+BOUNDARY_PATTERN = re.compile(
+    rf"^({_boundary_alts})\s*$", re.MULTILINE
 )
 
 SIGNATURE_PATTERN = re.compile(r"^[—-]\s*([A-Z][A-Za-z .]{2,60})\s*$", re.MULTILINE)
@@ -72,12 +87,19 @@ def split_sections(body_text: str) -> list[dict]:
     minimum length.
     """
     matches = list(SECTION_HEADER_PATTERN.finditer(body_text))
+    boundaries = list(BOUNDARY_PATTERN.finditer(body_text))
+    all_breaks = [(m.start(), "header", m) for m in matches] + \
+                 [(b.start(), "boundary", b) for b in boundaries]
+    all_breaks.sort(key=lambda x: x[0])
+
     sections = []
     for i, m in enumerate(matches):
         header_name = m.group(1).strip()
         title = m.group(2).strip()
         start = m.end()
-        end = matches[i + 1].start() if i + 1 < len(matches) else len(body_text)
+        # End at next header OR next boundary, whichever comes first
+        next_breaks = [pos for pos, _, _ in all_breaks if pos > m.start()]
+        end = next_breaks[0] if next_breaks else len(body_text)
         section_text = body_text[start:end].strip()
 
         if len(section_text) < MIN_SECTION_LENGTH:
