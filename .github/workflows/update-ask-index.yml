@@ -1,0 +1,49 @@
+name: Update Ask Our Views Index
+
+on:
+  schedule:
+    - cron: "0 6 * * 2"  # Every Tuesday at 6 AM UTC (11:30 AM IST)
+  workflow_dispatch:
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests numpy
+
+      - name: Sync posts from Substack
+        run: python scripts/sync-substack-db.py --full
+
+      - name: Rebuild ask index
+        env:
+          JINA_API_KEY: ${{ secrets.JINA_API_KEY }}
+        run: |
+          PYTHONPATH=. python scripts/build_ask_index.py \
+            --db ~/.claude/data/substack-atu.db \
+            --chunks-out ask/data/chunks.json \
+            --vectors-out ask/data/vectors.npy
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet ask/data/ && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ask/data/chunks.json ask/data/vectors.npy
+          git commit -m "chore(ask): auto-update index $(date +%Y-%m-%d)"
+          git push
