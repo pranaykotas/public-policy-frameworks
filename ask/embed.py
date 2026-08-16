@@ -3,7 +3,7 @@ from __future__ import annotations
 import numpy as np
 
 EMBED_DIM = 384
-MODEL_NAME = "all-MiniLM-L6-v2"
+MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 BATCH_SIZE = 64
 
 _model = None
@@ -12,20 +12,15 @@ _model = None
 def _get_model():
     global _model
     if _model is None:
-        from sentence_transformers import SentenceTransformer
+        from fastembed import TextEmbedding
 
-        _model = SentenceTransformer(MODEL_NAME, backend="onnx")
+        _model = TextEmbedding(MODEL_NAME)
     return _model
 
 
 def embed_texts(texts: list[str]) -> np.ndarray:
-    """Embed a list of strings into L2-normalized vectors via a local model."""
+    """Embed a list of strings into L2-normalized vectors via a local ONNX model."""
     if not texts:
         return np.zeros((0, EMBED_DIM), dtype=np.float32)
     model = _get_model()
-    return model.encode(
-        texts,
-        batch_size=BATCH_SIZE,
-        normalize_embeddings=True,
-        show_progress_bar=len(texts) > BATCH_SIZE,
-    ).astype(np.float32)
+    return np.array(list(model.embed(texts, batch_size=BATCH_SIZE)), dtype=np.float32)
