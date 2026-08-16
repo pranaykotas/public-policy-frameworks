@@ -1,0 +1,71 @@
+---
+title: "India's Stake in the US-China GPU Fight"
+summary: "India is a consumer-integrator in a five-layer AI stack. It benefits from Chinese open-source models but not Chinese hardware — a distinction the current American debate collapses."
+categories: ["Foreign Policy & Geopolitics"]
+date: 2026-05-03
+image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+tags:
+  - technology-geopolitics
+  - india
+  - artificial-intelligence
+  - semiconductors
+  - strategy
+use_cases:
+  - "When the US-China chip export control debate is framed as binary — restrict or permit — and India's distinct interests as a consumer-integrator are invisible"
+  - "When Indian companies use DeepSeek and Qwen models and the question is whether this creates a security vulnerability or a strategic advantage"
+  - "When distinguishing Chinese hardware risks (firmware in critical infrastructure) from Chinese model risks (open-source weights that can be fine-tuned and inspected)"
+  - "When arguing for model pluralism — American proprietary, Chinese open-source, and sovereign Indian models for different use cases"
+  - "When India's GPU access depends on US policy that has reversed four times in three years on a single chip (the H20)"
+---
+
+::: {.card-meta}
+[Foreign Policy, Defence & Geopolitics]{.badge} [technology-geopolitics]{.badge} [semiconductors]{.badge}
+:::
+
+> India does not want China to dominate all five layers of AI infrastructure. But India also does not benefit from a world in which access to advanced chips is contingent on the policy preferences of a US administration that reversed its own H20 policy four times in three years.
+
+## Origin
+
+Developed by Pranay Kotasthane in *Anticipating the Unintended* #342 (May 2026), drawing on Jensen Huang's five-layer AI stack framework and the Nvidia-China export control debate. Accompanied by a [Takshashila discussion document](https://takshashila.org.in/content/publications/20260429-Nvidia-and-China-India.html).
+
+## What it says
+
+Jensen Huang describes AI as a five-layer stack: energy, chips, infrastructure, models, and applications. American export controls sacrificed the chips layer to protect the models layer, but China adapted across the other four layers — abundant energy, algorithmic innovation, and a large engineering workforce. The controls bought two to three years on manufacturing but no meaningful time on AI capability.
+
+India's position in this stack is distinct from both the US and China:
+
+- **Applications layer**: strong ingredients. IT services sector could become the global delivery platform for enterprise AI.
+- **Chip design layer**: every major fabless company runs large Global Capability Centres in India.
+- **Below those layers**: dependent. Data centre capacity an order of magnitude smaller than the US or China. Energy constraints limit brute-force compute scaling. India imports advanced chips and will continue importing frontier models.
+
+This *consumer-integrator* position creates a strategic calculus that neither the Jensen Huang position (sell to everyone) nor the Dario Amodei position (restrict everything) represents:
+
+- **Want**: Chinese AI labs to keep releasing open-source models — they are inputs, not threats.
+- **Want**: a competitive global model ecosystem that reduces any single country's leverage over India's AI access.
+- **Do not want**: Huawei hardware in sensitive Indian infrastructure — firmware risks are genuine.
+- **Do not want**: chip access contingent on a single administration's shifting preferences.
+
+Open-source models are separable from Chinese hardware. Indian firms can optimise Qwen's weights without deploying Huawei Ascend chips.
+
+## Applied
+
+Three tasks for India:
+
+1. **Articulate a position through Pax Silica** — the US-led technology initiative India joined in early 2026 — rather than deferring to Washington's framing.
+2. **Fund GPU-agnostic middleware** — public investment in open alternatives to reduce CUDA lock-in, as a priority for the India AI Mission.
+3. **Maintain model pluralism** — use American proprietary models where best, Chinese open-source models where useful, and sovereign models like Sarvam for applications where dependency is unacceptable.
+
+## When it falls short
+
+The framework assumes the hardware-model distinction remains clean. If future AI models require tight hardware-software co-optimisation (custom silicon for specific architectures), the separability argument weakens. The framework also does not account for the possibility that China might restrict its own open-source models — a scenario analysed separately.
+
+## Related frameworks
+
+- [[When Will China Block Its Open-Weight Models]](../foreign-policy-defence-geopolitics/when-will-china-block-its-open-weight-models.qmd) — when and why China might restrict the open-source models India currently benefits from.
+- [[India's Leverage Assessment Framework]](../foreign-policy-defence-geopolitics/indias-leverage-assessment-framework.qmd) — how India can deploy leverage in technology negotiations.
+- [[Instruments of Technology Geopolitics]](../foreign-policy-defence-geopolitics/instruments-of-technology-geopolitics.qmd) — the full toolkit of technology statecraft.
+- [[Decoupling Dynamics]](../foreign-policy-defence-geopolitics/decoupling-dynamics.qmd) — the broader US-China technology confrontation.
+
+::: {.attribution}
+Originally explored in [*Anticipating the Unintended* #342](https://publicpolicy.substack.com/i/196210126/matsyanyaaya-india-has-a-stake-in-the-us-china-fight-on-advanced-gpus) on *Anticipating the Unintended*.
+:::

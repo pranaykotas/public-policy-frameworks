@@ -1,0 +1,66 @@
+---
+title: "When Will China Block Its Open-Weight Models"
+summary: "China exports open-weight AI models for five strategic reasons, and will restrict them only after three thresholds — domestic consolidation, ecosystem lock-in, and commoditisation saturation — are crossed."
+categories: ["Foreign Policy & Geopolitics"]
+date: 2026-08-09
+image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+tags:
+  - technology-geopolitics
+  - china
+  - artificial-intelligence
+  - strategy
+use_cases:
+  - "When assessing whether India's reliance on Chinese open-weight models like DeepSeek and Qwen is a vulnerability or a rational short-term strategy"
+  - "When Chinese open-weight models are cheaper and competitive — asking why China permits this and how long the window stays open"
+  - "When evaluating lock-in risks from building on Chinese cloud infrastructure that bundles free model access"
+  - "When designing India's AI strategy to exploit the current open window while preparing for graduated restrictions around late 2028"
+  - "When explaining how free models serve China's infrastructure play — driving demand for energy, compute, and hardware sectors China dominates"
+---
+
+::: {.card-meta}
+[Foreign Policy, Defence & Geopolitics]{.badge} [technology-geopolitics]{.badge} [AI]{.badge}
+:::
+
+> The playable strategy is now public. The genie is out of the bottle — this approach cannot be reversed through policy changes alone.
+
+## Origin
+
+Developed by Pranay Kotasthane and Anupam Manur in *Anticipating the Unintended* #356 (August 2026), analysing why China permits open-weight AI model exports and when restrictions might emerge.
+
+## What it says
+
+China exports open-weight AI models for five reasons:
+
+1. **Lower costs** — Chinese firms spend dramatically less on training. DeepSeek's R1 cost only $294,000 through distillation and mixture-of-experts architecture.
+2. **Geopolitical prestige** — open-weight models demonstrate frontier AI competitiveness, raising China's international influence.
+3. **Undermining competitor business models** — commoditising rivals' core products compresses American labs' pricing power.
+4. **Capital absorption capacity** — state-led investment mechanisms and financial repression provide artificially cheap capital; over $150 billion invested in semiconductors alone since 2014.
+5. **Infrastructure play** — free models drive global AI adoption, creating demand for energy, compute, and hardware in sectors China dominates. Alibaba's cloud revenue grew 34% year-on-year with triple-digit AI-related growth from developers using free Qwen models on paid cloud infrastructure.
+
+Three thresholds must be crossed before graduated restrictions emerge:
+
+1. **Domestic consolidation** — the "Hundred Model War" must consolidate to an oligopoly of 5–8 full-stack giants. Underway.
+2. **Ecosystem lock-in** — global developers must be deeply integrated with Chinese cloud infrastructure, creating high switching costs. Requires 12–18 additional months.
+3. **Commoditisation saturation** — further open releases must provide minimal strategic value, with non-Chinese labs independently sustaining commoditisation. Not yet reached.
+
+**Timeline**: graduated restrictions most likely beginning late 2028 — delayed releases, capability-based licensing, channel-conditioned releases, and tiered access tied to diplomatic alignment.
+
+## Applied
+
+- When Indian companies adopt Chinese LLMs to reduce costs — the strategic imperative is to avoid lock-in to any single source while building domestic capacity in applications, industrial data, and domain-specific fine-tuning.
+- When designing an AI strategy that exploits the current open window while preparing for its closure.
+- When distinguishing between Chinese hardware risks (genuine security concern) and Chinese model risks (manageable through fine-tuning and inspection).
+
+## When it falls short
+
+The three-threshold model assumes rational state behaviour; a geopolitical crisis or domestic political shift could accelerate restrictions before the thresholds are met. The framework also assumes China's open-weight models remain competitive — a rapid American breakthrough could change the calculus.
+
+## Related frameworks
+
+- [[India's Stake in the US-China GPU Fight]](../foreign-policy-defence-geopolitics/indias-stake-in-the-us-china-gpu-fight.qmd) — India's position as consumer-integrator in the five-layer AI stack.
+- [[Instruments of Technology Geopolitics]](../foreign-policy-defence-geopolitics/instruments-of-technology-geopolitics.qmd) — the broader toolkit states use for technology statecraft.
+- [[Decoupling Dynamics]](../foreign-policy-defence-geopolitics/decoupling-dynamics.qmd) — the mechanics of US-China technology confrontation.
+
+::: {.attribution}
+Originally explored in [*Anticipating the Unintended* #356](https://publicpolicy.substack.com/i/210359246/matsyanyaaya-when-will-china-block-its-open-weight-models) on *Anticipating the Unintended*.
+:::

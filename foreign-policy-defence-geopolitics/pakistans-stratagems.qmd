@@ -1,0 +1,59 @@
+---
+title: "Pakistan's Stratagems"
+summary: "Pakistan operates as a rentier state distributing territorial and resource concessions to multiple benefactors simultaneously — but geopolitics has a fourth dimension: time, and tactical wins carry inherent temporal risks."
+categories: ["Foreign Policy & Geopolitics"]
+date: 2025-09-28
+image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+tags:
+  - geopolitics
+  - pakistan
+  - strategy
+  - india
+use_cases:
+  - "When Pakistan appears to have recovered from a strategic setback by skilfully distributing concessions across China, the US, and Saudi Arabia"
+  - "When analysing how a smaller state sustains itself by offering different assets to different patrons — land to China, minerals to the US, nuclear umbrella to Saudi Arabia"
+  - "When a state's tactical positioning appears advantageous but the commitments exceed its capacity to deliver"
+  - "When assessing India's strategic options by understanding the temporal fragility of Pakistan's multi-patron balancing act"
+  - "When the fourth dimension of geopolitics — time — transforms strategic assets into liabilities"
+---
+
+::: {.card-meta}
+[Foreign Policy, Defence & Geopolitics]{.badge} [pakistan]{.badge} [strategy]{.badge}
+:::
+
+> Geopolitics is not a three-dimensional game. Its fourth dimension is time. Strategic assets frequently transform into liabilities over extended periods.
+
+## Origin
+
+Developed by Pranay Kotasthane and Anupam Manur in *Anticipating the Unintended* #318 (September 2025), analysing Pakistan's post-Operation Sindoor recovery through multi-patron balancing.
+
+## What it says
+
+Pakistan positions itself as a rentier state dependent on external benefactors, distributing territorial and resource concessions strategically:
+
+- **To China**: the Shaksgam Valley, Gwadar port, and deep conventional weapons and nuclear development partnership. China remains the primary strategic partner.
+- **To the US (Trump administration)**: promises of critical minerals from Baluchistan, cryptocurrency infrastructure, and diplomatic gestures.
+- **To Saudi Arabia**: a strategic mutual defence agreement, offering nuclear capability oversight while managing Iran's concerns.
+
+Following Operation Sindoor, Pakistan's military-jihadi establishment recovered by maintaining simultaneously beneficial relationships with all three patrons. Regional instability in West Asia — Israeli threats escalating while US commitment waned — created additional opportunities for Pakistan to position itself as Saudi Arabia's security partner.
+
+The critical insight: while this multi-patron balancing appears advantageous in the short term, Pakistan currently lacks the capacity to execute many of its promised commitments. The framework warns that tactical positioning carries inherent temporal risks — what works for immediate survival may not sustain over time.
+
+## Applied
+
+- When assessing whether Pakistan's post-crisis recovery reflects genuine strategic strength or unsustainable over-commitment.
+- When India needs to understand the structural fragility beneath Pakistan's apparent diplomatic successes.
+- When analysing rentier-state strategies where a weaker state trades sovereignty concessions for patron support.
+
+## When it falls short
+
+The framework assumes Pakistan's commitments will eventually be called in. If patrons are content with symbolic gestures rather than actual delivery, the temporal fragility may never materialise. The framework also underweights Pakistan's demonstrated resilience — the military-jihadi complex has sustained this balancing act for decades.
+
+## Related frameworks
+
+- [[Flakiness in US-Pakistan Policy]](../foreign-policy-defence-geopolitics/flakiness-in-us-pakistan-policy.qmd) — the structural instability of US-Pakistan relations.
+- [[India's Leverage Assessment Framework]](../foreign-policy-defence-geopolitics/indias-leverage-assessment-framework.qmd) — how India can assess and deploy leverage against larger and smaller powers.
+
+::: {.attribution}
+Originally explored in [*Anticipating the Unintended* #318](https://publicpolicy.substack.com/i/174685310/matsyanyaaya-pakistans-strategems) on *Anticipating the Unintended*.
+:::
