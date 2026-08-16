@@ -3,7 +3,7 @@ title: "When Will China Block Its Open-Weight Models"
 summary: "China exports open-weight AI models for five strategic reasons, and will restrict them only after three thresholds — domestic consolidation, ecosystem lock-in, and commoditisation saturation — are crossed."
 categories: ["Foreign Policy & Geopolitics"]
 date: 2026-08-09
-image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+image: "../images/when-will-china-block-its-open-weight-models.webp"
 tags:
   - technology-geopolitics
   - china

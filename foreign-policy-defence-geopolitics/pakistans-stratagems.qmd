@@ -3,7 +3,7 @@ title: "Pakistan's Stratagems"
 summary: "Pakistan operates as a rentier state distributing territorial and resource concessions to multiple benefactors simultaneously — but geopolitics has a fourth dimension: time, and tactical wins carry inherent temporal risks."
 categories: ["Foreign Policy & Geopolitics"]
 date: 2025-09-28
-image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+image: "../images/pakistans-stratagems.webp"
 tags:
   - geopolitics
   - pakistan

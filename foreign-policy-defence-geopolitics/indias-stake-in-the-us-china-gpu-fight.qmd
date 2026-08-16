@@ -3,7 +3,7 @@ title: "India's Stake in the US-China GPU Fight"
 summary: "India is a consumer-integrator in a five-layer AI stack. It benefits from Chinese open-source models but not Chinese hardware — a distinction the current American debate collapses."
 categories: ["Foreign Policy & Geopolitics"]
 date: 2026-05-03
-image: "../images/defaults/foreign-policy-defence-geopolitics.png"
+image: "../images/indias-stake-in-the-us-china-gpu-fight.webp"
 tags:
   - technology-geopolitics
   - india
