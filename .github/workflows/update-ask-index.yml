@@ -20,7 +20,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests numpy sentence-transformers
+        run: pip install requests numpy "sentence-transformers[onnx]"
 
       - name: Sync posts from Substack
         run: python scripts/sync-substack-db.py --full

@@ -5,4 +5,4 @@ requests
 pydantic
 pytest
 httpx
-sentence-transformers
+sentence-transformers[onnx]
