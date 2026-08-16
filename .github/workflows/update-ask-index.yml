@@ -20,14 +20,12 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests numpy
+        run: pip install requests numpy sentence-transformers
 
       - name: Sync posts from Substack
         run: python scripts/sync-substack-db.py --full
 
       - name: Rebuild ask index
-        env:
-          JINA_API_KEY: ${{ secrets.JINA_API_KEY }}
         run: |
           PYTHONPATH=. python scripts/build_ask_index.py \
             --db ~/.claude/data/substack-atu.db \

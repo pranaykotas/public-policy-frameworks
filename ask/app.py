@@ -64,8 +64,11 @@ def ask(payload: AskRequest, request: Request):
     if cached is not None:
         return cached
 
-    index = get_index()
-    query_vector = embed_texts([question])[0]
+    try:
+        index = get_index()
+        query_vector = embed_texts([question])[0]
+    except Exception:
+        return {"error": "embed_failed", "message": "Something went wrong — please try again in a moment."}
     matches = search(query_vector, index["vectors"], top_k=TOP_K, min_similarity=MIN_SIMILARITY)
 
     if not matches:
