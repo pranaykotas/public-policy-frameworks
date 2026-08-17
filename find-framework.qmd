@@ -1,14 +1,15 @@
 ---
 title: "Find a Framework"
-summary: "Describe a policy problem and get recommended frameworks."
+summary: "Describe a policy problem and get recommended frameworks, plus what we've written about it."
 page-layout: custom
+toc: false
 ---
 
 ::: {.finder-page}
 
 # Find a Framework
 
-Describe the policy problem you're trying to understand — e.g. "why infrastructure projects fail" or "how to think about India's labour policy" — and we'll recommend the most relevant frameworks.
+Describe the policy problem you're trying to understand — e.g. "why infrastructure projects fail" or "how to think about India's labour policy" — and we'll recommend the most relevant frameworks and show what we've written about the topic.
 
 ::: {.finder-input-row}
 <input type="text" id="finder-input" class="finder-input" placeholder="Type a policy problem, topic, or question…" />
@@ -25,6 +26,9 @@ Describe the policy problem you're trying to understand — e.g. "why infrastruc
 :::
 
 <div id="finder-results" class="finder-results-area"></div>
+
+<h3 id="ask-section-header" class="ask-section-header" style="display:none;">What we've written</h3>
+<div id="ask-results"></div>
 
 :::
 

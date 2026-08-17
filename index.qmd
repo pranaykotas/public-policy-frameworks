@@ -27,7 +27,7 @@ Curated and explained by [Pranay Kotasthane](https://pranaykotas.com).
 
 ## Find a framework
 
-Describe the policy problem you're thinking about and get the most relevant frameworks.
+Describe the policy problem you're thinking about. You'll get the most relevant frameworks and excerpts from what we've written about it.
 
 ::: {.finder-box}
 
@@ -46,13 +46,12 @@ Describe the policy problem you're thinking about and get the most relevant fram
 
 <div id="finder-results"></div>
 
+<h3 id="ask-section-header" class="ask-section-header" style="display:none;">What we've written</h3>
+<div id="ask-results"></div>
+
 :::
 
 <script src="scripts/finder.js"></script>
-
-::: {.ask-callout}
-**New: [Ask Our Views](ask.qmd)** --- Ask a policy question and see what Pranay and RSJ have actually written about it across 300+ editions of *Anticipating the Unintended*, grouped by author.
-:::
 
 ## Start here
 

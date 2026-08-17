@@ -33,8 +33,8 @@ website:
             href: society/index.qmd
           - text: "Universe"
             href: universe/index.qmd
-      - text: "Ask Our Views"
-        href: ask.qmd
+      - text: "Find"
+        href: find-framework.qmd
       - text: "About"
         href: about.qmd
     right:

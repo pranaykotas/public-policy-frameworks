@@ -346,7 +346,17 @@ blockquote {
   font-size: 0.95rem;
 }
 
-/* ── Ask Our Views ─────────────────────────────────────── */
+/* ── Ask Our Views (integrated into finder) ──────────── */
+
+.ask-section-header {
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: $ink-70;
+  border-bottom: 1px solid $ink-20;
+  padding-bottom: 0.4rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+}
 
 .ask-group {
   margin-bottom: 2rem;
