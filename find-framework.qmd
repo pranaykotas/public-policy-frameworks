@@ -31,6 +31,8 @@ Describe the policy problem you're trying to understand. You'll get the most rel
 
 ## What we've written {#ask-section-header .ask-major-section style="display:none;"}
 
+Relevant excerpts from five years of [Anticipating the Unintended](https://publicpolicy.substack.com), grouped by author.
+
 <div id="ask-results"></div>
 
 <script src="../scripts/finder.js?v=3"></script>
