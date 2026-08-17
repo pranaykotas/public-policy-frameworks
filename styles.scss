@@ -360,9 +360,11 @@ blockquote {
 
 .ask-major-section {
   margin-top: 2.5rem;
+}
+#ask-section-header {
   display: none;
 }
-.ask-major-section.ask-visible {
+#ask-section-header.ask-visible {
   display: block;
 }
 

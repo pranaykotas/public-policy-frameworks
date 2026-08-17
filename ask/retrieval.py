@@ -40,22 +40,43 @@ def search_diverse(
     query_vector: np.ndarray,
     vectors: np.ndarray,
     chunks: list[dict],
-    per_author: int = 5,
+    top_k: int = 10,
+    min_floor: int = 2,
+    max_per_author: int = 6,
     min_similarity: float = 0.25,
 ) -> list[tuple[int, float]]:
-    """Return top matches ensuring each author gets up to per_author results."""
+    """Return the top_k matches by relevance, but if an author with at least
+    one match above min_similarity would otherwise be shut out of the top_k
+    entirely, backfill up to min_floor of their best matches. Caps any single
+    author at max_per_author so one prolific/relevant author can't fill the
+    whole result set."""
     if vectors.shape[0] == 0:
         return []
     sims = vectors @ query_vector
     order = np.argsort(-sims)
+    order = [i for i in order if sims[i] >= min_similarity]
+
     author_counts: dict[str, int] = {}
-    results = []
+    results: list[tuple[int, float]] = []
     for i in order:
-        if sims[i] < min_similarity:
+        if len(results) >= top_k:
             break
         author = chunks[int(i)].get("author", "?")
-        if author_counts.get(author, 0) >= per_author:
+        if author_counts.get(author, 0) >= max_per_author:
             continue
         author_counts[author] = author_counts.get(author, 0) + 1
         results.append((int(i), float(sims[i])))
+
+    # Backfill: guarantee any author with relevant matches gets at least
+    # min_floor results, even if they were crowded out of the initial top_k.
+    for i in order:
+        author = chunks[int(i)].get("author", "?")
+        if author_counts.get(author, 0) >= min_floor:
+            continue
+        if any(idx == int(i) for idx, _ in results):
+            continue
+        author_counts[author] = author_counts.get(author, 0) + 1
+        results.append((int(i), float(sims[i])))
+
+    results.sort(key=lambda x: -x[1])
     return results

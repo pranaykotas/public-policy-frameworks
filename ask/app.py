@@ -69,7 +69,7 @@ def ask(payload: AskRequest, request: Request):
         query_vector = embed_texts([question])[0]
     except Exception:
         return {"error": "embed_failed", "message": "Something went wrong — please try again in a moment."}
-    matches = search_diverse(query_vector, index["vectors"], index["chunks"], per_author=TOP_K, min_similarity=MIN_SIMILARITY)
+    matches = search_diverse(query_vector, index["vectors"], index["chunks"], top_k=TOP_K, min_similarity=MIN_SIMILARITY)
 
     if not matches:
         result = {"groups": [], "message": "We haven't written directly about this yet."}
