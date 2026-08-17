@@ -29,7 +29,7 @@ Describe the policy problem you're trying to understand. You'll get the most rel
 
 :::
 
-## What we've written {#ask-section-header .ask-major-section style="display:none;"}
+## What we've written {#ask-section-header .ask-major-section}
 
 Relevant excerpts from five years of [Anticipating the Unintended](https://publicpolicy.substack.com), grouped by author.
 

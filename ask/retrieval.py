@@ -34,3 +34,28 @@ def group_by_author(chunks: list[dict], matches: list[tuple[int, float]]) -> dic
         chunk = {**chunks[idx], "score": score}
         groups.setdefault(chunk["author"], []).append(chunk)
     return groups
+
+
+def search_diverse(
+    query_vector: np.ndarray,
+    vectors: np.ndarray,
+    chunks: list[dict],
+    per_author: int = 5,
+    min_similarity: float = 0.25,
+) -> list[tuple[int, float]]:
+    """Return top matches ensuring each author gets up to per_author results."""
+    if vectors.shape[0] == 0:
+        return []
+    sims = vectors @ query_vector
+    order = np.argsort(-sims)
+    author_counts: dict[str, int] = {}
+    results = []
+    for i in order:
+        if sims[i] < min_similarity:
+            break
+        author = chunks[int(i)].get("author", "?")
+        if author_counts.get(author, 0) >= per_author:
+            continue
+        author_counts[author] = author_counts.get(author, 0) + 1
+        results.append((int(i), float(sims[i])))
+    return results

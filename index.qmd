@@ -48,7 +48,7 @@ Describe the policy problem you're thinking about. You'll get the most relevant 
 
 :::
 
-## What we've written {#ask-section-header .ask-major-section style="display:none;"}
+## What we've written {#ask-section-header .ask-major-section}
 
 Relevant excerpts from five years of [Anticipating the Unintended](https://publicpolicy.substack.com), grouped by author.
 

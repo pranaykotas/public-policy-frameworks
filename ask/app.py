@@ -10,7 +10,7 @@ from ask.cache import TTLCache
 from ask.embed import embed_texts
 from ask.llm import generate_connector
 from ask.ratelimit import RateLimiter
-from ask.retrieval import group_by_author, load_index, search
+from ask.retrieval import group_by_author, load_index, search_diverse
 
 CHUNKS_PATH = os.environ.get("ASK_CHUNKS_PATH", "ask/data/chunks.json")
 VECTORS_PATH = os.environ.get("ASK_VECTORS_PATH", "ask/data/vectors.npy")
@@ -69,7 +69,7 @@ def ask(payload: AskRequest, request: Request):
         query_vector = embed_texts([question])[0]
     except Exception:
         return {"error": "embed_failed", "message": "Something went wrong — please try again in a moment."}
-    matches = search(query_vector, index["vectors"], top_k=TOP_K, min_similarity=MIN_SIMILARITY)
+    matches = search_diverse(query_vector, index["vectors"], index["chunks"], per_author=TOP_K, min_similarity=MIN_SIMILARITY)
 
     if not matches:
         result = {"groups": [], "message": "We haven't written directly about this yet."}

@@ -165,7 +165,7 @@
     if (!container) return;
 
     var sectionHeader = document.getElementById('ask-section-header');
-    if (sectionHeader) sectionHeader.style.display = '';
+    if (sectionHeader) sectionHeader.classList.add('ask-visible');
 
     container.innerHTML = '<p class="ask-loading">Searching five years of newsletter archives…</p>';
 
@@ -194,7 +194,7 @@
       var sh = document.getElementById('ask-section-header');
       if (fr) fr.innerHTML = '';
       if (ar) ar.innerHTML = '';
-      if (sh) sh.style.display = 'none';
+      if (sh) sh.classList.remove('ask-visible');
       return;
     }
 

@@ -360,6 +360,10 @@ blockquote {
 
 .ask-major-section {
   margin-top: 2.5rem;
+  display: none;
+}
+.ask-major-section.ask-visible {
+  display: block;
 }
 
 @keyframes ask-pulse {
