@@ -17,7 +17,7 @@ listing:
 
 ::: {.hero}
 ::: {.tagline}
-A growing collection of mental models for thinking about policy, drawn from books, papers, and 300+ editions of *Anticipating the Unintended*. Frameworks-based thinking helps make sense of complex policy problems and what can be done about them.
+A growing collection of mental models for thinking about policy, drawn from books, papers, and 300+ editions of *Anticipating the Unintended*. Search for a topic to find relevant frameworks and what we've written about it.
 :::
 
 ::: {.sub-tagline}
