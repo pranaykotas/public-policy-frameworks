@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 import sqlite3
 
 import numpy as np
@@ -11,6 +12,20 @@ from ask.embed import embed_texts
 
 MAX_CHUNK_WORDS = 400
 OVERLAP_WORDS = 50
+
+# RSJ's first co-signed edition. Editions numbered before this were written
+# solo by Pranay, so unsigned early posts default to "Pranay" rather than
+# the ambiguous "Joint".
+RSJ_JOINED_AT_EDITION = 21
+
+_EDITION_NUM = re.compile(r"^#(\d+)[:\s]")
+
+
+def _default_author_for(title: str) -> str:
+    m = _EDITION_NUM.match(title)
+    if m and int(m.group(1)) < RSJ_JOINED_AT_EDITION:
+        return "Pranay"
+    return "Joint"
 
 
 def _sub_chunk(text: str) -> list[str]:
@@ -53,7 +68,8 @@ def chunks_from_db(db_path: str) -> list[dict]:
 
     chunks: list[dict] = []
     for title, date, url, body_text in rows:
-        for i, section in enumerate(split_sections(body_text)):
+        default_author = _default_author_for(title)
+        for i, section in enumerate(split_sections(body_text, post_title=title, default_author=default_author)):
             header_prefix = f"{section['header']}: {section['title']}"
             sub_texts = _sub_chunk(section["text"])
 

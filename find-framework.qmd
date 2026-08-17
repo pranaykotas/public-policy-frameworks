@@ -9,7 +9,7 @@ toc: false
 
 # Find a Framework
 
-Describe the policy problem you're trying to understand. You'll get the most relevant frameworks instantly. Excerpts from five years of our newsletter will follow — they take a few seconds to load.
+Describe the policy problem you're trying to understand. You'll get the most relevant frameworks instantly. Excerpts from six years of our newsletter will follow — they take a few seconds to load.
 
 ::: {.finder-input-row}
 <input type="text" id="finder-input" class="finder-input" placeholder="Type a policy problem, topic, or question…" />
@@ -31,7 +31,7 @@ Describe the policy problem you're trying to understand. You'll get the most rel
 
 ## What we've written {#ask-section-header .ask-major-section}
 
-Relevant excerpts from five years of [Anticipating the Unintended](https://publicpolicy.substack.com), grouped by author.
+Relevant excerpts from six years of [Anticipating the Unintended](https://publicpolicy.substack.com), grouped by author.
 
 <div id="ask-results"></div>
 

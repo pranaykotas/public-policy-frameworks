@@ -16,7 +16,7 @@ If a framework here is useful to you, please go to the original source.
 
 ## How it relates to *Anticipating the Unintended*
 
-This is a companion site to [publicpolicy.substack.com](https://publicpolicy.substack.com), the newsletter I co-write with RSJ. For 300+ editions, the newsletter has carried a recurring feature called *A Framework a Week*, short essays explaining one framework at a time. The pages on this site are condensed, structured versions of those essays, organised by category and made browsable.
+This is a companion site to [publicpolicy.substack.com](https://publicpolicy.substack.com), the newsletter I co-write with RSJ. For 350+ editions, the newsletter has carried a recurring feature called *A Framework a Week*, short essays explaining one framework at a time. The pages on this site are condensed, structured versions of those essays, organised by category and made browsable.
 
 When a card draws on a co-authored newsletter post, the co-author is acknowledged at the bottom of that page.
 

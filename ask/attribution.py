@@ -78,13 +78,20 @@ def classify_signature(sig_text: str) -> str | None:
     return None
 
 
-def split_sections(body_text: str) -> list[dict]:
+def split_sections(body_text: str, post_title: str = "", default_author: str = "Joint") -> list[dict]:
     """Split a post body into ATU sections, tagging each with its author.
 
     Any Title Case header followed by a colon and title is treated as a
     section boundary. CTA/noise headers are skipped. Sections signed by
     someone other than Pranay or RSJ are dropped, as are sections under the
     minimum length.
+
+    Early editions (roughly #1-123) predate the recurring section-header
+    format and read as a single free-flowing essay. When no known header is
+    found anywhere in the post, the whole body is treated as one section: if
+    a signature line appears anywhere, it decides the author; otherwise
+    default_author is used (the caller should pass "Pranay" for editions
+    before RSJ joined, "Joint" otherwise).
     """
     matches = list(SECTION_HEADER_PATTERN.finditer(body_text))
     boundaries = list(BOUNDARY_PATTERN.finditer(body_text))
@@ -120,4 +127,25 @@ def split_sections(body_text: str) -> list[dict]:
                 "text": section_text,
             }
         )
-    return sections
+
+    if matches:
+        return sections
+
+    # Fallback: no known section headers anywhere in this post.
+    whole_text = body_text.strip()
+    if len(whole_text) < MIN_SECTION_LENGTH:
+        return []
+
+    sig_match = SIGNATURE_PATTERN.search(whole_text)
+    author = classify_signature(sig_match.group(1)) if sig_match else None
+    if author is None:
+        author = default_author
+
+    return [
+        {
+            "header": "Full Edition",
+            "title": post_title,
+            "author": author,
+            "text": whole_text,
+        }
+    ]

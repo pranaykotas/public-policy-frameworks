@@ -10,7 +10,7 @@ project:
 
 website:
   title: "Frameworks for Public Policy"
-  description: "Search for a topic to find relevant frameworks and what we've written about it. A growing collection of mental models for thinking about policy, drawn from 300+ editions of Anticipating the Unintended."
+  description: "Search for a topic to find relevant frameworks and what we've written about it. A growing collection of mental models for thinking about policy, drawn from 350+ editions of Anticipating the Unintended."
   site-url: https://frameworks.pranaykotas.com
   favicon: favicon.png
   search:

@@ -17,7 +17,7 @@ listing:
 
 ::: {.hero}
 ::: {.tagline}
-A growing collection of mental models for thinking about policy, drawn from books, papers, and 300+ editions of *Anticipating the Unintended*. Search for a topic to find relevant frameworks and what we've written about it.
+A growing collection of mental models for thinking about policy, drawn from books, papers, and 350+ editions of *Anticipating the Unintended*. Search for a topic to find relevant frameworks and what we've written about it.
 :::
 
 ::: {.sub-tagline}
@@ -27,7 +27,7 @@ Curated and explained by [Pranay Kotasthane](https://pranaykotas.com).
 
 ## Find a framework
 
-Describe the policy problem you're thinking about. You'll get the most relevant frameworks instantly. Excerpts from five years of our newsletter will follow — they take a few seconds to load.
+Describe the policy problem you're thinking about. You'll get the most relevant frameworks instantly. Excerpts from six years of our newsletter will follow — they take a few seconds to load.
 
 ::: {.finder-box}
 
@@ -50,7 +50,7 @@ Describe the policy problem you're thinking about. You'll get the most relevant 
 
 ## What we've written {#ask-section-header .ask-major-section}
 
-Relevant excerpts from five years of [Anticipating the Unintended](https://publicpolicy.substack.com), grouped by author.
+Relevant excerpts from six years of [Anticipating the Unintended](https://publicpolicy.substack.com), grouped by author.
 
 <div id="ask-results"></div>
 
