@@ -27,7 +27,7 @@ Curated and explained by [Pranay Kotasthane](https://pranaykotas.com).
 
 ## Find a framework
 
-Describe the policy problem you're thinking about. You'll get the most relevant frameworks and excerpts from what we've written about it.
+Describe the policy problem you're thinking about. You'll get the most relevant frameworks instantly. Excerpts from five years of our newsletter will follow — they take a few seconds to load.
 
 ::: {.finder-box}
 
@@ -46,12 +46,13 @@ Describe the policy problem you're thinking about. You'll get the most relevant 
 
 <div id="finder-results"></div>
 
-<h3 id="ask-section-header" class="ask-section-header" style="display:none;">What we've written</h3>
-<div id="ask-results"></div>
-
 :::
 
-<script src="scripts/finder.js"></script>
+## What we've written {#ask-section-header .ask-major-section style="display:none;"}
+
+<div id="ask-results"></div>
+
+<script src="scripts/finder.js?v=3"></script>
 
 ## Start here
 
