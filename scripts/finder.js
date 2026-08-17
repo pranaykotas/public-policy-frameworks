@@ -165,9 +165,9 @@
     if (!container) return;
 
     var sectionHeader = document.getElementById('ask-section-header');
-    if (sectionHeader) sectionHeader.style.display = 'block';
+    if (sectionHeader) sectionHeader.style.display = '';
 
-    container.innerHTML = '<p class="finder-no-results">Searching five years of newsletter archives…</p>';
+    container.innerHTML = '<p class="ask-loading">Searching five years of newsletter archives…</p>';
 
     fetch(API_BASE + '/ask', {
       method: 'POST',

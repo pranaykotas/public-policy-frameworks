@@ -358,6 +358,17 @@ blockquote {
   margin-bottom: 1.25rem;
 }
 
+@keyframes ask-pulse {
+  0%, 100% { opacity: 0.5; }
+  50% { opacity: 1; }
+}
+
+.ask-loading {
+  color: $ink-50;
+  font-style: normal;
+  animation: ask-pulse 1.5s ease-in-out infinite;
+}
+
 .ask-group {
   margin-bottom: 2rem;
   padding-bottom: 1.5rem;
